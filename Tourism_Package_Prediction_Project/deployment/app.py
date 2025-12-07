@@ -88,6 +88,8 @@ input_data = pd.DataFrame([{
 # use row index as ID
 input_data["CustomerID"] = range(1, len(input_data) + 1)
 
+input_data["Unnamed: 0"] = 0
+
 # Display input summary
 with st.expander("📋 Input Summary"):
     st.dataframe(input_data, use_container_width=True)
