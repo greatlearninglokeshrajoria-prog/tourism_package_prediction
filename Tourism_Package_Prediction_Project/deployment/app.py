@@ -1,134 +1,77 @@
 import streamlit as st
 import pandas as pd
-from huggingface_hub import hf_hub_download
 import joblib
+from huggingface_hub import hf_hub_download
+import os
 
-# Download and load the trained model
+
+st.set_page_config(page_title='Tourism Package Prediction', layout='wide')
+
+
 @st.cache_resource
 def load_model():
-    try:
-        model_path = hf_hub_download(
-            repo_id="greatlearninglokeshrajoria/tourism-package-prediction",
-            filename="tourism_pkg_predition_model_v1.joblib"
-        )
-        model = joblib.load(model_path)
-        return model
-    except Exception as e:
-        st.error(f"Error loading model: {e}")
-        return None
+  # Either load from local file or HF model repo
+  model_local = os.getenv('LOCAL_MODEL_PATH', 'Tourism_Package_Prediction_Project/model_building/tourism_model_xgb_v1.joblib')
+  if os.path.exists(model_local):
+     return joblib.load(model_local)
+
+
+  hf_repo = os.getenv('HF_MODEL_REPO')
+  if hf_repo:
+     filename = os.getenv('HF_MODEL_FILENAME', 'tourism_model_xgb_v1.joblib')
+     model_file = hf_hub_download(repo_id=hf_repo, filename=filename, repo_type='model')
+     return joblib.load(model_file)
+
+
+  st.error('Model not found. Set LOCAL_MODEL_PATH or HF_MODEL_REPO environment variable.') 
+  return None
+
 
 model = load_model()
 
-# Streamlit UI
-st.title("Tourism Package Prediction")
-st.markdown("""
-This application predicts whether a customer will purchase a **tourism package**
-from a leading travel company based on their profile and interaction details.
-Enter the customer details below to get a purchase prediction.
-""")
 
-# Sidebar for inputs
-st.sidebar.header("Customer Profile")
-col1, col2 = st.columns(2)
+st.title('Tourism Package Purchase Predictor')
 
-with col1:
-    age = st.number_input("Age", min_value=18, max_value=70, value=33)
-    city_tier = st.selectbox("City Tier", ["1", "2", "3"], index=0)
-    duration_of_pitch = st.number_input("Duration of Pitch (minutes)", min_value=1, max_value=60, value=15)
 
-with col2:
-    num_person_visiting = st.number_input("Number of Persons Visiting", min_value=1, max_value=5, value=2)
-    num_followups = st.number_input("Number of Follow-ups", min_value=0, max_value=10, value=3)
-    num_trips = st.number_input("Number of Previous Trips", min_value=0, max_value=20, value=2)
+with st.form('input_form'):
+   col1, col2 = st.columns(2)
+   with col1:
+      Age = st.number_input('Age', min_value=18, max_value=100, value=33)
+      TypeofContact = st.selectbox('TypeofContact', ['Self', 'Company'])
+      Occupation = st.selectbox('Occupation', ['Salaried', 'Business', 'Retired', 'Student'])
+      ProductPitched = st.selectbox('ProductPitched', ['Basic', 'Standard', 'Deluxe', 'King', 'Premium'])
+      MaritalStatus = st.selectbox('MaritalStatus', ['Single', 'Married', 'Divorced', 'Widowed'])
+   with col2:
+      Designation = st.selectbox('Designation', ['Executive', 'Manager', 'Senior Manager', 'Director', 'Others'])
+      Gender = st.selectbox('Gender', ['Male', 'Female'])
+      MonthlyIncome = st.number_input('MonthlyIncome', min_value=0, value=25000)
+      PitchSatisfactionScore = st.slider('PitchSatisfactionScore', 0, 10, 7)
 
-# Contact and Occupation
-type_of_contact = st.selectbox("Type of Contact", ["Self Enquiry", "Company Invited"])
-occupation = st.selectbox("Occupation", ["Salaried", "Small Business", "Large Business"])
 
-# Demographics
-gender = st.selectbox("Gender", ["Male", "Female"])
-marital_status = st.selectbox("Marital Status", ["Single", "Married", "Divorced"])
-own_car = st.selectbox("Owns Car", ["No", "Yes"])
-passport = st.selectbox("Has Passport", ["No", "Yes"])
+   submitted = st.form_submit_button('Predict')
 
-# Product and Preferences
-product_pitched = st.selectbox("Product Pitched", ["Basic", "Standard", "Deluxe", "King", "Super Deluxe"])
-preferred_property_star = st.selectbox("Preferred Property Star Rating", [1, 2, 3, 4, 5], index=3)
-pitch_satisfaction_score = st.selectbox("Pitch Satisfaction Score", [1, 2, 3, 4, 5], index=3)
-num_children_visiting = st.number_input("Number of Children Visiting", min_value=0, max_value=5, value=1)
 
-# Professional Details
-designation = st.selectbox("Designation", [
-    "Executive", "Manager", "Senior Manager", "AVP", "VP"
-])
-monthly_income = st.number_input("Monthly Income", min_value=10000, max_value=500000, value=25000)
+if submitted:
+   if model is None:
+      st.error('Model not loaded')
+   else:
+      df = pd.DataFrame([{ # keep keys matching training columns
+           'Age': Age,
+           'TypeofContact': TypeofContact,
+           'Occupation': Occupation,
+           'ProductPitched': ProductPitched,
+           'MaritalStatus': MaritalStatus,
+           'Designation': Designation,
+           'Gender': Gender,
+           'MonthlyIncome': MonthlyIncome,
+           'PitchSatisfactionScore': PitchSatisfactionScore
+       }])
 
-# Assemble input data matching training features
-input_data = pd.DataFrame([{
-    'Age': int(age),
-    'TypeofContact': type_of_contact,
-    'CityTier': int(city_tier),
-    'DurationOfPitch': int(duration_of_pitch),
-    'Occupation': occupation,
-    'Gender': gender,
-    'NumberOfPersonVisiting': int(num_person_visiting),
-    'NumberOfFollowups': int(num_followups),
-    'ProductPitched': product_pitched,
-    'PreferredPropertyStar': int(preferred_property_star),
-    'MaritalStatus': marital_status,
-    'NumberOfTrips': int(num_trips),
-    'Passport': int(1 if passport == "Yes" else 0),
-    'PitchSatisfactionScore': int(pitch_satisfaction_score),
-    'OwnCar': int(1 if own_car == "Yes" else 0),
-    'NumberOfChildrenVisiting': int(num_children_visiting),
-    'Designation': designation,
-    'MonthlyIncome': int(monthly_income)
-}])
 
-# use row index as ID
-input_data["CustomerID"] = range(1, len(input_data) + 1)
-
-input_data["Unnamed: 0"] = 0
-
-# Display input summary
-with st.expander("📋 Input Summary"):
-    st.dataframe(input_data, use_container_width=True)
-
-# Predict button
-if st.button("🔮 Predict Package Purchase", type="primary", use_container_width=True):
-    if model is not None:
-        try:
-            prediction = model.predict(input_data)[0]
-            probability = model.predict_proba(input_data)[0]
-
-            st.subheader("🎯 Prediction Result")
-            if prediction == 1:
-                st.success("✅ **Customer WILL purchase the tourism package!**")
-            else:
-                st.warning("❌ **Customer is unlikely to purchase**")
-
-            col1, col2, col3 = st.columns(3)
-            with col1:
-                st.metric("Purchase Probability", f"{probability[1]*100:.1f}%")
-            with col2:
-                st.metric("Prediction", "Yes" if prediction == 1 else "No")
-            with col3:
-                st.metric("Confidence", f"{max(probability)*100:.1f}%")
-
-        except Exception as e:
-            st.error(f"Prediction error: {e}")
-    else:
-        st.error("Model could not be loaded. Please check the repository.")
-
-# Instructions
-with st.expander("ℹ️ How to use"):
-    st.markdown("""
-    1. Fill all customer details accurately
-    2. **CityTier**: 1=Metro, 2=City, 3=Tier-3
-    3. **ProductPitched**: Package type offered
-    4. Click **Predict** to get results
-    5. Higher purchase probability (>60%) indicates strong conversion potential
-    """)
-
-st.markdown("---")
-st.markdown("*Built with tourism.csv dataset for package purchase prediction* [file:37]")
+       try:
+          proba = model.predict_proba(df)[0, 1]
+          pred = model.predict(df)[0]
+          st.metric('Purchase probability', f'{proba*100:.2f}%')
+          st.success('Will buy package' if pred == 1 else 'Will NOT buy package')
+       except Exception as e:
+          st.error(f'Prediction error: {e}')
