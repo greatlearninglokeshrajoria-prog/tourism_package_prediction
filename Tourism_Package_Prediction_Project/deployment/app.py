@@ -85,6 +85,8 @@ input_data = pd.DataFrame([{
     'MonthlyIncome': int(monthly_income)
 }])
 
+# use row index as ID
+input_data["CustomerID"] = range(1, len(input_data) + 1)
 
 # Display input summary
 with st.expander("📋 Input Summary"):
