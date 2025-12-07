@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/8dbc01bb656f476598f4372e49492cae/artifacts
+end_time: 1765091164705
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 8dbc01bb656f476598f4372e49492cae
+run_name: overjoyed-goose-660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091164664
+status: 3
+tags: []
+user_id: root

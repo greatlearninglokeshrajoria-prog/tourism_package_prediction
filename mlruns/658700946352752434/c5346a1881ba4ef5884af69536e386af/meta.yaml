@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/c5346a1881ba4ef5884af69536e386af/artifacts
+end_time: 1765091152863
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: c5346a1881ba4ef5884af69536e386af
+run_name: rare-owl-580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091152803
+status: 3
+tags: []
+user_id: root

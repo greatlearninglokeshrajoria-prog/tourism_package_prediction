@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/9c72db0800114cc5b2ef028c228c338c/artifacts
+end_time: 1765091153788
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 9c72db0800114cc5b2ef028c228c338c
+run_name: indecisive-bat-540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091153728
+status: 3
+tags: []
+user_id: root

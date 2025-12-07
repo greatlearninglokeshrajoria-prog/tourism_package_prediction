@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/6cb8ff38acef464d8233bc28c74e9285/artifacts
+end_time: 1765091178123
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 6cb8ff38acef464d8233bc28c74e9285
+run_name: respected-quail-619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091178051
+status: 3
+tags: []
+user_id: root

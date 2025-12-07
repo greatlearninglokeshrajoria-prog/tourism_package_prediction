@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/21003710d9894a4a87ce8cf1f0e8887f/artifacts
+end_time: 1765091153959
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 21003710d9894a4a87ce8cf1f0e8887f
+run_name: charming-chimp-347
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091153897
+status: 3
+tags: []
+user_id: root

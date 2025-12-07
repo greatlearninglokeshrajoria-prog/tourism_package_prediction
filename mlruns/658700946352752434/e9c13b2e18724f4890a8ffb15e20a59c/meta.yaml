@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/e9c13b2e18724f4890a8ffb15e20a59c/artifacts
+end_time: 1765091184684
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: e9c13b2e18724f4890a8ffb15e20a59c
+run_name: vaunted-colt-813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091184611
+status: 3
+tags: []
+user_id: root

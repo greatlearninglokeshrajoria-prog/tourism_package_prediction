@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/7585add56b5849c28d23a06f8e0f58d0/artifacts
+end_time: 1765091182069
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 7585add56b5849c28d23a06f8e0f58d0
+run_name: crawling-gnat-373
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091181995
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/e932036ca67a413cad36b9e04f8caa1a/artifacts
+end_time: 1765091190881
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: e932036ca67a413cad36b9e04f8caa1a
+run_name: dazzling-stag-846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091190802
+status: 3
+tags: []
+user_id: root

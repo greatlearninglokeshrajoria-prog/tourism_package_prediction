@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/10c2632c4e6a40c1a8c6349f0f2ccb80/artifacts
+end_time: 1765091168188
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 10c2632c4e6a40c1a8c6349f0f2ccb80
+run_name: legendary-wolf-421
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091168142
+status: 3
+tags: []
+user_id: root

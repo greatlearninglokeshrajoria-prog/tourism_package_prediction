@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/c472759c304442cba519cddb225d8bdb/artifacts
+end_time: 1765091139582
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: c472759c304442cba519cddb225d8bdb
+run_name: able-conch-59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091139545
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/0917541546f940d0933e59cbe21649fc/artifacts
+end_time: 1765091189665
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 0917541546f940d0933e59cbe21649fc
+run_name: bittersweet-bass-604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091189588
+status: 3
+tags: []
+user_id: root

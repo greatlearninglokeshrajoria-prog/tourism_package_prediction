@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/5f2fd4733b5841419c2a4d3b7c97c872/artifacts
+end_time: 1765091178317
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 5f2fd4733b5841419c2a4d3b7c97c872
+run_name: orderly-mule-696
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091178243
+status: 3
+tags: []
+user_id: root

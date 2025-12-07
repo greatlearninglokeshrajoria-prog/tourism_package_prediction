@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/2fa3dcdd885a473e9932218213b69091/artifacts
+end_time: 1765090528262
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 2fa3dcdd885a473e9932218213b69091
+run_name: casual-goose-923
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765090524955
+status: 3
+tags: []
+user_id: root

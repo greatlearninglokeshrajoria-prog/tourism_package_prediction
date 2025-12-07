@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/fa85da23933a4cd6965e498b165d906b/artifacts
+end_time: 1765089768624
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: fa85da23933a4cd6965e498b165d906b
+run_name: kindly-snake-903
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765089766094
+status: 3
+tags: []
+user_id: root

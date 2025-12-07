@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/5c65cf389e0649fea756130f7d2fdb4c/artifacts
+end_time: 1765091149081
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 5c65cf389e0649fea756130f7d2fdb4c
+run_name: judicious-sponge-921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091149019
+status: 3
+tags: []
+user_id: root

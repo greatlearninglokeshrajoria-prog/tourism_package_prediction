@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/afbb347cf30a4f899f49eb29ef73986e/artifacts
+end_time: 1765091169428
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: afbb347cf30a4f899f49eb29ef73986e
+run_name: amazing-bass-784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091169384
+status: 3
+tags: []
+user_id: root

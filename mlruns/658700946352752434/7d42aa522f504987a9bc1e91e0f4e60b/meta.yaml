@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/7d42aa522f504987a9bc1e91e0f4e60b/artifacts
+end_time: 1765091173308
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 7d42aa522f504987a9bc1e91e0f4e60b
+run_name: classy-perch-967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091173241
+status: 3
+tags: []
+user_id: root

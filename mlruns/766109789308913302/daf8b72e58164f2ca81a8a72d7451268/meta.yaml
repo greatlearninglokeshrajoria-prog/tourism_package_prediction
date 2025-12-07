@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/daf8b72e58164f2ca81a8a72d7451268/artifacts
+end_time: 1765090523645
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: daf8b72e58164f2ca81a8a72d7451268
+run_name: bemused-hound-755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765090520364
+status: 3
+tags: []
+user_id: root

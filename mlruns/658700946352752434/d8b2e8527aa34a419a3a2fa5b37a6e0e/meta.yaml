@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/d8b2e8527aa34a419a3a2fa5b37a6e0e/artifacts
+end_time: 1765091142923
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: d8b2e8527aa34a419a3a2fa5b37a6e0e
+run_name: skillful-perch-962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091142885
+status: 3
+tags: []
+user_id: root

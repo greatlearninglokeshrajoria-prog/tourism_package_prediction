@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/9625b3d0a91740cdbdad19b990f6eb1a/artifacts
+end_time: 1765091194609
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 9625b3d0a91740cdbdad19b990f6eb1a
+run_name: caring-ram-966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091194533
+status: 3
+tags: []
+user_id: root

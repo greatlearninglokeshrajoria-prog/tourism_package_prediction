@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/4dcae62425ed4bdaae17a6d88d012f7a/artifacts
+end_time: 1765091183474
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 4dcae62425ed4bdaae17a6d88d012f7a
+run_name: luminous-auk-328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091183402
+status: 3
+tags: []
+user_id: root

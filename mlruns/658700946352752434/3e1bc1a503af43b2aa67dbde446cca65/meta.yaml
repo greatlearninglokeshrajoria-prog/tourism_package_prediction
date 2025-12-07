@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/3e1bc1a503af43b2aa67dbde446cca65/artifacts
+end_time: 1765091142467
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 3e1bc1a503af43b2aa67dbde446cca65
+run_name: polite-kit-694
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091142418
+status: 3
+tags: []
+user_id: root

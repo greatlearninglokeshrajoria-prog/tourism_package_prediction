@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/46a19d6ad9b049f4b610246c1333adcf/artifacts
+end_time: 1765089704136
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 46a19d6ad9b049f4b610246c1333adcf
+run_name: handsome-shrimp-684
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765089701650
+status: 3
+tags: []
+user_id: root

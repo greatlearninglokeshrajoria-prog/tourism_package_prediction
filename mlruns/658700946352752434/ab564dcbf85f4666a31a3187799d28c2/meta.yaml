@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/ab564dcbf85f4666a31a3187799d28c2/artifacts
+end_time: 1765091169778
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: ab564dcbf85f4666a31a3187799d28c2
+run_name: funny-calf-514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091169736
+status: 3
+tags: []
+user_id: root

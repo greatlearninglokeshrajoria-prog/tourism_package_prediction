@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/de4769ffb49a4539ba2dc3a3b8a6d7db/artifacts
+end_time: 1765091142353
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: de4769ffb49a4539ba2dc3a3b8a6d7db
+run_name: indecisive-calf-104
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091142316
+status: 3
+tags: []
+user_id: root

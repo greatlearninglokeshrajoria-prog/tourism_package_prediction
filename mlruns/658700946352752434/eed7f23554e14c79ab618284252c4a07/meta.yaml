@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/eed7f23554e14c79ab618284252c4a07/artifacts
+end_time: 1765091188505
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: eed7f23554e14c79ab618284252c4a07
+run_name: rebellious-steed-428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091188418
+status: 3
+tags: []
+user_id: root

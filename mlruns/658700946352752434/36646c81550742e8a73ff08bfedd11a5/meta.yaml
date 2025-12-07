@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/36646c81550742e8a73ff08bfedd11a5/artifacts
+end_time: 1765091164483
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 36646c81550742e8a73ff08bfedd11a5
+run_name: crawling-conch-680
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091164441
+status: 3
+tags: []
+user_id: root

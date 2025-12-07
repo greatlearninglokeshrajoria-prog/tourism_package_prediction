@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/b05081af6fb84fff8623a105d03b01a1/artifacts
+end_time: 1765091152446
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: b05081af6fb84fff8623a105d03b01a1
+run_name: kindly-crab-457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091152388
+status: 3
+tags: []
+user_id: root

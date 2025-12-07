@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a4c745176f4844a6a2ec3f3a425ac6eb/artifacts
+end_time: 1765091147665
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a4c745176f4844a6a2ec3f3a425ac6eb
+run_name: angry-lamb-417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091147607
+status: 3
+tags: []
+user_id: root

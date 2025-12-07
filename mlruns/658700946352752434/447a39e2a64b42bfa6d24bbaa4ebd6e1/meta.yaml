@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/447a39e2a64b42bfa6d24bbaa4ebd6e1/artifacts
+end_time: 1765091195975
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 447a39e2a64b42bfa6d24bbaa4ebd6e1
+run_name: traveling-auk-789
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091195900
+status: 3
+tags: []
+user_id: root

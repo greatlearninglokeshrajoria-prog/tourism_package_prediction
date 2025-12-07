@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/2fc00daa45a34a64936cdbd8a2bad665/artifacts
+end_time: 1765091174866
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 2fc00daa45a34a64936cdbd8a2bad665
+run_name: brawny-fawn-361
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091174797
+status: 3
+tags: []
+user_id: root

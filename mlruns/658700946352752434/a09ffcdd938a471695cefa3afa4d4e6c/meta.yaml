@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a09ffcdd938a471695cefa3afa4d4e6c/artifacts
+end_time: 1765091140324
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a09ffcdd938a471695cefa3afa4d4e6c
+run_name: capable-gnat-931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091140290
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/1effdd9ad21c44f7aff44831124d8fe9/artifacts
+end_time: 1765090546705
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 1effdd9ad21c44f7aff44831124d8fe9
+run_name: intelligent-newt-497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765090543427
+status: 3
+tags: []
+user_id: root

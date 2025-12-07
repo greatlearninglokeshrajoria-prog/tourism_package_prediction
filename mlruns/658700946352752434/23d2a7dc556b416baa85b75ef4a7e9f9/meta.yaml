@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/23d2a7dc556b416baa85b75ef4a7e9f9/artifacts
+end_time: 1765091168017
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 23d2a7dc556b416baa85b75ef4a7e9f9
+run_name: welcoming-turtle-415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091167972
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/59a51dc0924a4959902f9a670ad82999/artifacts
+end_time: 1765091194289
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 59a51dc0924a4959902f9a670ad82999
+run_name: judicious-lynx-180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091194212
+status: 3
+tags: []
+user_id: root

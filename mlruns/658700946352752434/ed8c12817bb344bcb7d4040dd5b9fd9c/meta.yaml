@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/ed8c12817bb344bcb7d4040dd5b9fd9c/artifacts
+end_time: 1765091187970
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: ed8c12817bb344bcb7d4040dd5b9fd9c
+run_name: awesome-rat-622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091187896
+status: 3
+tags: []
+user_id: root

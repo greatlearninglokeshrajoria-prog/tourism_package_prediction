@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/003560d8d3f44863839c23ac86f51353/artifacts
+end_time: 1765091180175
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 003560d8d3f44863839c23ac86f51353
+run_name: classy-stag-980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091180100
+status: 3
+tags: []
+user_id: root

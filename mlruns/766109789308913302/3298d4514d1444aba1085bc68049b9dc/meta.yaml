@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/3298d4514d1444aba1085bc68049b9dc/artifacts
+end_time: 1765090662797
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 3298d4514d1444aba1085bc68049b9dc
+run_name: nosy-bird-353
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765090659530
+status: 3
+tags: []
+user_id: root

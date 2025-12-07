@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/cbd38187c4704dd8a73a17e2d584762c/artifacts
+end_time: 1765091157589
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: cbd38187c4704dd8a73a17e2d584762c
+run_name: thoughtful-panda-545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091157528
+status: 3
+tags: []
+user_id: root

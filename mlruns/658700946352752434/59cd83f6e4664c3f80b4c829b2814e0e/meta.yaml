@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/59cd83f6e4664c3f80b4c829b2814e0e/artifacts
+end_time: 1765091159127
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 59cd83f6e4664c3f80b4c829b2814e0e
+run_name: burly-kite-700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091159066
+status: 3
+tags: []
+user_id: root

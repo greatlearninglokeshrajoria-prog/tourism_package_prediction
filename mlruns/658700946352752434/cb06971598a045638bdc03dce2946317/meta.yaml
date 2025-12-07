@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/cb06971598a045638bdc03dce2946317/artifacts
+end_time: 1765091187549
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: cb06971598a045638bdc03dce2946317
+run_name: delightful-wren-65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091187452
+status: 3
+tags: []
+user_id: root

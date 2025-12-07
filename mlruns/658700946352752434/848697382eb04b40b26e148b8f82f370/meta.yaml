@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/848697382eb04b40b26e148b8f82f370/artifacts
+end_time: 1765091180886
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 848697382eb04b40b26e148b8f82f370
+run_name: sincere-ray-595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091180812
+status: 3
+tags: []
+user_id: root

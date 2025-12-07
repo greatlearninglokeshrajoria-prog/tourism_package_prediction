@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/76cdf490c6e64067bcce48d7177afe96/artifacts
+end_time: 1765091195341
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 76cdf490c6e64067bcce48d7177afe96
+run_name: bold-shark-582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091195266
+status: 3
+tags: []
+user_id: root

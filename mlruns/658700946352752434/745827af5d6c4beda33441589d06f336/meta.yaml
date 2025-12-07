@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/745827af5d6c4beda33441589d06f336/artifacts
+end_time: 1765091145758
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 745827af5d6c4beda33441589d06f336
+run_name: blushing-crow-835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091145705
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/9d8e164200074fae888f192b2254d2ea/artifacts
+end_time: 1765091159755
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 9d8e164200074fae888f192b2254d2ea
+run_name: luminous-swan-6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091159693
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/3f7d77f497644dd1a1683cf885e60fb6/artifacts
+end_time: 1765089750735
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 3f7d77f497644dd1a1683cf885e60fb6
+run_name: casual-shark-94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765089748150
+status: 3
+tags: []
+user_id: root

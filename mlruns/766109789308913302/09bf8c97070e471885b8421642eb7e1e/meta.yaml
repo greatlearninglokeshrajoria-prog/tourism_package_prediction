@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/09bf8c97070e471885b8421642eb7e1e/artifacts
+end_time: 1765090588501
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 09bf8c97070e471885b8421642eb7e1e
+run_name: handsome-snail-456
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765090585205
+status: 3
+tags: []
+user_id: root

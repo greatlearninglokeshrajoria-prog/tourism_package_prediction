@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/ecd1e78d909c482a874f49b575b4ce12/artifacts
+end_time: 1765091166798
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: ecd1e78d909c482a874f49b575b4ce12
+run_name: kindly-snipe-716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091166756
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/e55f869947b14824b93c899d837434aa/artifacts
+end_time: 1765091142303
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: e55f869947b14824b93c899d837434aa
+run_name: popular-goose-71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091142267
+status: 3
+tags: []
+user_id: root

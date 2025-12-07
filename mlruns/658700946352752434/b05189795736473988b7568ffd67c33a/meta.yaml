@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/b05189795736473988b7568ffd67c33a/artifacts
+end_time: 1765091184489
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: b05189795736473988b7568ffd67c33a
+run_name: clean-crow-742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091184407
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/dee88d8fdc164130822e5f878c6cbbed/artifacts
+end_time: 1765091184182
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: dee88d8fdc164130822e5f878c6cbbed
+run_name: able-crane-982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091184109
+status: 3
+tags: []
+user_id: root

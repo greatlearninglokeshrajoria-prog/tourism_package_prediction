@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/0ae11bf86faf4d159eec43cc9bffd83d/artifacts
+end_time: 1765091184904
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 0ae11bf86faf4d159eec43cc9bffd83d
+run_name: selective-duck-23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091184808
+status: 3
+tags: []
+user_id: root

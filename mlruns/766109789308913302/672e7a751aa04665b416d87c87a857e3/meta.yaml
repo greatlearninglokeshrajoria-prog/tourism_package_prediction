@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/672e7a751aa04665b416d87c87a857e3/artifacts
+end_time: 1765090704671
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 672e7a751aa04665b416d87c87a857e3
+run_name: luminous-pig-892
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765090701365
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a0383cabb87c4a7f92508b1e57e7a263/artifacts
+end_time: 1765091196612
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a0383cabb87c4a7f92508b1e57e7a263
+run_name: dazzling-shrike-898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091196523
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/13e49a11cecd41c4b31d06edefb7c06d/artifacts
+end_time: 1765091184379
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 13e49a11cecd41c4b31d06edefb7c06d
+run_name: powerful-crane-701
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091184307
+status: 3
+tags: []
+user_id: root

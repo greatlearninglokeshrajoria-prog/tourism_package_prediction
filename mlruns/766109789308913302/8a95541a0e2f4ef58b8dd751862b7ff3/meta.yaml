@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/8a95541a0e2f4ef58b8dd751862b7ff3/artifacts
+end_time: 1765089633268
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 8a95541a0e2f4ef58b8dd751862b7ff3
+run_name: welcoming-bee-240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765089630765
+status: 3
+tags: []
+user_id: root

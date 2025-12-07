@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/085453613465474f837916322f691568/artifacts
+end_time: 1765091154743
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 085453613465474f837916322f691568
+run_name: amusing-crane-431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091154679
+status: 3
+tags: []
+user_id: root

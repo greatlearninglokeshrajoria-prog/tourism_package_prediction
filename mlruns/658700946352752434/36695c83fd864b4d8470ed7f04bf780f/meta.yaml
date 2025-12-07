@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/36695c83fd864b4d8470ed7f04bf780f/artifacts
+end_time: 1765091142669
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 36695c83fd864b4d8470ed7f04bf780f
+run_name: bright-roo-564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091142632
+status: 3
+tags: []
+user_id: root

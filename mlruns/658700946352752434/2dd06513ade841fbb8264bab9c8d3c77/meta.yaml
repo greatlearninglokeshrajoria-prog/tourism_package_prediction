@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/2dd06513ade841fbb8264bab9c8d3c77/artifacts
+end_time: 1765091166023
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 2dd06513ade841fbb8264bab9c8d3c77
+run_name: zealous-duck-116
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091165976
+status: 3
+tags: []
+user_id: root

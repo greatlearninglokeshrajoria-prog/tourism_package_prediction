@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/b52bad4f59db4ccdab857b74e0661ad2/artifacts
+end_time: 1765090542123
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: b52bad4f59db4ccdab857b74e0661ad2
+run_name: upbeat-steed-53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765090538858
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/4e514d6dd9544eb58224a197c0a3150d/artifacts
+end_time: 1765090607262
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 4e514d6dd9544eb58224a197c0a3150d
+run_name: serious-fly-976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765090603947
+status: 3
+tags: []
+user_id: root

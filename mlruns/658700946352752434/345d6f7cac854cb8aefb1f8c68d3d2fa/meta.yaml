@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/345d6f7cac854cb8aefb1f8c68d3d2fa/artifacts
+end_time: 1765091166445
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 345d6f7cac854cb8aefb1f8c68d3d2fa
+run_name: thoughtful-rook-333
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091166396
+status: 3
+tags: []
+user_id: root

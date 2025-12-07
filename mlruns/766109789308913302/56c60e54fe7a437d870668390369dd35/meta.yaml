@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/56c60e54fe7a437d870668390369dd35/artifacts
+end_time: 1765089797445
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 56c60e54fe7a437d870668390369dd35
+run_name: receptive-jay-676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765089794946
+status: 3
+tags: []
+user_id: root

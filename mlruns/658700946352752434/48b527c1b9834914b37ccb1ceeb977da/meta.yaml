@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/48b527c1b9834914b37ccb1ceeb977da/artifacts
+end_time: 1765091150849
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 48b527c1b9834914b37ccb1ceeb977da
+run_name: wistful-tern-898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091150785
+status: 3
+tags: []
+user_id: root

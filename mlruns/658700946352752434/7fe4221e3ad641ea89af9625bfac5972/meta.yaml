@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/7fe4221e3ad641ea89af9625bfac5972/artifacts
+end_time: 1765091157077
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 7fe4221e3ad641ea89af9625bfac5972
+run_name: capable-cod-203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091157016
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/8256206f53154c4db75dfc2d0b2eeb7b/artifacts
+end_time: 1765091181577
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 8256206f53154c4db75dfc2d0b2eeb7b
+run_name: lyrical-cub-185
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091181501
+status: 3
+tags: []
+user_id: root

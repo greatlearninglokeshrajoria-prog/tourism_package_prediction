@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/7de50bcc08e2419bb8493c8fa2ac5165/artifacts
+end_time: 1765091170145
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 7de50bcc08e2419bb8493c8fa2ac5165
+run_name: upbeat-bug-433
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091170102
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/f95d52387b0b4ee59fec76671994e094/artifacts
+end_time: 1765091144882
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: f95d52387b0b4ee59fec76671994e094
+run_name: bold-conch-252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091144819
+status: 3
+tags: []
+user_id: root

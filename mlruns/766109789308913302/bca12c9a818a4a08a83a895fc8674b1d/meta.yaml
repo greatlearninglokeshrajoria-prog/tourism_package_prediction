@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/bca12c9a818a4a08a83a895fc8674b1d/artifacts
+end_time: 1765090695373
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: bca12c9a818a4a08a83a895fc8674b1d
+run_name: gifted-skunk-350
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765090692008
+status: 3
+tags: []
+user_id: root

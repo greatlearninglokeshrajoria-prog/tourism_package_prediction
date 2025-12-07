@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a51823c363c24a30ac697d768f0397f0/artifacts
+end_time: 1765091153378
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a51823c363c24a30ac697d768f0397f0
+run_name: blushing-skink-436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091153315
+status: 3
+tags: []
+user_id: root

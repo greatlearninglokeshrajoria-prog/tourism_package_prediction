@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/f6e5ebd359d64ee88fbd78d16b6eb532/artifacts
+end_time: 1765091172645
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: f6e5ebd359d64ee88fbd78d16b6eb532
+run_name: chill-wren-248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091172570
+status: 3
+tags: []
+user_id: root

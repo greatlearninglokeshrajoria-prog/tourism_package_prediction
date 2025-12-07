@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a1d71358218e4bb6b8babc739d6d0a75/artifacts
+end_time: 1765091164195
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a1d71358218e4bb6b8babc739d6d0a75
+run_name: casual-conch-454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091164153
+status: 3
+tags: []
+user_id: root

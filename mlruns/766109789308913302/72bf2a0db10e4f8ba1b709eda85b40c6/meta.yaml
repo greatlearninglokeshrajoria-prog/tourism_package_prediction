@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/72bf2a0db10e4f8ba1b709eda85b40c6/artifacts
+end_time: 1765090639645
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 72bf2a0db10e4f8ba1b709eda85b40c6
+run_name: burly-shrimp-622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765090636352
+status: 3
+tags: []
+user_id: root

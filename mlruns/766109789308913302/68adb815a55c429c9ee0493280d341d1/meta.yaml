@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/68adb815a55c429c9ee0493280d341d1/artifacts
+end_time: 1765090597816
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 68adb815a55c429c9ee0493280d341d1
+run_name: adaptable-rat-740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765090594472
+status: 3
+tags: []
+user_id: root

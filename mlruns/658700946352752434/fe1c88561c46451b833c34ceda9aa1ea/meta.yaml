@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/fe1c88561c46451b833c34ceda9aa1ea/artifacts
+end_time: 1765091163496
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: fe1c88561c46451b833c34ceda9aa1ea
+run_name: thundering-mink-224
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091163454
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/b0d927e8a3274aa582ca26ba0e9f9218/artifacts
+end_time: 1765091141936
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: b0d927e8a3274aa582ca26ba0e9f9218
+run_name: wise-perch-18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091141901
+status: 3
+tags: []
+user_id: root

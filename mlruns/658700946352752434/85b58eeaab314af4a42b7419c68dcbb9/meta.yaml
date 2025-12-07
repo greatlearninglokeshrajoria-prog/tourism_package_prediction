@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/85b58eeaab314af4a42b7419c68dcbb9/artifacts
+end_time: 1765091141331
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 85b58eeaab314af4a42b7419c68dcbb9
+run_name: bald-dolphin-499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091141296
+status: 3
+tags: []
+user_id: root

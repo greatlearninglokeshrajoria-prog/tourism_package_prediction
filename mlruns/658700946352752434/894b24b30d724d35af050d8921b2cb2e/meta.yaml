@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/894b24b30d724d35af050d8921b2cb2e/artifacts
+end_time: 1765091139077
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 894b24b30d724d35af050d8921b2cb2e
+run_name: grandiose-midge-227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091139043
+status: 3
+tags: []
+user_id: root

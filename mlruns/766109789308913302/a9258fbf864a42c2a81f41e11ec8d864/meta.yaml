@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/a9258fbf864a42c2a81f41e11ec8d864/artifacts
+end_time: 1765089629739
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: a9258fbf864a42c2a81f41e11ec8d864
+run_name: clumsy-roo-628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765089627204
+status: 3
+tags: []
+user_id: root

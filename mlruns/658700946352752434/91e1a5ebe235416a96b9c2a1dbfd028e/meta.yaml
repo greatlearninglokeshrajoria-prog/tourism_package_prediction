@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/91e1a5ebe235416a96b9c2a1dbfd028e/artifacts
+end_time: 1765091179882
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 91e1a5ebe235416a96b9c2a1dbfd028e
+run_name: unruly-shrimp-452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091179806
+status: 3
+tags: []
+user_id: root

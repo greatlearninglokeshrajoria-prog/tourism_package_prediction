@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/86fb80ea08ff4a67a25eb487b3acddbc/artifacts
+end_time: 1765091140685
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 86fb80ea08ff4a67a25eb487b3acddbc
+run_name: skillful-newt-617
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091140647
+status: 3
+tags: []
+user_id: root

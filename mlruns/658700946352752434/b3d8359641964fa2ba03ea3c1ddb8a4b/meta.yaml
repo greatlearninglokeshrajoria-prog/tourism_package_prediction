@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/b3d8359641964fa2ba03ea3c1ddb8a4b/artifacts
+end_time: 1765091177627
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: b3d8359641964fa2ba03ea3c1ddb8a4b
+run_name: upbeat-mare-47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091177556
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/f781416abe9c4481a002373d184f8dba/artifacts
+end_time: 1765091182974
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: f781416abe9c4481a002373d184f8dba
+run_name: chill-finch-688
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091182899
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/27a0b5337cd9495798b5e820fee0856f/artifacts
+end_time: 1765091187227
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 27a0b5337cd9495798b5e820fee0856f
+run_name: bittersweet-eel-478
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091187151
+status: 3
+tags: []
+user_id: root

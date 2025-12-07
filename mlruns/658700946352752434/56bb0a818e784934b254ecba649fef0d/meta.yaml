@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/56bb0a818e784934b254ecba649fef0d/artifacts
+end_time: 1765091189558
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 56bb0a818e784934b254ecba649fef0d
+run_name: fun-grub-300
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091189484
+status: 3
+tags: []
+user_id: root

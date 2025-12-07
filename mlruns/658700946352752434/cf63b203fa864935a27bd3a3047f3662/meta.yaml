@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/cf63b203fa864935a27bd3a3047f3662/artifacts
+end_time: 1765091195877
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: cf63b203fa864935a27bd3a3047f3662
+run_name: crawling-grouse-585
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091195796
+status: 3
+tags: []
+user_id: root

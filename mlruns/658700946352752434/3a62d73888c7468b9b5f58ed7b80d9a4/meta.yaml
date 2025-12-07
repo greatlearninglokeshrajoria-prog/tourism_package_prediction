@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/3a62d73888c7468b9b5f58ed7b80d9a4/artifacts
+end_time: 1765091191415
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 3a62d73888c7468b9b5f58ed7b80d9a4
+run_name: nebulous-duck-640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091191332
+status: 3
+tags: []
+user_id: root

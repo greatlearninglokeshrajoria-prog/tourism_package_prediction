@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/7d88536e6ef4430e9afa737bf8e8911a/artifacts
+end_time: 1765091149163
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 7d88536e6ef4430e9afa737bf8e8911a
+run_name: skillful-quail-183
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091149104
+status: 3
+tags: []
+user_id: root

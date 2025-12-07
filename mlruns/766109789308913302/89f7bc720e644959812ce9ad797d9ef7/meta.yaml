@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/89f7bc720e644959812ce9ad797d9ef7/artifacts
+end_time: 1765089661618
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 89f7bc720e644959812ce9ad797d9ef7
+run_name: exultant-fawn-187
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765089659113
+status: 3
+tags: []
+user_id: root

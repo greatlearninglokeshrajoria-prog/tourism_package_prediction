@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/f5e3f1e8ef0e4f04991642b1b6ec81eb/artifacts
+end_time: 1765091140734
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: f5e3f1e8ef0e4f04991642b1b6ec81eb
+run_name: fearless-calf-566
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091140699
+status: 3
+tags: []
+user_id: root

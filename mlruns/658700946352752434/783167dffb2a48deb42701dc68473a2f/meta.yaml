@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/783167dffb2a48deb42701dc68473a2f/artifacts
+end_time: 1765091176624
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 783167dffb2a48deb42701dc68473a2f
+run_name: bittersweet-newt-884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091176552
+status: 3
+tags: []
+user_id: root

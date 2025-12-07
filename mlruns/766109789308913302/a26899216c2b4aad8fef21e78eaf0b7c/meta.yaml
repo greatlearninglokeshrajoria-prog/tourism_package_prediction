@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/a26899216c2b4aad8fef21e78eaf0b7c/artifacts
+end_time: 1765089604873
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: a26899216c2b4aad8fef21e78eaf0b7c
+run_name: intelligent-grub-459
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765089602393
+status: 3
+tags: []
+user_id: root

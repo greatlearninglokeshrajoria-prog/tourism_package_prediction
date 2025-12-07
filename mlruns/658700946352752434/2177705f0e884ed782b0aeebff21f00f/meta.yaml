@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/2177705f0e884ed782b0aeebff21f00f/artifacts
+end_time: 1765091164022
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 2177705f0e884ed782b0aeebff21f00f
+run_name: fortunate-bee-802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091163981
+status: 3
+tags: []
+user_id: root

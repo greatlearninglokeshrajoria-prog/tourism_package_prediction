@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/df23535960404bda8735f7020332b4b2/artifacts
+end_time: 1765091155693
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: df23535960404bda8735f7020332b4b2
+run_name: rambunctious-rat-666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091155628
+status: 3
+tags: []
+user_id: root

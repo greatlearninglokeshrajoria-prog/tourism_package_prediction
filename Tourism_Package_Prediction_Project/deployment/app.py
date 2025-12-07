@@ -61,36 +61,37 @@ num_children_visiting = st.number_input("Number of Children Visiting", min_value
 designation = st.selectbox("Designation", [
     "Executive", "Manager", "Senior Manager", "AVP", "VP"
 ])
-monthly_income = st.number_input("Monthly Income", min_value=10000, max_value=500000, value=25000
+monthly_income = st.number_input("Monthly Income", min_value=10000, max_value=500000, value=25000)
 
 # Assemble input data matching training features
 input_data = pd.DataFrame([{
-    'Age': age,
+    'Age': int(age),
     'TypeofContact': type_of_contact,
     'CityTier': int(city_tier),
-    'DurationOfPitch': duration_of_pitch,
+    'DurationOfPitch': int(duration_of_pitch),
     'Occupation': occupation,
     'Gender': gender,
-    'NumberOfPersonVisiting': num_person_visiting,
-    'NumberOfFollowups': num_followups,
+    'NumberOfPersonVisiting': int(num_person_visiting),
+    'NumberOfFollowups': int(num_followups),
     'ProductPitched': product_pitched,
-    'PreferredPropertyStar': preferred_property_star,
+    'PreferredPropertyStar': int(preferred_property_star),
     'MaritalStatus': marital_status,
-    'NumberOfTrips': num_trips,
-    'Passport': 1 if passport == "Yes" else 0,
-    'PitchSatisfactionScore': pitch_satisfaction_score,
-    'OwnCar': 1 if own_car == "Yes" else 0,
-    'NumberOfChildrenVisiting': num_children_visiting,
+    'NumberOfTrips': int(num_trips),
+    'Passport': int(1 if passport == "Yes" else 0),
+    'PitchSatisfactionScore': int(pitch_satisfaction_score),
+    'OwnCar': int(1 if own_car == "Yes" else 0),
+    'NumberOfChildrenVisiting': int(num_children_visiting),
     'Designation': designation,
-    'MonthlyIncome': monthly_income
+    'MonthlyIncome': int(monthly_income)
 }])
+
 
 # Display input summary
 with st.expander("📋 Input Summary"):
-    st.dataframe(input_data.T, use_container_width=True)
+    st.dataframe(input_data, use_container_width=True)
 
 # Predict button
-if st.button("🔮 Predict Package Purchase", type="primary"):
+if st.button("🔮 Predict Package Purchase", type="primary", use_container_width=True):
     if model is not None:
         try:
             prediction = model.predict(input_data)[0]

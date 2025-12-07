@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/b4e47904c924489cb9c427023099c8cc/artifacts
+end_time: 1765089804636
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: b4e47904c924489cb9c427023099c8cc
+run_name: monumental-wasp-428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765089802160
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/cab759f093d7470abb9cdb56fa053e87/artifacts
+end_time: 1765090616483
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: cab759f093d7470abb9cdb56fa053e87
+run_name: flawless-shark-369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765090613186
+status: 3
+tags: []
+user_id: root

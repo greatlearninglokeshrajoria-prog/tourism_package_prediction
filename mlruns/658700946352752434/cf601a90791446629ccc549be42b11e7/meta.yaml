@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/cf601a90791446629ccc549be42b11e7/artifacts
+end_time: 1765091139387
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: cf601a90791446629ccc549be42b11e7
+run_name: bald-frog-989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091139352
+status: 3
+tags: []
+user_id: root

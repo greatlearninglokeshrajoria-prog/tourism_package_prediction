@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/4b18e06e366c4ba0b79522722958cf84/artifacts
+end_time: 1765091160098
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 4b18e06e366c4ba0b79522722958cf84
+run_name: honorable-shrew-880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091160030
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/28d1ff98c8c347efa5786bb530c5a6fc/artifacts
+end_time: 1765091146921
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 28d1ff98c8c347efa5786bb530c5a6fc
+run_name: rebellious-elk-540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091146864
+status: 3
+tags: []
+user_id: root

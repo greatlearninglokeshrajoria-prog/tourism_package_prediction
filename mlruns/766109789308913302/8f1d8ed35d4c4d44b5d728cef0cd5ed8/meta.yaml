@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/8f1d8ed35d4c4d44b5d728cef0cd5ed8/artifacts
+end_time: 1765089608435
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 8f1d8ed35d4c4d44b5d728cef0cd5ed8
+run_name: upbeat-turtle-636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765089605887
+status: 3
+tags: []
+user_id: root

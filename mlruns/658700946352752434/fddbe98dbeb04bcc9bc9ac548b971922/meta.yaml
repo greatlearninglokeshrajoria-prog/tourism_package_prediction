@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/fddbe98dbeb04bcc9bc9ac548b971922/artifacts
+end_time: 1765091151776
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: fddbe98dbeb04bcc9bc9ac548b971922
+run_name: delicate-toad-914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091151715
+status: 3
+tags: []
+user_id: root

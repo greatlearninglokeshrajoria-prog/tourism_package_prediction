@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/d4931e9ecc0548c7ba60da4279e23871/artifacts
+end_time: 1765091148665
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: d4931e9ecc0548c7ba60da4279e23871
+run_name: funny-donkey-534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091148607
+status: 3
+tags: []
+user_id: root

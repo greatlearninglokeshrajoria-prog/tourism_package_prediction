@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a99fdff6b30040cea63ff1d2ad6805b2/artifacts
+end_time: 1765091168072
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a99fdff6b30040cea63ff1d2ad6805b2
+run_name: bedecked-doe-553
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091168031
+status: 3
+tags: []
+user_id: root

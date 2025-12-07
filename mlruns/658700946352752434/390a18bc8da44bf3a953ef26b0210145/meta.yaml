@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/390a18bc8da44bf3a953ef26b0210145/artifacts
+end_time: 1765091175824
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 390a18bc8da44bf3a953ef26b0210145
+run_name: unequaled-hawk-354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091175748
+status: 3
+tags: []
+user_id: root

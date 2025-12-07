@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/aa12f2d25b2b43af8daaca17be12e38a/artifacts
+end_time: 1765091179001
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: aa12f2d25b2b43af8daaca17be12e38a
+run_name: luminous-crane-906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091178929
+status: 3
+tags: []
+user_id: root

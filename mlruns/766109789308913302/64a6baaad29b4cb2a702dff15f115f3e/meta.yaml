@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/64a6baaad29b4cb2a702dff15f115f3e/artifacts
+end_time: 1765089700654
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 64a6baaad29b4cb2a702dff15f115f3e
+run_name: aged-frog-112
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765089698074
+status: 3
+tags: []
+user_id: root

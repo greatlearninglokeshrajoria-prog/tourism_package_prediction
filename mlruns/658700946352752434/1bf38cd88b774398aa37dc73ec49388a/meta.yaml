@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/1bf38cd88b774398aa37dc73ec49388a/artifacts
+end_time: 1765091157672
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 1bf38cd88b774398aa37dc73ec49388a
+run_name: overjoyed-grub-481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091157610
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/7d64fc5dd6554c838fa74debf240dfd0/artifacts
+end_time: 1765089747135
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 7d64fc5dd6554c838fa74debf240dfd0
+run_name: whimsical-koi-580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765089744622
+status: 3
+tags: []
+user_id: root

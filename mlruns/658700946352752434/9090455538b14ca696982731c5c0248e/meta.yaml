@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/9090455538b14ca696982731c5c0248e/artifacts
+end_time: 1765091170563
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 9090455538b14ca696982731c5c0248e
+run_name: magnificent-crab-402
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091170517
+status: 3
+tags: []
+user_id: root

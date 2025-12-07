@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/949267c9bfc14c5c96bfa4503d5d314d/artifacts
+end_time: 1765091160791
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 949267c9bfc14c5c96bfa4503d5d314d
+run_name: intrigued-hen-264
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091160728
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/19e9b652544947ce908ab42c996dfbb2/artifacts
+end_time: 1765091193978
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 19e9b652544947ce908ab42c996dfbb2
+run_name: caring-sheep-199
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091193902
+status: 3
+tags: []
+user_id: root

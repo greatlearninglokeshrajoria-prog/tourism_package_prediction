@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/b12fec02e2aa42a1a4877c8cde5ce44f/artifacts
+end_time: 1765089718473
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: b12fec02e2aa42a1a4877c8cde5ce44f
+run_name: marvelous-hare-538
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765089715850
+status: 3
+tags: []
+user_id: root

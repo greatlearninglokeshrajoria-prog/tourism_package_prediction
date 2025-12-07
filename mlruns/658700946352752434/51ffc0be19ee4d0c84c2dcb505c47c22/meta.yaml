@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/51ffc0be19ee4d0c84c2dcb505c47c22/artifacts
+end_time: 1765091162105
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 51ffc0be19ee4d0c84c2dcb505c47c22
+run_name: hilarious-hen-378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091162058
+status: 3
+tags: []
+user_id: root

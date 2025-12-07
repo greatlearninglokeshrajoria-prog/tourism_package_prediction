@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/54954fd8cce54161a1efb9e2a8f5c82c/artifacts
+end_time: 1765091165230
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 54954fd8cce54161a1efb9e2a8f5c82c
+run_name: bemused-crab-218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091165188
+status: 3
+tags: []
+user_id: root

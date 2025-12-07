@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/ac7980d712854d578928cd4cf3954e28/artifacts
+end_time: 1765089686243
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: ac7980d712854d578928cd4cf3954e28
+run_name: lyrical-bat-291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765089683729
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/f3ebeb8ff3e844d6bffad4b723ca1357/artifacts
+end_time: 1765091143892
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: f3ebeb8ff3e844d6bffad4b723ca1357
+run_name: burly-chimp-346
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091143855
+status: 3
+tags: []
+user_id: root

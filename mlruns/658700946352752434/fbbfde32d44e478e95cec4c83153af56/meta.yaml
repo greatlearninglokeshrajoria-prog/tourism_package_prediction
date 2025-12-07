@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/fbbfde32d44e478e95cec4c83153af56/artifacts
+end_time: 1765091180076
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: fbbfde32d44e478e95cec4c83153af56
+run_name: adventurous-bird-442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091180002
+status: 3
+tags: []
+user_id: root

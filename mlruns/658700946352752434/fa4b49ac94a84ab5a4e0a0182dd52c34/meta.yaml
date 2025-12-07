@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/fa4b49ac94a84ab5a4e0a0182dd52c34/artifacts
+end_time: 1765091172375
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: fa4b49ac94a84ab5a4e0a0182dd52c34
+run_name: caring-bass-895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091172305
+status: 3
+tags: []
+user_id: root

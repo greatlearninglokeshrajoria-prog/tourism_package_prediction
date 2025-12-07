@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/91c4d58e053f42899d56bec5b787332b/artifacts
+end_time: 1765091139028
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 91c4d58e053f42899d56bec5b787332b
+run_name: puzzled-rook-142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091138993
+status: 3
+tags: []
+user_id: root

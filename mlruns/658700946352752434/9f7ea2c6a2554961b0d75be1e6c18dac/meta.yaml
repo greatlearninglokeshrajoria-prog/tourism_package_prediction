@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/9f7ea2c6a2554961b0d75be1e6c18dac/artifacts
+end_time: 1765091145978
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 9f7ea2c6a2554961b0d75be1e6c18dac
+run_name: shivering-wolf-161
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091145927
+status: 3
+tags: []
+user_id: root

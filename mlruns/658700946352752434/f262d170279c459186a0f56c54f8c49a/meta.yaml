@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/f262d170279c459186a0f56c54f8c49a/artifacts
+end_time: 1765091145504
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: f262d170279c459186a0f56c54f8c49a
+run_name: welcoming-koi-846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091145449
+status: 3
+tags: []
+user_id: root

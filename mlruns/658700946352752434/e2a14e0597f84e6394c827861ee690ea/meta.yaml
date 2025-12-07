@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/e2a14e0597f84e6394c827861ee690ea/artifacts
+end_time: 1765091151611
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: e2a14e0597f84e6394c827861ee690ea
+run_name: smiling-ray-584
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091151548
+status: 3
+tags: []
+user_id: root

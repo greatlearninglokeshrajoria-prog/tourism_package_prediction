@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/9cdf5a74dd2d44dea3e51fe47e35b301/artifacts
+end_time: 1765091179783
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 9cdf5a74dd2d44dea3e51fe47e35b301
+run_name: masked-snipe-246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091179711
+status: 3
+tags: []
+user_id: root

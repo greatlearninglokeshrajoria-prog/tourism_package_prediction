@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a381d3b52ffe434ba37cad2bed0fdb2c/artifacts
+end_time: 1765091145832
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a381d3b52ffe434ba37cad2bed0fdb2c
+run_name: sassy-turtle-532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091145777
+status: 3
+tags: []
+user_id: root

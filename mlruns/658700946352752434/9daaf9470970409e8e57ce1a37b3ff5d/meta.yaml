@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/9daaf9470970409e8e57ce1a37b3ff5d/artifacts
+end_time: 1765091174189
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 9daaf9470970409e8e57ce1a37b3ff5d
+run_name: bold-stork-828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091174118
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/75c88e9a2bad41a2a0c99291da089f25/artifacts
+end_time: 1765091165296
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 75c88e9a2bad41a2a0c99291da089f25
+run_name: enthused-jay-817
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091165245
+status: 3
+tags: []
+user_id: root

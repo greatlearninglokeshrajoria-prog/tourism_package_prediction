@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/b5c2d7dc7c464037b39231bc4bcd4590/artifacts
+end_time: 1765090509846
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: b5c2d7dc7c464037b39231bc4bcd4590
+run_name: angry-swan-440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765090506555
+status: 3
+tags: []
+user_id: root

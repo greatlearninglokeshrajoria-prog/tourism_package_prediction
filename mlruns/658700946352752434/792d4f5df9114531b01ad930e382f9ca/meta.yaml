@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/792d4f5df9114531b01ad930e382f9ca/artifacts
+end_time: 1765091146523
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 792d4f5df9114531b01ad930e382f9ca
+run_name: receptive-sheep-833
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091146468
+status: 3
+tags: []
+user_id: root

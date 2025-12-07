@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/15023bb22f314e359c49e29ecd02d3ca/artifacts
+end_time: 1765091163319
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 15023bb22f314e359c49e29ecd02d3ca
+run_name: rebellious-skink-7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091163277
+status: 3
+tags: []
+user_id: root

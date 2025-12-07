@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/8ab8c65595774f05a60eadfee2f00883/artifacts
+end_time: 1765091146203
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 8ab8c65595774f05a60eadfee2f00883
+run_name: invincible-perch-132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091146150
+status: 3
+tags: []
+user_id: root

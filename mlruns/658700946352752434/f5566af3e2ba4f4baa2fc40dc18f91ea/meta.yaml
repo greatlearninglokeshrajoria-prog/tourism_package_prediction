@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/f5566af3e2ba4f4baa2fc40dc18f91ea/artifacts
+end_time: 1765091167594
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: f5566af3e2ba4f4baa2fc40dc18f91ea
+run_name: spiffy-lamb-375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091167553
+status: 3
+tags: []
+user_id: root

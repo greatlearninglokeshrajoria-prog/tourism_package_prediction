@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/82ea9f5c1c684759ac17996f4b9d9bde/artifacts
+end_time: 1765091193361
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 82ea9f5c1c684759ac17996f4b9d9bde
+run_name: mercurial-asp-347
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091193279
+status: 3
+tags: []
+user_id: root

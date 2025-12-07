@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/402d17fad6c54e24addb5b3f38382cfe/artifacts
+end_time: 1765091148086
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 402d17fad6c54e24addb5b3f38382cfe
+run_name: rare-shoat-207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091148025
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/0cf019e0347b410495d289caa90e4dce/artifacts
+end_time: 1765091172822
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 0cf019e0347b410495d289caa90e4dce
+run_name: serious-turtle-392
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091172757
+status: 3
+tags: []
+user_id: root

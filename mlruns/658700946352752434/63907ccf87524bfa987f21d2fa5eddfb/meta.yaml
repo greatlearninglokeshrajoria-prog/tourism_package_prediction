@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/63907ccf87524bfa987f21d2fa5eddfb/artifacts
+end_time: 1765091140385
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 63907ccf87524bfa987f21d2fa5eddfb
+run_name: beautiful-sloth-13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091140337
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/3871f6b9baea4258b2824e1c58a45435/artifacts
+end_time: 1765091151112
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 3871f6b9baea4258b2824e1c58a45435
+run_name: sedate-bear-621
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091151053
+status: 3
+tags: []
+user_id: root

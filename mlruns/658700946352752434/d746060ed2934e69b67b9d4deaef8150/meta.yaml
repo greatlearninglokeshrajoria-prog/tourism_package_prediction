@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/d746060ed2934e69b67b9d4deaef8150/artifacts
+end_time: 1765091184784
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: d746060ed2934e69b67b9d4deaef8150
+run_name: loud-bug-683
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091184709
+status: 3
+tags: []
+user_id: root

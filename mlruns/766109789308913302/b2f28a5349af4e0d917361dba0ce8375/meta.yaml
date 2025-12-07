@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/b2f28a5349af4e0d917361dba0ce8375/artifacts
+end_time: 1765090459093
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: b2f28a5349af4e0d917361dba0ce8375
+run_name: capable-bee-890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765090455806
+status: 3
+tags: []
+user_id: root

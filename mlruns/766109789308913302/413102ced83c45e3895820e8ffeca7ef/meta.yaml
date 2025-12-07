@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/413102ced83c45e3895820e8ffeca7ef/artifacts
+end_time: 1765089626227
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 413102ced83c45e3895820e8ffeca7ef
+run_name: bustling-boar-716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765089623747
+status: 3
+tags: []
+user_id: root

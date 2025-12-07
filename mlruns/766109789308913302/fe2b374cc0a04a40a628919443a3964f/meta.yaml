@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/fe2b374cc0a04a40a628919443a3964f/artifacts
+end_time: 1765089754308
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: fe2b374cc0a04a40a628919443a3964f
+run_name: thoughtful-hawk-88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765089751774
+status: 3
+tags: []
+user_id: root

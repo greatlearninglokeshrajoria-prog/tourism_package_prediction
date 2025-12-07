@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/0001821b4cf245059ce241e2550f3c91/artifacts
+end_time: 1765091189235
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 0001821b4cf245059ce241e2550f3c91
+run_name: serious-sloth-911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091189158
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/777717fd48914194b2bf650f971e8145/artifacts
+end_time: 1765090709309
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 777717fd48914194b2bf650f971e8145
+run_name: youthful-fox-343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765090705986
+status: 3
+tags: []
+user_id: root

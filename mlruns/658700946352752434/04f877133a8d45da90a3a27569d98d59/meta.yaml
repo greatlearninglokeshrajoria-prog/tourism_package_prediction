@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/04f877133a8d45da90a3a27569d98d59/artifacts
+end_time: 1765091196289
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 04f877133a8d45da90a3a27569d98d59
+run_name: caring-hawk-834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091196209
+status: 3
+tags: []
+user_id: root

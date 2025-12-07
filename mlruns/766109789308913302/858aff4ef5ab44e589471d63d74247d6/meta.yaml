@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/858aff4ef5ab44e589471d63d74247d6/artifacts
+end_time: 1765089668780
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 858aff4ef5ab44e589471d63d74247d6
+run_name: lyrical-ox-444
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765089666140
+status: 3
+tags: []
+user_id: root

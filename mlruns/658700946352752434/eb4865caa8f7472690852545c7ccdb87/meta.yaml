@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/eb4865caa8f7472690852545c7ccdb87/artifacts
+end_time: 1765091178414
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: eb4865caa8f7472690852545c7ccdb87
+run_name: languid-bat-507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091178342
+status: 3
+tags: []
+user_id: root

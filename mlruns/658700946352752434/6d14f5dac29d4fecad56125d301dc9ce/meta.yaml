@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/6d14f5dac29d4fecad56125d301dc9ce/artifacts
+end_time: 1765091175922
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 6d14f5dac29d4fecad56125d301dc9ce
+run_name: colorful-frog-945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091175849
+status: 3
+tags: []
+user_id: root

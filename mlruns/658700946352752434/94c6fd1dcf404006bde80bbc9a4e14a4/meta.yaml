@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/94c6fd1dcf404006bde80bbc9a4e14a4/artifacts
+end_time: 1765091166139
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 94c6fd1dcf404006bde80bbc9a4e14a4
+run_name: rare-bass-688
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091166097
+status: 3
+tags: []
+user_id: root

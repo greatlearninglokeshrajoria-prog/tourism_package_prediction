@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/f57073e74c7649de9de9cb0b3114856e/artifacts
+end_time: 1765089619122
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: f57073e74c7649de9de9cb0b3114856e
+run_name: skillful-zebra-401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765089616644
+status: 3
+tags: []
+user_id: root

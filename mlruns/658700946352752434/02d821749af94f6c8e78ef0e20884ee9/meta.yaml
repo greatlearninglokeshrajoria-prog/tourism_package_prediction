@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/02d821749af94f6c8e78ef0e20884ee9/artifacts
+end_time: 1765091150349
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 02d821749af94f6c8e78ef0e20884ee9
+run_name: incongruous-carp-9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091150285
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/c11a7ea4d2284fafb47328cc90f62c5b/artifacts
+end_time: 1765091145429
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: c11a7ea4d2284fafb47328cc90f62c5b
+run_name: bedecked-finch-131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091145375
+status: 3
+tags: []
+user_id: root

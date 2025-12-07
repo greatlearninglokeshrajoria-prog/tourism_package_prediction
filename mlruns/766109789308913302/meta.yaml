@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/766109789308913302
+creation_time: 1765089525659
+experiment_id: '766109789308913302'
+last_update_time: 1765089525659
+lifecycle_stage: active
+name: MLOps_CICD_experiment

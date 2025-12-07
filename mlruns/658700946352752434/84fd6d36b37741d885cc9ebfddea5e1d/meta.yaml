@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/84fd6d36b37741d885cc9ebfddea5e1d/artifacts
+end_time: 1765091192856
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 84fd6d36b37741d885cc9ebfddea5e1d
+run_name: mysterious-gnu-255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091192782
+status: 3
+tags: []
+user_id: root

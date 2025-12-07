@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/252b10d372e340a884feb6f07c54eb16/artifacts
+end_time: 1765091142618
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 252b10d372e340a884feb6f07c54eb16
+run_name: luxuriant-fox-293
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091142580
+status: 3
+tags: []
+user_id: root

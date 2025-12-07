@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/6e4e6bebdbf94c48ab2c8d1a14feb087/artifacts
+end_time: 1765091151278
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 6e4e6bebdbf94c48ab2c8d1a14feb087
+run_name: popular-newt-636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091151214
+status: 3
+tags: []
+user_id: root

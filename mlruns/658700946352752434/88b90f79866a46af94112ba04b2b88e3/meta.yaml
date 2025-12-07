@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/88b90f79866a46af94112ba04b2b88e3/artifacts
+end_time: 1765091166379
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 88b90f79866a46af94112ba04b2b88e3
+run_name: resilient-sheep-312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091166337
+status: 3
+tags: []
+user_id: root

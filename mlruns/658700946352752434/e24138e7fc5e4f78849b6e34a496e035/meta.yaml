@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/e24138e7fc5e4f78849b6e34a496e035/artifacts
+end_time: 1765091187873
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: e24138e7fc5e4f78849b6e34a496e035
+run_name: amusing-goat-953
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091187798
+status: 3
+tags: []
+user_id: root

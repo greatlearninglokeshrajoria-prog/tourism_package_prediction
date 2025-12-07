@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/0956dc4a0fed4d54884252e87cba029b/artifacts
+end_time: 1765091145908
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 0956dc4a0fed4d54884252e87cba029b
+run_name: illustrious-mole-524
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091145851
+status: 3
+tags: []
+user_id: root

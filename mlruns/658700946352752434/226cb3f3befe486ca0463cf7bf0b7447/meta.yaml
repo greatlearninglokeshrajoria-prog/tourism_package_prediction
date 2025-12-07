@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/226cb3f3befe486ca0463cf7bf0b7447/artifacts
+end_time: 1765091189341
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 226cb3f3befe486ca0463cf7bf0b7447
+run_name: burly-goat-852
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091189260
+status: 3
+tags: []
+user_id: root

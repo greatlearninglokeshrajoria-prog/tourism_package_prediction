@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/9c1e9cf165f14d04b48b5a2383e8b6a0/artifacts
+end_time: 1765091151446
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 9c1e9cf165f14d04b48b5a2383e8b6a0
+run_name: bright-gnat-410
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091151387
+status: 3
+tags: []
+user_id: root

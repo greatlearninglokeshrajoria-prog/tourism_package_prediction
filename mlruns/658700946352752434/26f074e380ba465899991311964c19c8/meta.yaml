@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/26f074e380ba465899991311964c19c8/artifacts
+end_time: 1765091169012
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 26f074e380ba465899991311964c19c8
+run_name: auspicious-shrew-593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091168968
+status: 3
+tags: []
+user_id: root

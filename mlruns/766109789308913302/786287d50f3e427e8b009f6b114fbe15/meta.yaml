@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/786287d50f3e427e8b009f6b114fbe15/artifacts
+end_time: 1765090686012
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 786287d50f3e427e8b009f6b114fbe15
+run_name: unruly-stoat-719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765090682696
+status: 3
+tags: []
+user_id: root

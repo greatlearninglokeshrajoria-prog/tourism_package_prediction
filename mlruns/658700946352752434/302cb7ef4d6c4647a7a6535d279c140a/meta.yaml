@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/302cb7ef4d6c4647a7a6535d279c140a/artifacts
+end_time: 1765091193469
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 302cb7ef4d6c4647a7a6535d279c140a
+run_name: abundant-dog-491
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091193389
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/172cfef9b5924a8db846b00d7e99515c/artifacts
+end_time: 1765091142518
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 172cfef9b5924a8db846b00d7e99515c
+run_name: adorable-steed-8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091142483
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/da95d9efc7b149cba2a2cae6ce43ae00/artifacts
+end_time: 1765091180678
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: da95d9efc7b149cba2a2cae6ce43ae00
+run_name: salty-cow-681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091180592
+status: 3
+tags: []
+user_id: root

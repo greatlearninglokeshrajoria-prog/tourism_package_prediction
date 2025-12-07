@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/b0ecebe6fb594300b29f3c0623a0cebe/artifacts
+end_time: 1765091180990
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: b0ecebe6fb594300b29f3c0623a0cebe
+run_name: agreeable-steed-234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091180915
+status: 3
+tags: []
+user_id: root

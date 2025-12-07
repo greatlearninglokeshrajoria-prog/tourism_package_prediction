@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/d92d871de4f447f480b4e81a024b3f81/artifacts
+end_time: 1765091140023
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: d92d871de4f447f480b4e81a024b3f81
+run_name: dapper-owl-690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091139989
+status: 3
+tags: []
+user_id: root

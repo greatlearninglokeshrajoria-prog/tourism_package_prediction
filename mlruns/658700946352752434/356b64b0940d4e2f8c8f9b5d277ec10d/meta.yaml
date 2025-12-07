@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/356b64b0940d4e2f8c8f9b5d277ec10d/artifacts
+end_time: 1765091190469
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 356b64b0940d4e2f8c8f9b5d277ec10d
+run_name: invincible-flea-439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091190395
+status: 3
+tags: []
+user_id: root

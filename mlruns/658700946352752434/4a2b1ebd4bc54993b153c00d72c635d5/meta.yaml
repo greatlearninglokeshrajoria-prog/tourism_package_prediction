@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/4a2b1ebd4bc54993b153c00d72c635d5/artifacts
+end_time: 1765091144653
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 4a2b1ebd4bc54993b153c00d72c635d5
+run_name: calm-sloth-291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091144598
+status: 3
+tags: []
+user_id: root

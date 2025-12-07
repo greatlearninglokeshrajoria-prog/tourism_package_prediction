@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/076c7e22ebb2450e89a2e1da2339fa08/artifacts
+end_time: 1765091161171
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 076c7e22ebb2450e89a2e1da2339fa08
+run_name: enthused-finch-564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091161129
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/5fd2b935671f4988b54d018b6f60a857/artifacts
+end_time: 1765091143691
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 5fd2b935671f4988b54d018b6f60a857
+run_name: capable-toad-835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091143655
+status: 3
+tags: []
+user_id: root

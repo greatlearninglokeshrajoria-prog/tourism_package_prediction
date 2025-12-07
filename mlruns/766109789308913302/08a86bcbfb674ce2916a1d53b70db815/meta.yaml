@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/08a86bcbfb674ce2916a1d53b70db815/artifacts
+end_time: 1765090727884
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 08a86bcbfb674ce2916a1d53b70db815
+run_name: bold-finch-114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765090724560
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/a4889bdf013f4ad6b17f1f5d018c954b/artifacts
+end_time: 1765089590681
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: a4889bdf013f4ad6b17f1f5d018c954b
+run_name: bald-bird-367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765089587844
+status: 3
+tags: []
+user_id: root

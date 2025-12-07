@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/c299b5e9b0f64683bb7f258beab26238/artifacts
+end_time: 1765091189767
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: c299b5e9b0f64683bb7f258beab26238
+run_name: gregarious-eel-732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091189690
+status: 3
+tags: []
+user_id: root

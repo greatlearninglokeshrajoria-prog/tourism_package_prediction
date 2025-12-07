@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/f436c88e9b5f404f8d88d3bf015f20e6/artifacts
+end_time: 1765091165063
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: f436c88e9b5f404f8d88d3bf015f20e6
+run_name: casual-skunk-458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091165017
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/8137678616074e17b80d57aca8bfb31a/artifacts
+end_time: 1765091194816
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 8137678616074e17b80d57aca8bfb31a
+run_name: bouncy-bass-587
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091194740
+status: 3
+tags: []
+user_id: root

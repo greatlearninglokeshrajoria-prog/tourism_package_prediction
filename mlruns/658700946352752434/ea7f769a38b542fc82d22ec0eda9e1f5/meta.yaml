@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/ea7f769a38b542fc82d22ec0eda9e1f5/artifacts
+end_time: 1765091166679
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: ea7f769a38b542fc82d22ec0eda9e1f5
+run_name: thundering-wolf-245
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091166637
+status: 3
+tags: []
+user_id: root

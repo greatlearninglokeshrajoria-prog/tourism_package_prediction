@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/e45aea2876e24af69823e7b9f860c483/artifacts
+end_time: 1765091193253
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: e45aea2876e24af69823e7b9f860c483
+run_name: popular-seal-831
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091193177
+status: 3
+tags: []
+user_id: root

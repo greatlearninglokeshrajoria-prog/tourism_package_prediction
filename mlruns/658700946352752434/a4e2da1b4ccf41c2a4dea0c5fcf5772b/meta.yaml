@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a4e2da1b4ccf41c2a4dea0c5fcf5772b/artifacts
+end_time: 1765091150680
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a4e2da1b4ccf41c2a4dea0c5fcf5772b
+run_name: caring-goat-21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091150616
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/14b24608f61d414b84c65b76117d41b3/artifacts
+end_time: 1765091188810
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 14b24608f61d414b84c65b76117d41b3
+run_name: kindly-asp-685
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091188735
+status: 3
+tags: []
+user_id: root

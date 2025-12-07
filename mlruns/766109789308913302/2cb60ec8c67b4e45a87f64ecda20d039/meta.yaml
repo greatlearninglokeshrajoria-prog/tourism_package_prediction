@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/2cb60ec8c67b4e45a87f64ecda20d039/artifacts
+end_time: 1765089790353
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 2cb60ec8c67b4e45a87f64ecda20d039
+run_name: nebulous-moth-415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765089787803
+status: 3
+tags: []
+user_id: root

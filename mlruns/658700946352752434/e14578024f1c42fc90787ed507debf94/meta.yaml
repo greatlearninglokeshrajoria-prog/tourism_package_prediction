@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/e14578024f1c42fc90787ed507debf94/artifacts
+end_time: 1765091139272
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: e14578024f1c42fc90787ed507debf94
+run_name: lyrical-lark-649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091139237
+status: 3
+tags: []
+user_id: root

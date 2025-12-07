@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/5d207630781d4317ba1ebb220684ed10/artifacts
+end_time: 1765091187126
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 5d207630781d4317ba1ebb220684ed10
+run_name: capable-deer-497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091187051
+status: 3
+tags: []
+user_id: root

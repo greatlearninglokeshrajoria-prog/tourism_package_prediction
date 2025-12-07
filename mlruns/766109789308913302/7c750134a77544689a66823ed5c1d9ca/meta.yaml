@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/7c750134a77544689a66823ed5c1d9ca/artifacts
+end_time: 1765090569680
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 7c750134a77544689a66823ed5c1d9ca
+run_name: secretive-deer-173
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765090566404
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/319669d211574273a4c163f26320a1f4/artifacts
+end_time: 1765091145129
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 319669d211574273a4c163f26320a1f4
+run_name: burly-tern-253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091145076
+status: 3
+tags: []
+user_id: root

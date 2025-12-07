@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/ff3ad0e4386c47f2b2311a9f568af54d/artifacts
+end_time: 1765091167418
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: ff3ad0e4386c47f2b2311a9f568af54d
+run_name: rebellious-snipe-475
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091167374
+status: 3
+tags: []
+user_id: root

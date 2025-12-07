@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/da9270c853e343358469c01159494970/artifacts
+end_time: 1765089722065
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: da9270c853e343358469c01159494970
+run_name: bald-jay-626
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765089719527
+status: 3
+tags: []
+user_id: root

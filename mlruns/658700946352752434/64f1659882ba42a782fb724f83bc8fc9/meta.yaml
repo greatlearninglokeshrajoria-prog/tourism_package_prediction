@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/64f1659882ba42a782fb724f83bc8fc9/artifacts
+end_time: 1765091156994
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 64f1659882ba42a782fb724f83bc8fc9
+run_name: capricious-frog-299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091156917
+status: 3
+tags: []
+user_id: root

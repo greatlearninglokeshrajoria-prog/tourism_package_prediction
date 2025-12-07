@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a9f31012bde74d1087bd07492eaca2af/artifacts
+end_time: 1765091188607
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a9f31012bde74d1087bd07492eaca2af
+run_name: blushing-quail-813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091188531
+status: 3
+tags: []
+user_id: root

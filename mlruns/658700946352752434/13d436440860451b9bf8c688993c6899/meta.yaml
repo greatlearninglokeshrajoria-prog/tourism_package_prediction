@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/13d436440860451b9bf8c688993c6899/artifacts
+end_time: 1765091170805
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 13d436440860451b9bf8c688993c6899
+run_name: marvelous-fly-109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091170754
+status: 3
+tags: []
+user_id: root

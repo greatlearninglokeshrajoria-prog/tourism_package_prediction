@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/1ca3deecdd954f7d8d0d99c95e1e52f8/artifacts
+end_time: 1765091152367
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 1ca3deecdd954f7d8d0d99c95e1e52f8
+run_name: carefree-eel-485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091152305
+status: 3
+tags: []
+user_id: root

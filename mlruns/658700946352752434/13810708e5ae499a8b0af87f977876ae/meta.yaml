@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/13810708e5ae499a8b0af87f977876ae/artifacts
+end_time: 1765091173797
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 13810708e5ae499a8b0af87f977876ae
+run_name: enchanting-pig-554
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091173724
+status: 3
+tags: []
+user_id: root

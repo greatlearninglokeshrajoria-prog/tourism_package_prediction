@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/a6a41d7c2c654ae5adbddb19e209ebeb/artifacts
+end_time: 1765090700049
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: a6a41d7c2c654ae5adbddb19e209ebeb
+run_name: resilient-vole-228
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765090696702
+status: 3
+tags: []
+user_id: root

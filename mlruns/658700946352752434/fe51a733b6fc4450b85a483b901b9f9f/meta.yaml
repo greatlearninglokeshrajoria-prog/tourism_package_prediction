@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/fe51a733b6fc4450b85a483b901b9f9f/artifacts
+end_time: 1765091185002
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: fe51a733b6fc4450b85a483b901b9f9f
+run_name: grandiose-gnu-163
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091184926
+status: 3
+tags: []
+user_id: root

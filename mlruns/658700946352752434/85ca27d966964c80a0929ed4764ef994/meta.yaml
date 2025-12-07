@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/85ca27d966964c80a0929ed4764ef994/artifacts
+end_time: 1765091168249
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 85ca27d966964c80a0929ed4764ef994
+run_name: indecisive-doe-81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091168203
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/365303c66f674d8f973594df554463a1/artifacts
+end_time: 1765091160948
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 365303c66f674d8f973594df554463a1
+run_name: welcoming-asp-432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091160903
+status: 3
+tags: []
+user_id: root

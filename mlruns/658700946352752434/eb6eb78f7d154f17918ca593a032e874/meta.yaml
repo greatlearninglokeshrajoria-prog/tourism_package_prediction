@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/eb6eb78f7d154f17918ca593a032e874/artifacts
+end_time: 1765091144972
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: eb6eb78f7d154f17918ca593a032e874
+run_name: lyrical-loon-205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091144907
+status: 3
+tags: []
+user_id: root

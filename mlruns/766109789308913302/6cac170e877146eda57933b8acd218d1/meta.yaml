@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/6cac170e877146eda57933b8acd218d1/artifacts
+end_time: 1765089586820
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 6cac170e877146eda57933b8acd218d1
+run_name: bouncy-fly-853
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765089584304
+status: 3
+tags: []
+user_id: root

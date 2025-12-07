@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/2f5b7bb3913442d592a59c2ae1dfef61/artifacts
+end_time: 1765091188910
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 2f5b7bb3913442d592a59c2ae1dfef61
+run_name: salty-ray-311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091188834
+status: 3
+tags: []
+user_id: root

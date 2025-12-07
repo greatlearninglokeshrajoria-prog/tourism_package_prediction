@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/2351bedda34c4fcabb50299bf2f45409/artifacts
+end_time: 1765091154487
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 2351bedda34c4fcabb50299bf2f45409
+run_name: dashing-ant-869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091154426
+status: 3
+tags: []
+user_id: root

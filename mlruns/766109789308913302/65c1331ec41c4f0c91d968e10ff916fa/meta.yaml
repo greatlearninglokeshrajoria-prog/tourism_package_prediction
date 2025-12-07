@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/65c1331ec41c4f0c91d968e10ff916fa/artifacts
+end_time: 1765089775871
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 65c1331ec41c4f0c91d968e10ff916fa
+run_name: awesome-newt-857
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765089773195
+status: 3
+tags: []
+user_id: root

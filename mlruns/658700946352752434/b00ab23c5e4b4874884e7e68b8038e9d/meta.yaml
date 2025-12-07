@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/b00ab23c5e4b4874884e7e68b8038e9d/artifacts
+end_time: 1765091162558
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: b00ab23c5e4b4874884e7e68b8038e9d
+run_name: fearless-fawn-634
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091162517
+status: 3
+tags: []
+user_id: root

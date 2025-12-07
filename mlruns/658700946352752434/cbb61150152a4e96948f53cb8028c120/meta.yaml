@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/cbb61150152a4e96948f53cb8028c120/artifacts
+end_time: 1765091181283
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: cbb61150152a4e96948f53cb8028c120
+run_name: stylish-mare-437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091181205
+status: 3
+tags: []
+user_id: root

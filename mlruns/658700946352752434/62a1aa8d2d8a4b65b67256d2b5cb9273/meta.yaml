@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/62a1aa8d2d8a4b65b67256d2b5cb9273/artifacts
+end_time: 1765091186601
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 62a1aa8d2d8a4b65b67256d2b5cb9273
+run_name: peaceful-yak-48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091186527
+status: 3
+tags: []
+user_id: root

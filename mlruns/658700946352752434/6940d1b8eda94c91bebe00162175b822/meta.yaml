@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/6940d1b8eda94c91bebe00162175b822/artifacts
+end_time: 1765091181181
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 6940d1b8eda94c91bebe00162175b822
+run_name: suave-trout-2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091181110
+status: 3
+tags: []
+user_id: root

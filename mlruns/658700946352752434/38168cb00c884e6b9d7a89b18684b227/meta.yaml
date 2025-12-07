@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/38168cb00c884e6b9d7a89b18684b227/artifacts
+end_time: 1765091143495
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 38168cb00c884e6b9d7a89b18684b227
+run_name: whimsical-moose-465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091143443
+status: 3
+tags: []
+user_id: root

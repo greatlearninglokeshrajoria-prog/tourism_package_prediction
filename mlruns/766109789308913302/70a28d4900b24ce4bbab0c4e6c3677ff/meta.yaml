@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/70a28d4900b24ce4bbab0c4e6c3677ff/artifacts
+end_time: 1765089665132
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 70a28d4900b24ce4bbab0c4e6c3677ff
+run_name: omniscient-snipe-427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765089662624
+status: 3
+tags: []
+user_id: root

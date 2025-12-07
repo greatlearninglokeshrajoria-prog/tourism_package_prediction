@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/780df6c512c4406fae7c16b4bb2dcd1a/artifacts
+end_time: 1765091146771
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 780df6c512c4406fae7c16b4bb2dcd1a
+run_name: kindly-gull-230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091146712
+status: 3
+tags: []
+user_id: root

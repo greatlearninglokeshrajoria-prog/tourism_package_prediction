@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/78356250d30247238723b2d68da0c6c2/artifacts
+end_time: 1765091175635
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 78356250d30247238723b2d68da0c6c2
+run_name: silent-lamb-124
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091175565
+status: 3
+tags: []
+user_id: root

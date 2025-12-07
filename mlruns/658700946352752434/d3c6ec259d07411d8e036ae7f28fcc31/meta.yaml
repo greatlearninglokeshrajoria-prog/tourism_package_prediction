@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/d3c6ec259d07411d8e036ae7f28fcc31/artifacts
+end_time: 1765091175542
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: d3c6ec259d07411d8e036ae7f28fcc31
+run_name: wistful-skink-269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091175468
+status: 3
+tags: []
+user_id: root

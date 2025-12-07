@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/e3174f5fe69f49bfb15fd0de03def36c/artifacts
+end_time: 1765091185611
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: e3174f5fe69f49bfb15fd0de03def36c
+run_name: learned-crab-717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091185529
+status: 3
+tags: []
+user_id: root

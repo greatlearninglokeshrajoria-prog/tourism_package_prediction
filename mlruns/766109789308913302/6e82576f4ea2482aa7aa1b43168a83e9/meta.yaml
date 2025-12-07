@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/6e82576f4ea2482aa7aa1b43168a83e9/artifacts
+end_time: 1765090653574
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 6e82576f4ea2482aa7aa1b43168a83e9
+run_name: funny-skink-159
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765090650279
+status: 3
+tags: []
+user_id: root

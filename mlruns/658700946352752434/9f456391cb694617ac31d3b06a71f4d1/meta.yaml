@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/9f456391cb694617ac31d3b06a71f4d1/artifacts
+end_time: 1765091156641
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 9f456391cb694617ac31d3b06a71f4d1
+run_name: traveling-sow-417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091156580
+status: 3
+tags: []
+user_id: root

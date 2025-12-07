@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/f0317cee44e94f0ab78dfd4293691703/artifacts
+end_time: 1765091190772
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: f0317cee44e94f0ab78dfd4293691703
+run_name: rare-croc-965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091190696
+status: 3
+tags: []
+user_id: root

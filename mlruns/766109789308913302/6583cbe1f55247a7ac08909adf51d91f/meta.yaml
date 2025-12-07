@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/6583cbe1f55247a7ac08909adf51d91f/artifacts
+end_time: 1765090514436
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 6583cbe1f55247a7ac08909adf51d91f
+run_name: handsome-tern-909
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765090511172
+status: 3
+tags: []
+user_id: root

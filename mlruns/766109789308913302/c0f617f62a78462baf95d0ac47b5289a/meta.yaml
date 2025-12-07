@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/c0f617f62a78462baf95d0ac47b5289a/artifacts
+end_time: 1765089601367
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: c0f617f62a78462baf95d0ac47b5289a
+run_name: indecisive-boar-598
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765089598726
+status: 3
+tags: []
+user_id: root

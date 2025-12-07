@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/8453ae2501514efe9ec72fc7b379ef41/artifacts
+end_time: 1765089732881
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 8453ae2501514efe9ec72fc7b379ef41
+run_name: puzzled-moth-767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765089730399
+status: 3
+tags: []
+user_id: root

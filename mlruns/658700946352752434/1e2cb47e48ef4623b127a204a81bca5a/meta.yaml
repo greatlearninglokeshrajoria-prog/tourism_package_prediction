@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/1e2cb47e48ef4623b127a204a81bca5a/artifacts
+end_time: 1765091155168
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 1e2cb47e48ef4623b127a204a81bca5a
+run_name: spiffy-lynx-829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091155104
+status: 3
+tags: []
+user_id: root

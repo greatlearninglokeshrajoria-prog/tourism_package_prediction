@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/4b1e132ee81241a5810aa14645609080/artifacts
+end_time: 1765089672305
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 4b1e132ee81241a5810aa14645609080
+run_name: fortunate-carp-228
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765089669821
+status: 3
+tags: []
+user_id: root

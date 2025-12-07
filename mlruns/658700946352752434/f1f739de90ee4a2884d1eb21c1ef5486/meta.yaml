@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/f1f739de90ee4a2884d1eb21c1ef5486/artifacts
+end_time: 1765091173515
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: f1f739de90ee4a2884d1eb21c1ef5486
+run_name: upbeat-yak-735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091173426
+status: 3
+tags: []
+user_id: root

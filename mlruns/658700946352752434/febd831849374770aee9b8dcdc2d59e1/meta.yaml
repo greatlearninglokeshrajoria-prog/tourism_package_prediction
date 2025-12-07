@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/febd831849374770aee9b8dcdc2d59e1/artifacts
+end_time: 1765091167824
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: febd831849374770aee9b8dcdc2d59e1
+run_name: stately-stag-494
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091167782
+status: 3
+tags: []
+user_id: root

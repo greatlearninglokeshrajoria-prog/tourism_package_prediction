@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/877958a1066a4b8b8b2873b690568f46/artifacts
+end_time: 1765090731879
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 877958a1066a4b8b8b2873b690568f46
+run_name: youthful-turtle-449
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765090403224
+status: 3
+tags: []
+user_id: root

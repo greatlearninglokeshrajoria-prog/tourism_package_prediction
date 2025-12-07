@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/2ece7878882c4b0ca40e4493665c41c3/artifacts
+end_time: 1765091160442
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 2ece7878882c4b0ca40e4493665c41c3
+run_name: serious-bee-405
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091160380
+status: 3
+tags: []
+user_id: root

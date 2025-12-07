@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/ce18d37dd41241a4b7b7c331229a31d8/artifacts
+end_time: 1765091183987
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: ce18d37dd41241a4b7b7c331229a31d8
+run_name: victorious-ram-49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091183915
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/6cae98b242d04d8e9e815ce30fa1310a/artifacts
+end_time: 1765091152113
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 6cae98b242d04d8e9e815ce30fa1310a
+run_name: gifted-ray-614
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091152051
+status: 3
+tags: []
+user_id: root

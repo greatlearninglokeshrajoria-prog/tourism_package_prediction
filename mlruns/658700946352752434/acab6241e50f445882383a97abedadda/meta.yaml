@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/acab6241e50f445882383a97abedadda/artifacts
+end_time: 1765091140785
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: acab6241e50f445882383a97abedadda
+run_name: fearless-colt-707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091140749
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/ecfa543b7fb046b5a14aa8e1f8a3d6d7/artifacts
+end_time: 1765091179486
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: ecfa543b7fb046b5a14aa8e1f8a3d6d7
+run_name: ambitious-pig-696
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091179416
+status: 3
+tags: []
+user_id: root

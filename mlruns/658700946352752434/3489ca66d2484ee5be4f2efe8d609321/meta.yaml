@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/3489ca66d2484ee5be4f2efe8d609321/artifacts
+end_time: 1765091174773
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 3489ca66d2484ee5be4f2efe8d609321
+run_name: adaptable-ray-142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765091174705
+status: 3
+tags: []
+user_id: root
