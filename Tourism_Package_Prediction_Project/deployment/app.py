@@ -30,12 +30,39 @@ def load_model():
 
 model = load_model()
 
-
+# Streamlit UI
 st.title('Tourism Package Purchase Predictor')
-
+st.markdown("""
+This application predicts whether a customer will purchase a **tourism package**
+from a leading travel company based on their profile and interaction details.
+Enter the customer details below to get a purchase prediction.
+""")
 
 with st.form('input_form'):
    col1, col2 = st.columns(2)
+   with col1:
+      Age = st.number_input('Age', min_value=18, max_value=100, value=33)
+      TypeofContact = st.selectbox('TypeofContact', ['Self', 'Company'])
+      Occupation = st.selectbox('Occupation', ['Salaried', 'Business', 'Retired', 'Student'])
+      ProductPitched = st.selectbox('ProductPitched', ['Basic', 'Standard', 'Deluxe', 'King', 'Premium'])
+      MaritalStatus = st.selectbox('MaritalStatus', ['Single', 'Married', 'Divorced', 'Widowed'])
+      NumberOfPersonVisiting = st.number_input('NumberOfPersonVisiting', 1, 10, 1)
+      NumberOfChildrenVisiting = st.number_input('NumberOfChildrenVisiting', 0, 10, 0)
+      NumberOfTrips = st.number_input('NumberOfTrips', 0, 20, 1)
+
+
+   with col2:
+      Designation = st.selectbox('Designation', ['Executive', 'Manager', 'Senior Manager', 'Director', 'Others'])
+      Gender = st.selectbox('Gender', ['Male', 'Female'])
+      MonthlyIncome = st.number_input('MonthlyIncome', min_value=0, value=25000)
+      PitchSatisfactionScore = st.slider('PitchSatisfactionScore', 0, 10, 7)
+      DurationOfPitch = st.number_input('DurationOfPitch (mins)', 0, 60, 10)
+      NumberOfFollowups = st.number_input('NumberOfFollowups', 0, 10, 1)
+      CityTier = st.selectbox('CityTier', [1, 2, 3])
+      PreferredPropertyStar = st.selectbox('PreferredPropertyStar', [1, 2, 3, 4, 5])
+      Passport = st.selectbox('Passport', [0, 1])
+      OwnCar = st.selectbox('OwnCar', [0, 1])('input_form'):
+      col1, col2 = st.columns(2)
    with col1:
       Age = st.number_input('Age', min_value=18, max_value=100, value=33)
       TypeofContact = st.selectbox('TypeofContact', ['Self', 'Company'])
@@ -57,6 +84,8 @@ if submitted:
       st.error('Model not loaded')
    else:
       df = pd.DataFrame([{ # keep keys matching training columns
+           'Unnamed: 0': 0,  
+           'CustomerID': 0,             
            'Age': Age,
            'TypeofContact': TypeofContact,
            'Occupation': Occupation,
@@ -66,20 +95,16 @@ if submitted:
            'Gender': Gender,
            'MonthlyIncome': MonthlyIncome,
            'PitchSatisfactionScore': PitchSatisfactionScore,
-            # Required missing features → fill default values
-           'CustomerID': 0,
-           'NumberOfPersonVisiting': 1,
-           'NumberOfTrips': 1,
-           'OwnCar': 0,
-           'DurationOfPitch': 0,
-           'NumberOfChildrenVisiting': 0,
-           'NumberOfFollowups': 0,
-           'CityTier': 1,
-           'PreferredPropertyStar': 3,
-           'Passport': 0,
-           'Unnamed: 0': 0
-       }])
-
+           'NumberOfPersonVisiting': NumberOfPersonVisiting,
+           'NumberOfChildrenVisiting': NumberOfChildrenVisiting,
+           'NumberOfTrips': NumberOfTrips,
+           'DurationOfPitch': DurationOfPitch,
+           'NumberOfFollowups': NumberOfFollowups,
+           'CityTier': CityTier,
+           'PreferredPropertyStar': PreferredPropertyStar,
+           'Passport': Passport,
+           'OwnCar': OwnCar
+      }])                
 
       try:
           proba = model.predict_proba(df)[0, 1]
