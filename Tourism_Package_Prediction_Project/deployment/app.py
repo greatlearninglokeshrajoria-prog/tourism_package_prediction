@@ -65,7 +65,19 @@ if submitted:
            'Designation': Designation,
            'Gender': Gender,
            'MonthlyIncome': MonthlyIncome,
-           'PitchSatisfactionScore': PitchSatisfactionScore
+           'PitchSatisfactionScore': PitchSatisfactionScore,
+            # Required missing features → fill default values
+           'CustomerID': 0,
+           'NumberOfPersonVisiting': 1,
+           'NumberOfTrips': 1,
+           'OwnCar': 0,
+           'DurationOfPitch': 0,
+           'NumberOfChildrenVisiting': 0,
+           'NumberOfFollowups': 0,
+           'CityTier': 1,
+           'PreferredPropertyStar': 3,
+           'Passport': 0,
+           'Unnamed: 0': 0
        }])
 
 
