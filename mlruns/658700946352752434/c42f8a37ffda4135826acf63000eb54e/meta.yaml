@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/c42f8a37ffda4135826acf63000eb54e/artifacts
+end_time: 1765095440653
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: c42f8a37ffda4135826acf63000eb54e
+run_name: tasteful-moth-376
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095440568
+status: 3
+tags: []
+user_id: root

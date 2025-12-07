@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/bc1511cafab54a8197da8838b2f81c5a/artifacts
+end_time: 1765095414055
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: bc1511cafab54a8197da8838b2f81c5a
+run_name: sneaky-calf-329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095413920
+status: 3
+tags: []
+user_id: root

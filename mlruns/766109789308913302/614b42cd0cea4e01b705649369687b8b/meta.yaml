@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/614b42cd0cea4e01b705649369687b8b/artifacts
+end_time: 1765094892339
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 614b42cd0cea4e01b705649369687b8b
+run_name: classy-bird-778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765094889770
+status: 3
+tags: []
+user_id: root

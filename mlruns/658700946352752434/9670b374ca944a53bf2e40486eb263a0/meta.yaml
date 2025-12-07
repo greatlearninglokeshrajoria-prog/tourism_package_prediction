@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/9670b374ca944a53bf2e40486eb263a0/artifacts
+end_time: 1765095461800
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 9670b374ca944a53bf2e40486eb263a0
+run_name: marvelous-crane-662
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095461651
+status: 3
+tags: []
+user_id: root

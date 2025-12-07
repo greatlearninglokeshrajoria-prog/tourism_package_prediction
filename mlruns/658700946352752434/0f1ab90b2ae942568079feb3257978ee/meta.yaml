@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/0f1ab90b2ae942568079feb3257978ee/artifacts
+end_time: 1765095402157
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 0f1ab90b2ae942568079feb3257978ee
+run_name: silent-kit-209
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095402020
+status: 3
+tags: []
+user_id: root

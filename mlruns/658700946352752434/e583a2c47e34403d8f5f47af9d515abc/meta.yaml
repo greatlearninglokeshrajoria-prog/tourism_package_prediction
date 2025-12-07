@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/e583a2c47e34403d8f5f47af9d515abc/artifacts
+end_time: 1765095389480
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: e583a2c47e34403d8f5f47af9d515abc
+run_name: gentle-fly-574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095389399
+status: 3
+tags: []
+user_id: root

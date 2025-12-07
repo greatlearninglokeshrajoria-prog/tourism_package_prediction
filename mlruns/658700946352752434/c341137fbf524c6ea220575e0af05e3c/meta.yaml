@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/c341137fbf524c6ea220575e0af05e3c/artifacts
+end_time: 1765095467289
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: c341137fbf524c6ea220575e0af05e3c
+run_name: gaudy-dolphin-865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095467185
+status: 3
+tags: []
+user_id: root

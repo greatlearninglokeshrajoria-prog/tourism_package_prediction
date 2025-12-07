@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/d6d95cefdcf24b9aa30e0ddf08639ed3/artifacts
+end_time: 1765095393810
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: d6d95cefdcf24b9aa30e0ddf08639ed3
+run_name: secretive-flea-426
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095393680
+status: 3
+tags: []
+user_id: root

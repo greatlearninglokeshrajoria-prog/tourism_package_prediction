@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/950ca3269f844ae9ac9c64470b0446a7/artifacts
+end_time: 1765095392342
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 950ca3269f844ae9ac9c64470b0446a7
+run_name: nebulous-robin-44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095392211
+status: 3
+tags: []
+user_id: root

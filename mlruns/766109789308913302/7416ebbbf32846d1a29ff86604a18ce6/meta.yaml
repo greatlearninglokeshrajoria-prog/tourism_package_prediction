@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/7416ebbbf32846d1a29ff86604a18ce6/artifacts
+end_time: 1765095040194
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 7416ebbbf32846d1a29ff86604a18ce6
+run_name: powerful-ox-258
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095037536
+status: 3
+tags: []
+user_id: root

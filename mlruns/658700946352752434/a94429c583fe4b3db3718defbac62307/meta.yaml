@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a94429c583fe4b3db3718defbac62307/artifacts
+end_time: 1765095382734
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a94429c583fe4b3db3718defbac62307
+run_name: nebulous-tern-742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095382656
+status: 3
+tags: []
+user_id: root

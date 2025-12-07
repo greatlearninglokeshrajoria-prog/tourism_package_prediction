@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/9443c6ea3ff74a9b9646d146a540182e/artifacts
+end_time: 1765095395527
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 9443c6ea3ff74a9b9646d146a540182e
+run_name: colorful-carp-891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095395391
+status: 3
+tags: []
+user_id: root

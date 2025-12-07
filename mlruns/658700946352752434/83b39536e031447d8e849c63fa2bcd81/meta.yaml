@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/83b39536e031447d8e849c63fa2bcd81/artifacts
+end_time: 1765095458780
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 83b39536e031447d8e849c63fa2bcd81
+run_name: mysterious-steed-405
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095458634
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a854b1887e88444dabf25a92338ca927/artifacts
+end_time: 1765095386310
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a854b1887e88444dabf25a92338ca927
+run_name: luxuriant-frog-514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095386231
+status: 3
+tags: []
+user_id: root

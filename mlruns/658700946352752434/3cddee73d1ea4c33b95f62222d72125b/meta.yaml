@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/3cddee73d1ea4c33b95f62222d72125b/artifacts
+end_time: 1765095434153
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 3cddee73d1ea4c33b95f62222d72125b
+run_name: dapper-tern-832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095434010
+status: 3
+tags: []
+user_id: root

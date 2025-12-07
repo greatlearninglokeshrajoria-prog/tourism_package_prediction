@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/ba65b8ce76b24b268f26ec73bd541216/artifacts
+end_time: 1765095383541
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: ba65b8ce76b24b268f26ec73bd541216
+run_name: illustrious-bass-219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095383462
+status: 3
+tags: []
+user_id: root

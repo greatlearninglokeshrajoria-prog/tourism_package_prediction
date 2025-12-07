@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/04856b00bd7a43a39a67ff1a8a416e7d/artifacts
+end_time: 1765095443013
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 04856b00bd7a43a39a67ff1a8a416e7d
+run_name: beautiful-chimp-838
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095442920
+status: 3
+tags: []
+user_id: root

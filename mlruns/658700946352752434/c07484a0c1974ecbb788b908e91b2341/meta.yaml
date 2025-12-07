@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/c07484a0c1974ecbb788b908e91b2341/artifacts
+end_time: 1765095386818
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: c07484a0c1974ecbb788b908e91b2341
+run_name: auspicious-duck-332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095386724
+status: 3
+tags: []
+user_id: root

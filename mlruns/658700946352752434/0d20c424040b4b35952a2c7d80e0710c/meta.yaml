@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/0d20c424040b4b35952a2c7d80e0710c/artifacts
+end_time: 1765095406682
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 0d20c424040b4b35952a2c7d80e0710c
+run_name: sassy-toad-4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095406603
+status: 3
+tags: []
+user_id: root

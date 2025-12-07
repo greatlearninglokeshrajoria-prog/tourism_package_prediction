@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/5586d266fb5a44e78f8625a6ed497f53/artifacts
+end_time: 1765095401624
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 5586d266fb5a44e78f8625a6ed497f53
+run_name: righteous-deer-97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095401488
+status: 3
+tags: []
+user_id: root

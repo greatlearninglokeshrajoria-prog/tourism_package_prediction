@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/1fd16212825a41488b157390b376ea9d/artifacts
+end_time: 1765095429972
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 1fd16212825a41488b157390b376ea9d
+run_name: industrious-sow-833
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095429828
+status: 3
+tags: []
+user_id: root

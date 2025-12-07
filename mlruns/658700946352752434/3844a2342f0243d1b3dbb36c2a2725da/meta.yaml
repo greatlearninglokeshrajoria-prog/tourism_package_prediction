@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/3844a2342f0243d1b3dbb36c2a2725da/artifacts
+end_time: 1765095376956
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 3844a2342f0243d1b3dbb36c2a2725da
+run_name: chill-bug-873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095376830
+status: 3
+tags: []
+user_id: root

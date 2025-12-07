@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/64a1e82001a54e62aed6db57c7b5054e/artifacts
+end_time: 1765095431439
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 64a1e82001a54e62aed6db57c7b5054e
+run_name: grandiose-shrike-424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095431292
+status: 3
+tags: []
+user_id: root

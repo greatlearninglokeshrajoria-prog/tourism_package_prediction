@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/2a87fe05e4704ed6a95fa21effde38fb/artifacts
+end_time: 1765095384454
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 2a87fe05e4704ed6a95fa21effde38fb
+run_name: salty-horse-278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095384377
+status: 3
+tags: []
+user_id: root

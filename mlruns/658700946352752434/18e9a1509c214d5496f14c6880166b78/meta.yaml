@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/18e9a1509c214d5496f14c6880166b78/artifacts
+end_time: 1765095411177
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 18e9a1509c214d5496f14c6880166b78
+run_name: fun-croc-407
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095411098
+status: 3
+tags: []
+user_id: root

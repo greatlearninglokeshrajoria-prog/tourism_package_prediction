@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/2f0ce6c74efc4f55884aba15a2551a92/artifacts
+end_time: 1765095372473
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 2f0ce6c74efc4f55884aba15a2551a92
+run_name: silent-duck-518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095372399
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/d05a658bb3c14183a9cb93060c62c1a3/artifacts
+end_time: 1765095427618
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: d05a658bb3c14183a9cb93060c62c1a3
+run_name: bustling-doe-45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095427477
+status: 3
+tags: []
+user_id: root

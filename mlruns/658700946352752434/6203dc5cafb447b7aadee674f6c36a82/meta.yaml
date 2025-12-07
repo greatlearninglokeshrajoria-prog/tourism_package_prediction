@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/6203dc5cafb447b7aadee674f6c36a82/artifacts
+end_time: 1765095380266
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 6203dc5cafb447b7aadee674f6c36a82
+run_name: monumental-carp-574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095380128
+status: 3
+tags: []
+user_id: root

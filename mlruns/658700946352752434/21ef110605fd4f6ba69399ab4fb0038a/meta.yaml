@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/21ef110605fd4f6ba69399ab4fb0038a/artifacts
+end_time: 1765095405134
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 21ef110605fd4f6ba69399ab4fb0038a
+run_name: intelligent-roo-622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095405055
+status: 3
+tags: []
+user_id: root

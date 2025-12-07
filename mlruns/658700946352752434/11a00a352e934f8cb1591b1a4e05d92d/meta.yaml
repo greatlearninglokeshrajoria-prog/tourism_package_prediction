@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/11a00a352e934f8cb1591b1a4e05d92d/artifacts
+end_time: 1765095445652
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 11a00a352e934f8cb1591b1a4e05d92d
+run_name: lyrical-duck-743
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095445511
+status: 3
+tags: []
+user_id: root

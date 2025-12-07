@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/f0c473ce8dd74d338abb3e7d01d732da/artifacts
+end_time: 1765095391178
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: f0c473ce8dd74d338abb3e7d01d732da
+run_name: powerful-stag-459
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095391049
+status: 3
+tags: []
+user_id: root

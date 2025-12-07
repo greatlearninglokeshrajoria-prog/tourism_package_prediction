@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/566d64e01b7149f2a3d8d513d0606b29/artifacts
+end_time: 1765095006763
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 566d64e01b7149f2a3d8d513d0606b29
+run_name: bright-doe-919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095004106
+status: 3
+tags: []
+user_id: root

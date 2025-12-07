@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/de12ec34c54946799a56287637c53654/artifacts
+end_time: 1765095376800
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: de12ec34c54946799a56287637c53654
+run_name: unruly-eel-11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095376675
+status: 3
+tags: []
+user_id: root

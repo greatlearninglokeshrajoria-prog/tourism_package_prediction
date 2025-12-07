@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a7a3226119d44a5d9675163cd4c66bb7/artifacts
+end_time: 1765095413886
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a7a3226119d44a5d9675163cd4c66bb7
+run_name: intelligent-owl-392
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095413750
+status: 3
+tags: []
+user_id: root

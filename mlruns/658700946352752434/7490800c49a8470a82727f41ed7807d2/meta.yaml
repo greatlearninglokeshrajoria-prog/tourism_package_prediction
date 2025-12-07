@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/7490800c49a8470a82727f41ed7807d2/artifacts
+end_time: 1765095401104
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 7490800c49a8470a82727f41ed7807d2
+run_name: ambitious-shark-811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095400966
+status: 3
+tags: []
+user_id: root

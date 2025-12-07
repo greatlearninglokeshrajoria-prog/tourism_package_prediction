@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/e7dbec1d63c44e95965ff49302a8508b/artifacts
+end_time: 1765095422206
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: e7dbec1d63c44e95965ff49302a8508b
+run_name: clean-ray-122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095422061
+status: 3
+tags: []
+user_id: root

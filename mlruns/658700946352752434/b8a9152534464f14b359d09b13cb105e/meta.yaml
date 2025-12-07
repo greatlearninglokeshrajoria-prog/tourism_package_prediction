@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/b8a9152534464f14b359d09b13cb105e/artifacts
+end_time: 1765095390009
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: b8a9152534464f14b359d09b13cb105e
+run_name: lyrical-crane-648
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095389931
+status: 3
+tags: []
+user_id: root

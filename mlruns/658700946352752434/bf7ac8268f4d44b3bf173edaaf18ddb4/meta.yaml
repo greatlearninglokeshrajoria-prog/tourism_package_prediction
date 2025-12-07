@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/bf7ac8268f4d44b3bf173edaaf18ddb4/artifacts
+end_time: 1765095429793
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: bf7ac8268f4d44b3bf173edaaf18ddb4
+run_name: suave-fish-924
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095429650
+status: 3
+tags: []
+user_id: root

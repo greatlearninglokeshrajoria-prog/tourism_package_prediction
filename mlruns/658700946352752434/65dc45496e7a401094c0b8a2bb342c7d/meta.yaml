@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/65dc45496e7a401094c0b8a2bb342c7d/artifacts
+end_time: 1765095373272
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 65dc45496e7a401094c0b8a2bb342c7d
+run_name: legendary-auk-42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095373193
+status: 3
+tags: []
+user_id: root

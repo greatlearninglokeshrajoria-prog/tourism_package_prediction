@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/591d2610bb6b4c90901d814148dc41ac/artifacts
+end_time: 1765095460289
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 591d2610bb6b4c90901d814148dc41ac
+run_name: unleashed-gnat-646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095460136
+status: 3
+tags: []
+user_id: root

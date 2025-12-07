@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/f68056c44f5b491ba7359e52d59fe41e/artifacts
+end_time: 1765095435598
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: f68056c44f5b491ba7359e52d59fe41e
+run_name: burly-horse-68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095435494
+status: 3
+tags: []
+user_id: root

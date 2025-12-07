@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a7dff7946c0a4dd0a82ad7d1dea2fd10/artifacts
+end_time: 1765095422927
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a7dff7946c0a4dd0a82ad7d1dea2fd10
+run_name: vaunted-steed-721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095422784
+status: 3
+tags: []
+user_id: root

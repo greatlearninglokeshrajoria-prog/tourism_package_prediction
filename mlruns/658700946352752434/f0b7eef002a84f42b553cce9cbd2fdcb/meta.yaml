@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/f0b7eef002a84f42b553cce9cbd2fdcb/artifacts
+end_time: 1765095473229
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: f0b7eef002a84f42b553cce9cbd2fdcb
+run_name: monumental-yak-78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095473138
+status: 3
+tags: []
+user_id: root

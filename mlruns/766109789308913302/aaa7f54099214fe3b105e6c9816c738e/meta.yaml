@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/aaa7f54099214fe3b105e6c9816c738e/artifacts
+end_time: 1765094939965
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: aaa7f54099214fe3b105e6c9816c738e
+run_name: serious-goose-530
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765094937364
+status: 3
+tags: []
+user_id: root

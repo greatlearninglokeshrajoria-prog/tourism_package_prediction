@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/8fda7c0861f04c6f90c460bf205ea569/artifacts
+end_time: 1765095382314
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 8fda7c0861f04c6f90c460bf205ea569
+run_name: indecisive-skunk-246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095382235
+status: 3
+tags: []
+user_id: root

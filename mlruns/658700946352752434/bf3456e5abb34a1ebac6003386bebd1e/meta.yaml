@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/bf3456e5abb34a1ebac6003386bebd1e/artifacts
+end_time: 1765095444265
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: bf3456e5abb34a1ebac6003386bebd1e
+run_name: charming-worm-670
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095444166
+status: 3
+tags: []
+user_id: root

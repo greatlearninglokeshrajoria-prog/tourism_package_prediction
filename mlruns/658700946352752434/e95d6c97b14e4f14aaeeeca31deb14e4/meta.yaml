@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/e95d6c97b14e4f14aaeeeca31deb14e4/artifacts
+end_time: 1765095382519
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: e95d6c97b14e4f14aaeeeca31deb14e4
+run_name: adventurous-toad-434
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095382442
+status: 3
+tags: []
+user_id: root

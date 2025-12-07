@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/91f843925f59449c833d943483567ae7/artifacts
+end_time: 1765094928985
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 91f843925f59449c833d943483567ae7
+run_name: smiling-foal-384
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765094926398
+status: 3
+tags: []
+user_id: root

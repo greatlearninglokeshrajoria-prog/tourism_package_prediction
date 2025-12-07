@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/c5dc15f536264d8aa173edf083089d61/artifacts
+end_time: 1765095412462
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: c5dc15f536264d8aa173edf083089d61
+run_name: defiant-flea-970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095412380
+status: 3
+tags: []
+user_id: root

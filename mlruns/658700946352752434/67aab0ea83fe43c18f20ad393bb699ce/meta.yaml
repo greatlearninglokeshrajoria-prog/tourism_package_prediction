@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/67aab0ea83fe43c18f20ad393bb699ce/artifacts
+end_time: 1765095438784
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 67aab0ea83fe43c18f20ad393bb699ce
+run_name: amazing-eel-636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095438684
+status: 3
+tags: []
+user_id: root

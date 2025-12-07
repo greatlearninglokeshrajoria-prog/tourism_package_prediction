@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/38478860603e4d7494a3cad4018be0de/artifacts
+end_time: 1765095374057
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 38478860603e4d7494a3cad4018be0de
+run_name: nervous-sloth-272
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095373978
+status: 3
+tags: []
+user_id: root

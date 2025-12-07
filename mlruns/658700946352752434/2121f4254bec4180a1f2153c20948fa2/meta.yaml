@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/2121f4254bec4180a1f2153c20948fa2/artifacts
+end_time: 1765095446450
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 2121f4254bec4180a1f2153c20948fa2
+run_name: incongruous-toad-699
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095446304
+status: 3
+tags: []
+user_id: root

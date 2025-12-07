@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/8046df1996d343d5b4711598f87e9662/artifacts
+end_time: 1765095387724
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 8046df1996d343d5b4711598f87e9662
+run_name: rebellious-frog-414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095387644
+status: 3
+tags: []
+user_id: root

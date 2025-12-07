@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/d80f84d18d794e858eb117100aef76cb/artifacts
+end_time: 1765095386507
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: d80f84d18d794e858eb117100aef76cb
+run_name: incongruous-jay-535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095386428
+status: 3
+tags: []
+user_id: root

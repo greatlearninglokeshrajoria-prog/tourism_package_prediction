@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/bd320cfe2d0e4f308c86b21e6d1d7a54/artifacts
+end_time: 1765095371869
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: bd320cfe2d0e4f308c86b21e6d1d7a54
+run_name: worried-wren-938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095371793
+status: 3
+tags: []
+user_id: root

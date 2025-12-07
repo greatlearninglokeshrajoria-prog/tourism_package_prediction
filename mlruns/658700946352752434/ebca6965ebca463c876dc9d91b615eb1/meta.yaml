@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/ebca6965ebca463c876dc9d91b615eb1/artifacts
+end_time: 1765095390526
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: ebca6965ebca463c876dc9d91b615eb1
+run_name: bright-midge-403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095390449
+status: 3
+tags: []
+user_id: root

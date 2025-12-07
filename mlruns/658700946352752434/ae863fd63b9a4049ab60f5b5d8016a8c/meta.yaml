@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/ae863fd63b9a4049ab60f5b5d8016a8c/artifacts
+end_time: 1765095472169
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: ae863fd63b9a4049ab60f5b5d8016a8c
+run_name: serious-bass-10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095472078
+status: 3
+tags: []
+user_id: root

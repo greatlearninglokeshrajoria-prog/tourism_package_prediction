@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/60aaa556f6c1499389418542604c0a29/artifacts
+end_time: 1765095420035
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 60aaa556f6c1499389418542604c0a29
+run_name: youthful-chimp-381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095419888
+status: 3
+tags: []
+user_id: root

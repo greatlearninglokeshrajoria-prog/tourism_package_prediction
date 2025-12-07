@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/7d603f6e303e428a8b6047becbc8b5d7/artifacts
+end_time: 1765095396716
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 7d603f6e303e428a8b6047becbc8b5d7
+run_name: chill-koi-523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095396580
+status: 3
+tags: []
+user_id: root

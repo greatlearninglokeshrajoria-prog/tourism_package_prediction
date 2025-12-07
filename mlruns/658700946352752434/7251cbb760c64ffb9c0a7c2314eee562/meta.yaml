@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/7251cbb760c64ffb9c0a7c2314eee562/artifacts
+end_time: 1765095403884
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 7251cbb760c64ffb9c0a7c2314eee562
+run_name: abrasive-worm-660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095403784
+status: 3
+tags: []
+user_id: root

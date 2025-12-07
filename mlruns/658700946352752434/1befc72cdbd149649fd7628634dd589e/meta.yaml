@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/1befc72cdbd149649fd7628634dd589e/artifacts
+end_time: 1765095387426
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 1befc72cdbd149649fd7628634dd589e
+run_name: clean-foal-793
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095387348
+status: 3
+tags: []
+user_id: root

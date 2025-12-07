@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/bcc2d49b4d4447bd9c5e8a5d5c212c03/artifacts
+end_time: 1765095436914
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: bcc2d49b4d4447bd9c5e8a5d5c212c03
+run_name: peaceful-grub-979
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095436830
+status: 3
+tags: []
+user_id: root

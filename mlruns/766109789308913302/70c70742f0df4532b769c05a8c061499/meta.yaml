@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/70c70742f0df4532b769c05a8c061499/artifacts
+end_time: 1765095014242
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 70c70742f0df4532b769c05a8c061499
+run_name: serious-hog-781
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095011444
+status: 3
+tags: []
+user_id: root

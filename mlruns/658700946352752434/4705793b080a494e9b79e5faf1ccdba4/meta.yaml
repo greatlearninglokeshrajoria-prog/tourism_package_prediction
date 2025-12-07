@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/4705793b080a494e9b79e5faf1ccdba4/artifacts
+end_time: 1765095402861
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 4705793b080a494e9b79e5faf1ccdba4
+run_name: mysterious-dog-731
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095402722
+status: 3
+tags: []
+user_id: root

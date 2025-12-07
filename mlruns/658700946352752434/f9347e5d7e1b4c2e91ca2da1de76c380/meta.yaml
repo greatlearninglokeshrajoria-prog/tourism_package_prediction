@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/f9347e5d7e1b4c2e91ca2da1de76c380/artifacts
+end_time: 1765095457493
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: f9347e5d7e1b4c2e91ca2da1de76c380
+run_name: placid-gull-76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095457343
+status: 3
+tags: []
+user_id: root

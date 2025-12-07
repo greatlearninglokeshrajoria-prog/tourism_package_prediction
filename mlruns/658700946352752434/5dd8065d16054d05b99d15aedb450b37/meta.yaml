@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/5dd8065d16054d05b99d15aedb450b37/artifacts
+end_time: 1765095408711
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 5dd8065d16054d05b99d15aedb450b37
+run_name: orderly-ray-824
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095408571
+status: 3
+tags: []
+user_id: root

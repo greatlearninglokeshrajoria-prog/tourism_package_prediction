@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/0dfcc3f44d104b18ba87bc95c99808e1/artifacts
+end_time: 1765095439993
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 0dfcc3f44d104b18ba87bc95c99808e1
+run_name: indecisive-hound-675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095439908
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/1a95eedd4e5c4f33aad9c45e4777101b/artifacts
+end_time: 1765095432708
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 1a95eedd4e5c4f33aad9c45e4777101b
+run_name: judicious-shrimp-471
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095432567
+status: 3
+tags: []
+user_id: root

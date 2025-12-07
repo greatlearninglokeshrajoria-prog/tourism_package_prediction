@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/96c49ef763604c6b922d91439f718fbc/artifacts
+end_time: 1765095394999
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 96c49ef763604c6b922d91439f718fbc
+run_name: bald-rook-978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095394863
+status: 3
+tags: []
+user_id: root

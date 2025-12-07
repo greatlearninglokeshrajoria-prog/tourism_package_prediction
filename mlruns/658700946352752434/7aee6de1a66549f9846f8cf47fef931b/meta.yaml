@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/7aee6de1a66549f9846f8cf47fef931b/artifacts
+end_time: 1765095463523
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 7aee6de1a66549f9846f8cf47fef931b
+run_name: hilarious-sow-164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095463373
+status: 3
+tags: []
+user_id: root

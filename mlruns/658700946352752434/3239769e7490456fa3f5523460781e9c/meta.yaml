@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/3239769e7490456fa3f5523460781e9c/artifacts
+end_time: 1765095406477
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 3239769e7490456fa3f5523460781e9c
+run_name: rare-steed-209
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095406397
+status: 3
+tags: []
+user_id: root

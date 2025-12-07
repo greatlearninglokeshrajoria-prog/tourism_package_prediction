@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/c162c906489543d6ba8cb56f08e39048/artifacts
+end_time: 1765095447345
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: c162c906489543d6ba8cb56f08e39048
+run_name: painted-cow-64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095447208
+status: 3
+tags: []
+user_id: root

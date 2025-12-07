@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/57f50886c07a4cb8b16816cb3779eb1a/artifacts
+end_time: 1765095458972
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 57f50886c07a4cb8b16816cb3779eb1a
+run_name: gentle-goose-300
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095458817
+status: 3
+tags: []
+user_id: root

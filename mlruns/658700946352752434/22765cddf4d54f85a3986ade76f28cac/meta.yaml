@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/22765cddf4d54f85a3986ade76f28cac/artifacts
+end_time: 1765095411814
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 22765cddf4d54f85a3986ade76f28cac
+run_name: unruly-crane-863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095411727
+status: 3
+tags: []
+user_id: root

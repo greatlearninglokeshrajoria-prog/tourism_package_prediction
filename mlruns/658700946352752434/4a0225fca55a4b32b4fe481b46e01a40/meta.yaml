@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/4a0225fca55a4b32b4fe481b46e01a40/artifacts
+end_time: 1765095417173
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 4a0225fca55a4b32b4fe481b46e01a40
+run_name: sneaky-panda-698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095417032
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a61beab04b504cb7bfb4c051c60d1f92/artifacts
+end_time: 1765095380997
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a61beab04b504cb7bfb4c051c60d1f92
+run_name: mysterious-fawn-764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095380921
+status: 3
+tags: []
+user_id: root

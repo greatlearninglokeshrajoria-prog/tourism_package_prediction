@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/574bfb7dd0264406a6d187074dd8b23a/artifacts
+end_time: 1765095412884
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 574bfb7dd0264406a6d187074dd8b23a
+run_name: charming-stork-173
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095412803
+status: 3
+tags: []
+user_id: root

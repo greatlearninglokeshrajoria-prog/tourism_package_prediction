@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/d2ea9059541b4de7a790d75dbfd801e7/artifacts
+end_time: 1765095017984
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: d2ea9059541b4de7a790d75dbfd801e7
+run_name: serious-tern-491
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095015363
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/26da0a3bd73541c5b194ed365e52931a/artifacts
+end_time: 1765095398483
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 26da0a3bd73541c5b194ed365e52931a
+run_name: likeable-smelt-230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095398328
+status: 3
+tags: []
+user_id: root

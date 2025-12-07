@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/fcb33939f2c24fd2a79bdcb65d3016ca/artifacts
+end_time: 1765095421834
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: fcb33939f2c24fd2a79bdcb65d3016ca
+run_name: resilient-squid-228
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095421682
+status: 3
+tags: []
+user_id: root

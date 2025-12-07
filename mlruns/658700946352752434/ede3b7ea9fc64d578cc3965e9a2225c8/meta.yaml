@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/ede3b7ea9fc64d578cc3965e9a2225c8/artifacts
+end_time: 1765095438339
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: ede3b7ea9fc64d578cc3965e9a2225c8
+run_name: lyrical-sow-477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095438253
+status: 3
+tags: []
+user_id: root

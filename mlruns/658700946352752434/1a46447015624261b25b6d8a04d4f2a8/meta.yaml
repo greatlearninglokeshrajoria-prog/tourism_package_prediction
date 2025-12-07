@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/1a46447015624261b25b6d8a04d4f2a8/artifacts
+end_time: 1765095404087
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 1a46447015624261b25b6d8a04d4f2a8
+run_name: nosy-sloth-773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095404005
+status: 3
+tags: []
+user_id: root

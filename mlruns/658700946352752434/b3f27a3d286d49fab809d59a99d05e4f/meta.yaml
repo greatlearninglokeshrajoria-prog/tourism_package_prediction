@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/b3f27a3d286d49fab809d59a99d05e4f/artifacts
+end_time: 1765095469376
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: b3f27a3d286d49fab809d59a99d05e4f
+run_name: marvelous-gull-744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095469281
+status: 3
+tags: []
+user_id: root

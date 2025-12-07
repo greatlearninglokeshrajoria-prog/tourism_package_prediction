@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/3b6e52b4676f4e47b9a2cab55b3ff423/artifacts
+end_time: 1765095410349
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 3b6e52b4676f4e47b9a2cab55b3ff423
+run_name: bemused-goose-472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095410265
+status: 3
+tags: []
+user_id: root

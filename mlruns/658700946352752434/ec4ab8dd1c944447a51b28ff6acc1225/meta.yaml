@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/ec4ab8dd1c944447a51b28ff6acc1225/artifacts
+end_time: 1765095375835
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: ec4ab8dd1c944447a51b28ff6acc1225
+run_name: selective-stork-359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095375700
+status: 3
+tags: []
+user_id: root

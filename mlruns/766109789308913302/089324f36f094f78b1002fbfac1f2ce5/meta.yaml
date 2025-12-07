@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/089324f36f094f78b1002fbfac1f2ce5/artifacts
+end_time: 1765094863311
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 089324f36f094f78b1002fbfac1f2ce5
+run_name: indecisive-finch-681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765094860715
+status: 3
+tags: []
+user_id: root

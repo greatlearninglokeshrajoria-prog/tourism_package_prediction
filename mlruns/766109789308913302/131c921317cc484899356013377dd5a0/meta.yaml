@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/131c921317cc484899356013377dd5a0/artifacts
+end_time: 1765094833524
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 131c921317cc484899356013377dd5a0
+run_name: calm-mouse-704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765094830893
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/6e1a85ade1f744a48f97a0bbeb757425/artifacts
+end_time: 1765095431071
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 6e1a85ade1f744a48f97a0bbeb757425
+run_name: crawling-panda-961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095430925
+status: 3
+tags: []
+user_id: root

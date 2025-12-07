@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/9c997e909f6942f4bfc05a3672fc5e18/artifacts
+end_time: 1765095376644
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 9c997e909f6942f4bfc05a3672fc5e18
+run_name: adorable-slug-208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095376513
+status: 3
+tags: []
+user_id: root

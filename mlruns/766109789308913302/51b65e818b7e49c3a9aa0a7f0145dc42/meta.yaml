@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/51b65e818b7e49c3a9aa0a7f0145dc42/artifacts
+end_time: 1765094925390
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 51b65e818b7e49c3a9aa0a7f0145dc42
+run_name: angry-fly-629
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765094922808
+status: 3
+tags: []
+user_id: root

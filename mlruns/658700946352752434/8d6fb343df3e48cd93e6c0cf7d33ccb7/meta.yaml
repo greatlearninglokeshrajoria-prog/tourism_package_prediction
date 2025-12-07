@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/8d6fb343df3e48cd93e6c0cf7d33ccb7/artifacts
+end_time: 1765095460659
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 8d6fb343df3e48cd93e6c0cf7d33ccb7
+run_name: upset-squid-555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095460510
+status: 3
+tags: []
+user_id: root

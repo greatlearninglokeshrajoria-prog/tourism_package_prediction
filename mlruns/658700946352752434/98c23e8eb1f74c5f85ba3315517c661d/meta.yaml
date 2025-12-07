@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/98c23e8eb1f74c5f85ba3315517c661d/artifacts
+end_time: 1765095400403
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 98c23e8eb1f74c5f85ba3315517c661d
+run_name: capricious-panda-898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095400263
+status: 3
+tags: []
+user_id: root

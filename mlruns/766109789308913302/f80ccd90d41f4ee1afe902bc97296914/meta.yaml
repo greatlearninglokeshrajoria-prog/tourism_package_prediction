@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/f80ccd90d41f4ee1afe902bc97296914/artifacts
+end_time: 1765095051447
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: f80ccd90d41f4ee1afe902bc97296914
+run_name: unique-trout-908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095048684
+status: 3
+tags: []
+user_id: root

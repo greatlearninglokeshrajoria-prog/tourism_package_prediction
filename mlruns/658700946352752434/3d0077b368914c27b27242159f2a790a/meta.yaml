@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/3d0077b368914c27b27242159f2a790a/artifacts
+end_time: 1765095384763
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 3d0077b368914c27b27242159f2a790a
+run_name: unique-ram-578
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095384670
+status: 3
+tags: []
+user_id: root

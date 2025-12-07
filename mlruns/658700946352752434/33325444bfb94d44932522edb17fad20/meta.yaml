@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/33325444bfb94d44932522edb17fad20/artifacts
+end_time: 1765095448992
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 33325444bfb94d44932522edb17fad20
+run_name: rare-koi-812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095448848
+status: 3
+tags: []
+user_id: root

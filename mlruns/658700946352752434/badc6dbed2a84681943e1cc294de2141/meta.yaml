@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/badc6dbed2a84681943e1cc294de2141/artifacts
+end_time: 1765095455032
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: badc6dbed2a84681943e1cc294de2141
+run_name: unruly-calf-895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095454883
+status: 3
+tags: []
+user_id: root

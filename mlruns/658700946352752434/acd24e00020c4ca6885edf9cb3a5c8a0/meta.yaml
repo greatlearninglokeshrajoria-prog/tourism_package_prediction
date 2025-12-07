@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/acd24e00020c4ca6885edf9cb3a5c8a0/artifacts
+end_time: 1765095394493
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: acd24e00020c4ca6885edf9cb3a5c8a0
+run_name: glamorous-flea-859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095394366
+status: 3
+tags: []
+user_id: root

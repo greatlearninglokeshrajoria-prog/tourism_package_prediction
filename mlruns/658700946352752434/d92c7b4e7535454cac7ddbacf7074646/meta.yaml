@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/d92c7b4e7535454cac7ddbacf7074646/artifacts
+end_time: 1765095446632
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: d92c7b4e7535454cac7ddbacf7074646
+run_name: intrigued-zebra-593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095446484
+status: 3
+tags: []
+user_id: root

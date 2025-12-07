@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/0496fc59b664475db1033f090264af15/artifacts
+end_time: 1765095473461
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 0496fc59b664475db1033f090264af15
+run_name: adaptable-koi-477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095473372
+status: 3
+tags: []
+user_id: root

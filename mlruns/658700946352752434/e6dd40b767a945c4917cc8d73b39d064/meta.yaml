@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/e6dd40b767a945c4917cc8d73b39d064/artifacts
+end_time: 1765095470305
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: e6dd40b767a945c4917cc8d73b39d064
+run_name: industrious-fawn-730
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095470209
+status: 3
+tags: []
+user_id: root

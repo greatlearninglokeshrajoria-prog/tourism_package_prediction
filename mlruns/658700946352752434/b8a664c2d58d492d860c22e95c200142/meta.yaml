@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/b8a664c2d58d492d860c22e95c200142/artifacts
+end_time: 1765095443576
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: b8a664c2d58d492d860c22e95c200142
+run_name: unruly-flea-102
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095443486
+status: 3
+tags: []
+user_id: root

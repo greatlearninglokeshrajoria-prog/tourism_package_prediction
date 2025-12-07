@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a990969065ee4264a80a3b770e8dbb6a/artifacts
+end_time: 1765095372180
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a990969065ee4264a80a3b770e8dbb6a
+run_name: salty-foal-704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095372101
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/46a02caf7d2745d1bec358fb7e51a113/artifacts
+end_time: 1765095429070
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 46a02caf7d2745d1bec358fb7e51a113
+run_name: chill-shrimp-628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095428930
+status: 3
+tags: []
+user_id: root

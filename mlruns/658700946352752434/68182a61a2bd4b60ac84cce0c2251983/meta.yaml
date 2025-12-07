@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/68182a61a2bd4b60ac84cce0c2251983/artifacts
+end_time: 1765095373368
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 68182a61a2bd4b60ac84cce0c2251983
+run_name: orderly-lynx-626
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095373293
+status: 3
+tags: []
+user_id: root

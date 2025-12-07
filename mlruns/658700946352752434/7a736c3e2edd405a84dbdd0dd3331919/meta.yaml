@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/7a736c3e2edd405a84dbdd0dd3331919/artifacts
+end_time: 1765095397050
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 7a736c3e2edd405a84dbdd0dd3331919
+run_name: popular-asp-729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095396917
+status: 3
+tags: []
+user_id: root

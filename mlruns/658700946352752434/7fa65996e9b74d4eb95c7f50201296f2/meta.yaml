@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/7fa65996e9b74d4eb95c7f50201296f2/artifacts
+end_time: 1765095456546
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 7fa65996e9b74d4eb95c7f50201296f2
+run_name: rare-hound-295
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095456397
+status: 3
+tags: []
+user_id: root

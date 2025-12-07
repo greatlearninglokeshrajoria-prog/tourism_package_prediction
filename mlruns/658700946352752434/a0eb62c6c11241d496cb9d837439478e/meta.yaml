@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a0eb62c6c11241d496cb9d837439478e/artifacts
+end_time: 1765095400763
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a0eb62c6c11241d496cb9d837439478e
+run_name: whimsical-shrew-948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095400621
+status: 3
+tags: []
+user_id: root

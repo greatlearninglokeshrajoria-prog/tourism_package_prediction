@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/fa5ffec5543d4adab4960c42006c08b1/artifacts
+end_time: 1765095384155
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: fa5ffec5543d4adab4960c42006c08b1
+run_name: calm-shoat-786
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095384077
+status: 3
+tags: []
+user_id: root

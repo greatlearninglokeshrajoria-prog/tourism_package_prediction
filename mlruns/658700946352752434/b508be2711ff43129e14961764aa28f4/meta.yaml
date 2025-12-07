@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/b508be2711ff43129e14961764aa28f4/artifacts
+end_time: 1765095375348
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: b508be2711ff43129e14961764aa28f4
+run_name: funny-rook-871
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095375213
+status: 3
+tags: []
+user_id: root

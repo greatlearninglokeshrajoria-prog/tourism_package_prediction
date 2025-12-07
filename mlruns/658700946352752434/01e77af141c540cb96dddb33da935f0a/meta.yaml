@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/01e77af141c540cb96dddb33da935f0a/artifacts
+end_time: 1765095418770
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 01e77af141c540cb96dddb33da935f0a
+run_name: valuable-ox-459
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095418629
+status: 3
+tags: []
+user_id: root

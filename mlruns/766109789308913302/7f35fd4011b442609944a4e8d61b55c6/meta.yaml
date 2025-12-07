@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/7f35fd4011b442609944a4e8d61b55c6/artifacts
+end_time: 1765095029072
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 7f35fd4011b442609944a4e8d61b55c6
+run_name: mercurial-toad-582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095026499
+status: 3
+tags: []
+user_id: root

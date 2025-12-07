@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/cfba18e9dd59464f90dc3db7c752413b/artifacts
+end_time: 1765095381105
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: cfba18e9dd59464f90dc3db7c752413b
+run_name: inquisitive-owl-241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095381017
+status: 3
+tags: []
+user_id: root

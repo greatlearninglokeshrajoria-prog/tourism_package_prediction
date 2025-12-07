@@ -2,14 +2,12 @@ from huggingface_hub.utils import RepositoryNotFoundError, HfHubHTTPError
 from huggingface_hub import HfApi, create_repo
 import os
 
-
 repo_id = "greatlearninglokeshrajoria/tourism-package-prediction"
 repo_type = "dataset"
 
-os.environ["HF_TOKEN"] = "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"
-
+HF_TOKEN = os.getenv("HF_TOKEN")
 # Initialize API client - relies on HF_TOKEN being set as an environment variable
-api = HfApi(token=os.getenv("HF_TOKEN"))
+api = HfApi(token=HF_TOKEN)
 
 # Step 1: Check if the space exists
 try:

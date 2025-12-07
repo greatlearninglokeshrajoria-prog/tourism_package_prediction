@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a5ca7d47da7c47b58d7eb3aa8b9f3c5c/artifacts
+end_time: 1765095424226
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a5ca7d47da7c47b58d7eb3aa8b9f3c5c
+run_name: handsome-conch-706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095424078
+status: 3
+tags: []
+user_id: root

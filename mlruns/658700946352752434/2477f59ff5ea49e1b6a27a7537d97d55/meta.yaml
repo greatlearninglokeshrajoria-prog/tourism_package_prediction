@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/2477f59ff5ea49e1b6a27a7537d97d55/artifacts
+end_time: 1765095417532
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 2477f59ff5ea49e1b6a27a7537d97d55
+run_name: casual-smelt-74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095417382
+status: 3
+tags: []
+user_id: root

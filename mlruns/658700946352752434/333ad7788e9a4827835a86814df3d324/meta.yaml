@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/333ad7788e9a4827835a86814df3d324/artifacts
+end_time: 1765095438658
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 333ad7788e9a4827835a86814df3d324
+run_name: wistful-sheep-106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095438575
+status: 3
+tags: []
+user_id: root

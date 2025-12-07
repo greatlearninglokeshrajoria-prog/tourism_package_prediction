@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/26f3b1eae77145b99aecea2b59868567/artifacts
+end_time: 1765095400046
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 26f3b1eae77145b99aecea2b59868567
+run_name: able-lark-509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095399906
+status: 3
+tags: []
+user_id: root

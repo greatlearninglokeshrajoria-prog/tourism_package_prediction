@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/9571dbee4eea4879937a37490cf716ab/artifacts
+end_time: 1765095386013
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 9571dbee4eea4879937a37490cf716ab
+run_name: delicate-sloth-44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095385935
+status: 3
+tags: []
+user_id: root

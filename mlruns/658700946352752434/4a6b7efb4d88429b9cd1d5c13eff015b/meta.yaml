@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/4a6b7efb4d88429b9cd1d5c13eff015b/artifacts
+end_time: 1765095438445
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 4a6b7efb4d88429b9cd1d5c13eff015b
+run_name: illustrious-asp-222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095438360
+status: 3
+tags: []
+user_id: root

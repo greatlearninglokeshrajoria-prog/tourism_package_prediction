@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/834a24f5496a42f3b1697c4a54665282/artifacts
+end_time: 1765095433061
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 834a24f5496a42f3b1697c4a54665282
+run_name: traveling-steed-83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095432922
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/55fc1eefba784821ac67bcea0e8fa7b8/artifacts
+end_time: 1765095437346
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 55fc1eefba784821ac67bcea0e8fa7b8
+run_name: merciful-perch-834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095437257
+status: 3
+tags: []
+user_id: root

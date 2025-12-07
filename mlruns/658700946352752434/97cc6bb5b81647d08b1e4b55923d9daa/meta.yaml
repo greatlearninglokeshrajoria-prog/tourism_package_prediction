@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/97cc6bb5b81647d08b1e4b55923d9daa/artifacts
+end_time: 1765095387524
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 97cc6bb5b81647d08b1e4b55923d9daa
+run_name: luminous-fly-260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095387447
+status: 3
+tags: []
+user_id: root

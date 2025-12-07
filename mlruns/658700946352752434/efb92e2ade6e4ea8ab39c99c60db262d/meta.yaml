@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/efb92e2ade6e4ea8ab39c99c60db262d/artifacts
+end_time: 1765095393979
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: efb92e2ade6e4ea8ab39c99c60db262d
+run_name: bald-auk-402
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095393844
+status: 3
+tags: []
+user_id: root

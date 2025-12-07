@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/8cefc37a0d8c47a1a2aae06e3d55842f/artifacts
+end_time: 1765095397220
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 8cefc37a0d8c47a1a2aae06e3d55842f
+run_name: smiling-pug-899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095397084
+status: 3
+tags: []
+user_id: root

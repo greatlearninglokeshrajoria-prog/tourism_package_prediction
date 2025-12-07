@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/4b21997facaf483a8a5502f59df16f0f/artifacts
+end_time: 1765095453886
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 4b21997facaf483a8a5502f59df16f0f
+run_name: intrigued-toad-500
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095453739
+status: 3
+tags: []
+user_id: root

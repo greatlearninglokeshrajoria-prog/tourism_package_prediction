@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/159d2b01f34c420dbee9870fae2d7a92/artifacts
+end_time: 1765095445475
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 159d2b01f34c420dbee9870fae2d7a92
+run_name: invincible-calf-145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095445325
+status: 3
+tags: []
+user_id: root

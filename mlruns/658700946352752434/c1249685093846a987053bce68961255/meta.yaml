@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/c1249685093846a987053bce68961255/artifacts
+end_time: 1765095426901
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: c1249685093846a987053bce68961255
+run_name: aged-perch-328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095426755
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/3452bc902488477794596c895c29b910/artifacts
+end_time: 1765095411915
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 3452bc902488477794596c895c29b910
+run_name: upset-squirrel-819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095411834
+status: 3
+tags: []
+user_id: root

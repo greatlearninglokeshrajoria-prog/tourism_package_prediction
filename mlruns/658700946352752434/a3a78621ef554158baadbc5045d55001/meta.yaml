@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a3a78621ef554158baadbc5045d55001/artifacts
+end_time: 1765095422021
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a3a78621ef554158baadbc5045d55001
+run_name: tasteful-mink-812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095421871
+status: 3
+tags: []
+user_id: root

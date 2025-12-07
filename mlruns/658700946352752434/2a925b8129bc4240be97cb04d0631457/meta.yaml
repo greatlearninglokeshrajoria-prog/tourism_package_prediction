@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/2a925b8129bc4240be97cb04d0631457/artifacts
+end_time: 1765095462758
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 2a925b8129bc4240be97cb04d0631457
+run_name: languid-hound-204
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095462600
+status: 3
+tags: []
+user_id: root

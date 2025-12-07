@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/6335dfd9f0774349beee943e7eac7aa9/artifacts
+end_time: 1765095387624
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 6335dfd9f0774349beee943e7eac7aa9
+run_name: delicate-snake-885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095387546
+status: 3
+tags: []
+user_id: root

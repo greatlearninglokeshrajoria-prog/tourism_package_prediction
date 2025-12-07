@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/f7a346d87a524c72af365e4b6a891b26/artifacts
+end_time: 1765095439330
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: f7a346d87a524c72af365e4b6a891b26
+run_name: intrigued-eel-207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095439239
+status: 3
+tags: []
+user_id: root

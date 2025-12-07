@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/2d42d2aa666340d3a86509480bc4ecf3/artifacts
+end_time: 1765094903310
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 2d42d2aa666340d3a86509480bc4ecf3
+run_name: placid-foal-848
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765094900705
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/5b96db0b919c48b9ad2ad8219a252e53/artifacts
+end_time: 1765095382018
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 5b96db0b919c48b9ad2ad8219a252e53
+run_name: merciful-gnat-169
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095381941
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/9f927d326a0e4cb09020168e24d40d37/artifacts
+end_time: 1765095397604
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 9f927d326a0e4cb09020168e24d40d37
+run_name: honorable-bass-742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095397467
+status: 3
+tags: []
+user_id: root

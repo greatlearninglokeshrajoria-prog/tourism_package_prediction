@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/279cadd5104c4e738f9148982a81fb78/artifacts
+end_time: 1765094895960
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 279cadd5104c4e738f9148982a81fb78
+run_name: fun-snail-214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765094893355
+status: 3
+tags: []
+user_id: root

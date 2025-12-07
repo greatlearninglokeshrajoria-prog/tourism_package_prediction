@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/bcd8e6f702764fa8bb8572fed7c2b19a/artifacts
+end_time: 1765095452938
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: bcd8e6f702764fa8bb8572fed7c2b19a
+run_name: shivering-finch-639
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095452786
+status: 3
+tags: []
+user_id: root

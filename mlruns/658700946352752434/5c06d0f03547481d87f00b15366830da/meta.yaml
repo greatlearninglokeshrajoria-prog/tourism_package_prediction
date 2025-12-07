@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/5c06d0f03547481d87f00b15366830da/artifacts
+end_time: 1765095383438
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 5c06d0f03547481d87f00b15366830da
+run_name: calm-roo-566
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095383358
+status: 3
+tags: []
+user_id: root

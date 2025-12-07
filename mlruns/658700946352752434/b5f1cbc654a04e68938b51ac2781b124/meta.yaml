@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/b5f1cbc654a04e68938b51ac2781b124/artifacts
+end_time: 1765095434899
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: b5f1cbc654a04e68938b51ac2781b124
+run_name: gentle-sloth-475
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095434756
+status: 3
+tags: []
+user_id: root

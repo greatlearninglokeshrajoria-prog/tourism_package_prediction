@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/ea50bcaa6ef04a10ba4add4944423830/artifacts
+end_time: 1765095447883
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: ea50bcaa6ef04a10ba4add4944423830
+run_name: traveling-vole-824
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095447738
+status: 3
+tags: []
+user_id: root

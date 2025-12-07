@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/7447e0afb46b4f5ba3d568a027ac3fec/artifacts
+end_time: 1765095458230
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 7447e0afb46b4f5ba3d568a027ac3fec
+run_name: bemused-ray-986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095458081
+status: 3
+tags: []
+user_id: root

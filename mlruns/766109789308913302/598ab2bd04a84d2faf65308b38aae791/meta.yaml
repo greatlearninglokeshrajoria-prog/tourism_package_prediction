@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/598ab2bd04a84d2faf65308b38aae791/artifacts
+end_time: 1765094866926
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 598ab2bd04a84d2faf65308b38aae791
+run_name: agreeable-shoat-193
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765094864343
+status: 3
+tags: []
+user_id: root

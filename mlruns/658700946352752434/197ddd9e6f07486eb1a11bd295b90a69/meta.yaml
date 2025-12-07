@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/197ddd9e6f07486eb1a11bd295b90a69/artifacts
+end_time: 1765095437560
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 197ddd9e6f07486eb1a11bd295b90a69
+run_name: indecisive-sloth-527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095437475
+status: 3
+tags: []
+user_id: root

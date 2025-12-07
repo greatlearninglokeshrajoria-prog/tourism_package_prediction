@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/5ffbe7e4c5ff42048fc7caf2202e59aa/artifacts
+end_time: 1765095404404
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 5ffbe7e4c5ff42048fc7caf2202e59aa
+run_name: spiffy-dove-578
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095404324
+status: 3
+tags: []
+user_id: root

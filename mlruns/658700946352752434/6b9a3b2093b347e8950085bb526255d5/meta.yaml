@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/6b9a3b2093b347e8950085bb526255d5/artifacts
+end_time: 1765095454847
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 6b9a3b2093b347e8950085bb526255d5
+run_name: industrious-moth-730
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095454696
+status: 3
+tags: []
+user_id: root

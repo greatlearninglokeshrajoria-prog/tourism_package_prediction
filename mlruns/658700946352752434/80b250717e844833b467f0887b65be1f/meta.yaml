@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/80b250717e844833b467f0887b65be1f/artifacts
+end_time: 1765095413546
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 80b250717e844833b467f0887b65be1f
+run_name: capricious-sheep-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095413457
+status: 3
+tags: []
+user_id: root

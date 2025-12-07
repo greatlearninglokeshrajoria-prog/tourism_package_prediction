@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/3583547a1ee74edba4cce4e1fe923793/artifacts
+end_time: 1765095374275
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 3583547a1ee74edba4cce4e1fe923793
+run_name: silent-lynx-675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095374192
+status: 3
+tags: []
+user_id: root

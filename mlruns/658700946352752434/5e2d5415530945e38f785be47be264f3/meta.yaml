@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/5e2d5415530945e38f785be47be264f3/artifacts
+end_time: 1765095383232
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 5e2d5415530945e38f785be47be264f3
+run_name: languid-boar-200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095383155
+status: 3
+tags: []
+user_id: root

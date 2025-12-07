@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/b1e1da083303418887c7bcae8936161b/artifacts
+end_time: 1765095378264
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: b1e1da083303418887c7bcae8936161b
+run_name: unleashed-hare-659
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095378127
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/eac13b5c346f4389be5829ad8a2c037f/artifacts
+end_time: 1765094870719
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: eac13b5c346f4389be5829ad8a2c037f
+run_name: fortunate-kit-483
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765094867994
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/ac258d2e55e64f96b7ebd55cf8602131/artifacts
+end_time: 1765095474767
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: ac258d2e55e64f96b7ebd55cf8602131
+run_name: loud-boar-410
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095474674
+status: 3
+tags: []
+user_id: root

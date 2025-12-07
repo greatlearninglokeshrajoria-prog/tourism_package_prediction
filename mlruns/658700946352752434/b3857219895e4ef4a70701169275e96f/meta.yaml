@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/b3857219895e4ef4a70701169275e96f/artifacts
+end_time: 1765095422385
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: b3857219895e4ef4a70701169275e96f
+run_name: gregarious-calf-805
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095422244
+status: 3
+tags: []
+user_id: root

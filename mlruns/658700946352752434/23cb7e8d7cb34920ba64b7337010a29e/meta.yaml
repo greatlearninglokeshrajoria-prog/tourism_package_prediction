@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/23cb7e8d7cb34920ba64b7337010a29e/artifacts
+end_time: 1765095383032
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 23cb7e8d7cb34920ba64b7337010a29e
+run_name: clumsy-sloth-516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095382954
+status: 3
+tags: []
+user_id: root

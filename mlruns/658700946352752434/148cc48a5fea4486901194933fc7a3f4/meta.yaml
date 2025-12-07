@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/148cc48a5fea4486901194933fc7a3f4/artifacts
+end_time: 1765095409709
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 148cc48a5fea4486901194933fc7a3f4
+run_name: agreeable-moth-890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095409629
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/2de9669727f5476e946d016970deb0da/artifacts
+end_time: 1765095378095
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 2de9669727f5476e946d016970deb0da
+run_name: unequaled-doe-832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095377968
+status: 3
+tags: []
+user_id: root

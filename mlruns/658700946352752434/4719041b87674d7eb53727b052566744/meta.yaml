@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/4719041b87674d7eb53727b052566744/artifacts
+end_time: 1765095417698
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 4719041b87674d7eb53727b052566744
+run_name: sneaky-swan-240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095417566
+status: 3
+tags: []
+user_id: root

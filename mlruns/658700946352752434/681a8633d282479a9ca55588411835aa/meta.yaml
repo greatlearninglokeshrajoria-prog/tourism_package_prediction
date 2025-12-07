@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/681a8633d282479a9ca55588411835aa/artifacts
+end_time: 1765095414221
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 681a8633d282479a9ca55588411835aa
+run_name: aged-dolphin-606
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095414090
+status: 3
+tags: []
+user_id: root

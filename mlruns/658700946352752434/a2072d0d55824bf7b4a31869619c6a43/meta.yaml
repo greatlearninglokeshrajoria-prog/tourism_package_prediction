@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a2072d0d55824bf7b4a31869619c6a43/artifacts
+end_time: 1765095444035
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a2072d0d55824bf7b4a31869619c6a43
+run_name: amusing-grouse-201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095443945
+status: 3
+tags: []
+user_id: root

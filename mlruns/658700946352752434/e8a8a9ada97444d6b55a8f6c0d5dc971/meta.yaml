@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/e8a8a9ada97444d6b55a8f6c0d5dc971/artifacts
+end_time: 1765095468798
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: e8a8a9ada97444d6b55a8f6c0d5dc971
+run_name: smiling-lamb-732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095468705
+status: 3
+tags: []
+user_id: root

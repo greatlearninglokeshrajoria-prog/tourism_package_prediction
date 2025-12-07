@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/726b96c27da94c0d9e04881a4b162854/artifacts
+end_time: 1765095374774
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 726b96c27da94c0d9e04881a4b162854
+run_name: burly-bass-824
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095374689
+status: 3
+tags: []
+user_id: root

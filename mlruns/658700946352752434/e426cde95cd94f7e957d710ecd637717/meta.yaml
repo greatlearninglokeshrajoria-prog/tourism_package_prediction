@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/e426cde95cd94f7e957d710ecd637717/artifacts
+end_time: 1765095460853
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: e426cde95cd94f7e957d710ecd637717
+run_name: bouncy-rook-107
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095460696
+status: 3
+tags: []
+user_id: root

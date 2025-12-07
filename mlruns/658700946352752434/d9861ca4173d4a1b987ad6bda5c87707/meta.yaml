@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/d9861ca4173d4a1b987ad6bda5c87707/artifacts
+end_time: 1765095452560
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: d9861ca4173d4a1b987ad6bda5c87707
+run_name: abundant-worm-183
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095452379
+status: 3
+tags: []
+user_id: root

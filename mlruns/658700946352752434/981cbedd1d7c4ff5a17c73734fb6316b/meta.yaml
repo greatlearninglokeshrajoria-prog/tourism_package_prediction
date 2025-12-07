@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/981cbedd1d7c4ff5a17c73734fb6316b/artifacts
+end_time: 1765095405233
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 981cbedd1d7c4ff5a17c73734fb6316b
+run_name: legendary-goat-332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095405154
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/c8a3ba86dc8b4b10ab5d9d85dcbb2120/artifacts
+end_time: 1765095455408
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: c8a3ba86dc8b4b10ab5d9d85dcbb2120
+run_name: nervous-rook-597
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095455260
+status: 3
+tags: []
+user_id: root

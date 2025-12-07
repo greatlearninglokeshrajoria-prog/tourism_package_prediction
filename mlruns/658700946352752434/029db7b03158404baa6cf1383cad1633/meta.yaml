@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/029db7b03158404baa6cf1383cad1633/artifacts
+end_time: 1765095475120
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 029db7b03158404baa6cf1383cad1633
+run_name: legendary-panda-231
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095475016
+status: 3
+tags: []
+user_id: root

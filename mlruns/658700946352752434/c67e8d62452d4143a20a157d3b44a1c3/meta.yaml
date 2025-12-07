@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/c67e8d62452d4143a20a157d3b44a1c3/artifacts
+end_time: 1765095471233
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: c67e8d62452d4143a20a157d3b44a1c3
+run_name: whimsical-hen-318
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095471139
+status: 3
+tags: []
+user_id: root

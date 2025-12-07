@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/62543af59e4140c3ad639a9045c612a8/artifacts
+end_time: 1765095473709
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 62543af59e4140c3ad639a9045c612a8
+run_name: inquisitive-skink-1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095473619
+status: 3
+tags: []
+user_id: root

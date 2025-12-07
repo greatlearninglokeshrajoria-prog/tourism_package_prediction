@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/24b5133642b447e2afdb4ebb3cd6cce0/artifacts
+end_time: 1765095389580
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 24b5133642b447e2afdb4ebb3cd6cce0
+run_name: capricious-owl-207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095389504
+status: 3
+tags: []
+user_id: root

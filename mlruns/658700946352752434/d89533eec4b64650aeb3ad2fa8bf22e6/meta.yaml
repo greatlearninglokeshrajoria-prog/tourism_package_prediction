@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/d89533eec4b64650aeb3ad2fa8bf22e6/artifacts
+end_time: 1765095421297
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: d89533eec4b64650aeb3ad2fa8bf22e6
+run_name: hilarious-fowl-530
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095421154
+status: 3
+tags: []
+user_id: root

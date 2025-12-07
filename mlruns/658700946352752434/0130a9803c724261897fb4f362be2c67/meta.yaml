@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/0130a9803c724261897fb4f362be2c67/artifacts
+end_time: 1765095413435
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 0130a9803c724261897fb4f362be2c67
+run_name: rebellious-mouse-731
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095413351
+status: 3
+tags: []
+user_id: root

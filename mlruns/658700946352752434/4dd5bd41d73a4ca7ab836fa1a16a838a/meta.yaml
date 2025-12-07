@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/4dd5bd41d73a4ca7ab836fa1a16a838a/artifacts
+end_time: 1765095473935
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 4dd5bd41d73a4ca7ab836fa1a16a838a
+run_name: skillful-lamb-390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095473847
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/e337688b8a0945d4991d1fc23b9eb6b3/artifacts
+end_time: 1765095377108
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: e337688b8a0945d4991d1fc23b9eb6b3
+run_name: worried-kit-706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095376986
+status: 3
+tags: []
+user_id: root

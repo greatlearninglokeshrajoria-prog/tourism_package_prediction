@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/763b213a61d244cb9090687ffa773c9d/artifacts
+end_time: 1765095447176
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 763b213a61d244cb9090687ffa773c9d
+run_name: fun-chimp-45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095447026
+status: 3
+tags: []
+user_id: root

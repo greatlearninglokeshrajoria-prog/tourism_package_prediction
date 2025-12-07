@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/56dc468174a94e3b9e84e417153f1930/artifacts
+end_time: 1765095456935
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 56dc468174a94e3b9e84e417153f1930
+run_name: welcoming-rook-167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095456788
+status: 3
+tags: []
+user_id: root

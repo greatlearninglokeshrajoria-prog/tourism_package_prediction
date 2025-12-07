@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/43f3140978ba4cb892ca8db18905e10d/artifacts
+end_time: 1765095383758
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 43f3140978ba4cb892ca8db18905e10d
+run_name: bustling-newt-591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095383674
+status: 3
+tags: []
+user_id: root

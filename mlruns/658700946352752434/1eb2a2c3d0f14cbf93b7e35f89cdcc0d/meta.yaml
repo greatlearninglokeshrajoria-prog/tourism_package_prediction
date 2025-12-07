@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/1eb2a2c3d0f14cbf93b7e35f89cdcc0d/artifacts
+end_time: 1765095467056
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 1eb2a2c3d0f14cbf93b7e35f89cdcc0d
+run_name: abundant-koi-890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095466959
+status: 3
+tags: []
+user_id: root

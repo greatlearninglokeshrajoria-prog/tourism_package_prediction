@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a7ff411310384cd39f008cf993c6731f/artifacts
+end_time: 1765095388040
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a7ff411310384cd39f008cf993c6731f
+run_name: unruly-whale-380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095387960
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/199fc36021e4458b8620094ac1bee6f6/artifacts
+end_time: 1765095415759
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 199fc36021e4458b8620094ac1bee6f6
+run_name: resilient-stork-111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095415626
+status: 3
+tags: []
+user_id: root

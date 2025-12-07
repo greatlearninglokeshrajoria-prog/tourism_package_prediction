@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/c3379d19ab0646c8818a89f365bf0aca/artifacts
+end_time: 1765095442332
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: c3379d19ab0646c8818a89f365bf0aca
+run_name: masked-tern-12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095442242
+status: 3
+tags: []
+user_id: root

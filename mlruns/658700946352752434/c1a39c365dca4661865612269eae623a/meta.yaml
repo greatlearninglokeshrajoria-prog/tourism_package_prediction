@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/c1a39c365dca4661865612269eae623a/artifacts
+end_time: 1765095472996
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: c1a39c365dca4661865612269eae623a
+run_name: youthful-rook-419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095472905
+status: 3
+tags: []
+user_id: root

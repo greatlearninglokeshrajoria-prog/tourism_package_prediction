@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/f25ada93de2b4e6084ae51d857e0b74c/artifacts
+end_time: 1765095411599
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: f25ada93de2b4e6084ae51d857e0b74c
+run_name: hilarious-duck-876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095411518
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/3bf49a44584847eaa8953360661bbe05/artifacts
+end_time: 1765095450852
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 3bf49a44584847eaa8953360661bbe05
+run_name: indecisive-sheep-824
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095450710
+status: 3
+tags: []
+user_id: root

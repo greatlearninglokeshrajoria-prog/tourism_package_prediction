@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/6b78cd4e2ded4704b4c1bf0318fcf5f0/artifacts
+end_time: 1765095387836
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 6b78cd4e2ded4704b4c1bf0318fcf5f0
+run_name: invincible-goat-582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095387745
+status: 3
+tags: []
+user_id: root

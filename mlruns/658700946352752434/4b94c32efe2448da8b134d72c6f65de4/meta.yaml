@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/4b94c32efe2448da8b134d72c6f65de4/artifacts
+end_time: 1765095384254
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 4b94c32efe2448da8b134d72c6f65de4
+run_name: thundering-bat-109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095384175
+status: 3
+tags: []
+user_id: root

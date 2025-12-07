@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/2f8db7ace9e54dcfb0c58e03344ccfb1/artifacts
+end_time: 1765095437124
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 2f8db7ace9e54dcfb0c58e03344ccfb1
+run_name: painted-gull-624
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095437042
+status: 3
+tags: []
+user_id: root

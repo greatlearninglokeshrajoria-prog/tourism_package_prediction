@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/e14a1f2f21cc4110bdab64d1de74e78d/artifacts
+end_time: 1765095385460
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: e14a1f2f21cc4110bdab64d1de74e78d
+run_name: enchanting-skink-720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095385382
+status: 3
+tags: []
+user_id: root

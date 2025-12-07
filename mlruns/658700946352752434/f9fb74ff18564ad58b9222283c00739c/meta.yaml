@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/f9fb74ff18564ad58b9222283c00739c/artifacts
+end_time: 1765095428541
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: f9fb74ff18564ad58b9222283c00739c
+run_name: stately-fly-554
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095428399
+status: 3
+tags: []
+user_id: root

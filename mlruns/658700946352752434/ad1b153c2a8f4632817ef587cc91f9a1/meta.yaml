@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/ad1b153c2a8f4632817ef587cc91f9a1/artifacts
+end_time: 1765095383131
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: ad1b153c2a8f4632817ef587cc91f9a1
+run_name: sneaky-wren-792
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095383052
+status: 3
+tags: []
+user_id: root

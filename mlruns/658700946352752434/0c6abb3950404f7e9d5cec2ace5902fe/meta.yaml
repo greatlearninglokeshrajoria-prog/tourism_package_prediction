@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/0c6abb3950404f7e9d5cec2ace5902fe/artifacts
+end_time: 1765095454086
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 0c6abb3950404f7e9d5cec2ace5902fe
+run_name: redolent-pug-243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095453922
+status: 3
+tags: []
+user_id: root

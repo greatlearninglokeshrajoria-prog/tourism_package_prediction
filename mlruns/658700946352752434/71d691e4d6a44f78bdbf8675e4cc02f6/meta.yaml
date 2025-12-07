@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/71d691e4d6a44f78bdbf8675e4cc02f6/artifacts
+end_time: 1765095405033
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 71d691e4d6a44f78bdbf8675e4cc02f6
+run_name: glamorous-fowl-900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095404948
+status: 3
+tags: []
+user_id: root

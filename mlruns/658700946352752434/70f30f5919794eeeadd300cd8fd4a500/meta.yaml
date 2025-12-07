@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/70f30f5919794eeeadd300cd8fd4a500/artifacts
+end_time: 1765095444485
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 70f30f5919794eeeadd300cd8fd4a500
+run_name: unequaled-dove-429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095444396
+status: 3
+tags: []
+user_id: root

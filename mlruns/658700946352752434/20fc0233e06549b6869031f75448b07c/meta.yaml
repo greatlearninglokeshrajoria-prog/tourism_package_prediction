@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/20fc0233e06549b6869031f75448b07c/artifacts
+end_time: 1765095468203
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 20fc0233e06549b6869031f75448b07c
+run_name: omniscient-rook-698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095468109
+status: 3
+tags: []
+user_id: root

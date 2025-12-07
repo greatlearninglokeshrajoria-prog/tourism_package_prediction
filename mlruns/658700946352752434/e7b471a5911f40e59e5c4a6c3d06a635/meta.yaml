@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/e7b471a5911f40e59e5c4a6c3d06a635/artifacts
+end_time: 1765095405343
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: e7b471a5911f40e59e5c4a6c3d06a635
+run_name: stately-cub-745
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095405260
+status: 3
+tags: []
+user_id: root

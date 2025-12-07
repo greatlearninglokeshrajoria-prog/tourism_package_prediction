@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/db9656bc10aa4793912b5c2b356181cb/artifacts
+end_time: 1765095458599
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: db9656bc10aa4793912b5c2b356181cb
+run_name: bemused-bass-119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095458449
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/3b4269ce95194933acf45f8e767cc84a/artifacts
+end_time: 1765095463149
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 3b4269ce95194933acf45f8e767cc84a
+run_name: redolent-hawk-896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095462983
+status: 3
+tags: []
+user_id: root

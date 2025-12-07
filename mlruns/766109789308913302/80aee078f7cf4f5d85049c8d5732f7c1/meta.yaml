@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/80aee078f7cf4f5d85049c8d5732f7c1/artifacts
+end_time: 1765095058771
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 80aee078f7cf4f5d85049c8d5732f7c1
+run_name: likeable-donkey-771
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095056106
+status: 3
+tags: []
+user_id: root

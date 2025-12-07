@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/9ed6c2e344314ded869bf86ffc6bff2f/artifacts
+end_time: 1765095425103
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 9ed6c2e344314ded869bf86ffc6bff2f
+run_name: powerful-yak-598
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095424964
+status: 3
+tags: []
+user_id: root

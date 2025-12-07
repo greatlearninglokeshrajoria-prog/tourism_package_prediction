@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/fcb25a131f3942619e0c2807cd630bf0/artifacts
+end_time: 1765095374875
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: fcb25a131f3942619e0c2807cd630bf0
+run_name: stately-doe-440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095374797
+status: 3
+tags: []
+user_id: root

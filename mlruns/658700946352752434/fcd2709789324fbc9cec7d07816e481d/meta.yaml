@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/fcd2709789324fbc9cec7d07816e481d/artifacts
+end_time: 1765095377269
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: fcd2709789324fbc9cec7d07816e481d
+run_name: debonair-shark-750
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095377138
+status: 3
+tags: []
+user_id: root

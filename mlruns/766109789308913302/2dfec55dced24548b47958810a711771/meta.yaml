@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/2dfec55dced24548b47958810a711771/artifacts
+end_time: 1765094973340
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 2dfec55dced24548b47958810a711771
+run_name: unleashed-flea-260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765094970764
+status: 3
+tags: []
+user_id: root

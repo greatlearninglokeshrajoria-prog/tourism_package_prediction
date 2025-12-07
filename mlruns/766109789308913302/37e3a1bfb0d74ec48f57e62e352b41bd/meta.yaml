@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/37e3a1bfb0d74ec48f57e62e352b41bd/artifacts
+end_time: 1765094995653
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 37e3a1bfb0d74ec48f57e62e352b41bd
+run_name: classy-snake-526
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765094993063
+status: 3
+tags: []
+user_id: root

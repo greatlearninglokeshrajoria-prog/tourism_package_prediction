@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/b1dbc75f474645f4badf804e71c576a7/artifacts
+end_time: 1765095407839
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: b1dbc75f474645f4badf804e71c576a7
+run_name: upset-kite-791
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095407759
+status: 3
+tags: []
+user_id: root

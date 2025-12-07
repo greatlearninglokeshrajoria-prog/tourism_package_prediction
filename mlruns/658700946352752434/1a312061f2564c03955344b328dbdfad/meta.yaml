@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/1a312061f2564c03955344b328dbdfad/artifacts
+end_time: 1765095376482
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 1a312061f2564c03955344b328dbdfad
+run_name: orderly-sow-761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095376358
+status: 3
+tags: []
+user_id: root

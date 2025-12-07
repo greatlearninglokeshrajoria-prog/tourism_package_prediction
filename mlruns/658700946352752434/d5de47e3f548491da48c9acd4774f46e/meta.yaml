@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/d5de47e3f548491da48c9acd4774f46e/artifacts
+end_time: 1765095408910
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: d5de47e3f548491da48c9acd4774f46e
+run_name: skittish-robin-431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095408758
+status: 3
+tags: []
+user_id: root

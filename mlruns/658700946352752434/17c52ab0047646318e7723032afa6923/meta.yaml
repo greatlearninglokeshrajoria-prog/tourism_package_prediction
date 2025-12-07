@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/17c52ab0047646318e7723032afa6923/artifacts
+end_time: 1765095395864
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 17c52ab0047646318e7723032afa6923
+run_name: bold-newt-252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095395732
+status: 3
+tags: []
+user_id: root

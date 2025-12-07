@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/ff292178ca0b419f8411e28b0d8e7ad1/artifacts
+end_time: 1765095396199
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: ff292178ca0b419f8411e28b0d8e7ad1
+run_name: stately-robin-426
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095396068
+status: 3
+tags: []
+user_id: root

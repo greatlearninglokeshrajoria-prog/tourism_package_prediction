@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/15e35cd81b4a4283b1f4987078a1d041/artifacts
+end_time: 1765094921732
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 15e35cd81b4a4283b1f4987078a1d041
+run_name: capable-loon-207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765094919006
+status: 3
+tags: []
+user_id: root

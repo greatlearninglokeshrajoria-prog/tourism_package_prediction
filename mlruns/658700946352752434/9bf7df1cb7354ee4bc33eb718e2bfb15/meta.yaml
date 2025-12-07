@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/9bf7df1cb7354ee4bc33eb718e2bfb15/artifacts
+end_time: 1765095392498
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 9bf7df1cb7354ee4bc33eb718e2bfb15
+run_name: crawling-doe-441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095392375
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/091a5c8927294a079a3b34fceacbc6d1/artifacts
+end_time: 1765094976924
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 091a5c8927294a079a3b34fceacbc6d1
+run_name: serious-whale-795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765094974361
+status: 3
+tags: []
+user_id: root

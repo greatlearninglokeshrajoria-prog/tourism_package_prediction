@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/8788d257621a4b02888732184ce3a0e6/artifacts
+end_time: 1765095469027
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 8788d257621a4b02888732184ce3a0e6
+run_name: capricious-ray-49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095468932
+status: 3
+tags: []
+user_id: root

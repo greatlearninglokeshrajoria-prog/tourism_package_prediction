@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/7ef091964f6a4ec1a718d6512625ff6b/artifacts
+end_time: 1765095412780
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 7ef091964f6a4ec1a718d6512625ff6b
+run_name: beautiful-hound-452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095412692
+status: 3
+tags: []
+user_id: root

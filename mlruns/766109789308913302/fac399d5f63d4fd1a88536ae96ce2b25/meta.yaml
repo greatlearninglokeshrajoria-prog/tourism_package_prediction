@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/fac399d5f63d4fd1a88536ae96ce2b25/artifacts
+end_time: 1765094965916
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: fac399d5f63d4fd1a88536ae96ce2b25
+run_name: fearless-moth-392
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765094963334
+status: 3
+tags: []
+user_id: root

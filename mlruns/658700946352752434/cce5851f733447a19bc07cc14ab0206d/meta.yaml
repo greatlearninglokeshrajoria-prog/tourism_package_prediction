@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/cce5851f733447a19bc07cc14ab0206d/artifacts
+end_time: 1765095421471
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: cce5851f733447a19bc07cc14ab0206d
+run_name: silent-carp-701
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095421331
+status: 3
+tags: []
+user_id: root

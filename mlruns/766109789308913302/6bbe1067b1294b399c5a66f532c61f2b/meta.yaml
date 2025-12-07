@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/6bbe1067b1294b399c5a66f532c61f2b/artifacts
+end_time: 1765094914364
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 6bbe1067b1294b399c5a66f532c61f2b
+run_name: bedecked-wren-194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765094911760
+status: 3
+tags: []
+user_id: root

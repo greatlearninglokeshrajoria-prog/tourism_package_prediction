@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/5a56365e7072402eaba60f9f2677a5af/artifacts
+end_time: 1765094999268
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 5a56365e7072402eaba60f9f2677a5af
+run_name: salty-gnu-476
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765094996673
+status: 3
+tags: []
+user_id: root

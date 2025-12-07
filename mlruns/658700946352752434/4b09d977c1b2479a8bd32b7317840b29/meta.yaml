@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/4b09d977c1b2479a8bd32b7317840b29/artifacts
+end_time: 1765095451967
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 4b09d977c1b2479a8bd32b7317840b29
+run_name: bouncy-dog-839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095451817
+status: 3
+tags: []
+user_id: root

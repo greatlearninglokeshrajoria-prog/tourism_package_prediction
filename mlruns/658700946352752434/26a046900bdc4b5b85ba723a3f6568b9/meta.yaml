@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/26a046900bdc4b5b85ba723a3f6568b9/artifacts
+end_time: 1765095457676
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 26a046900bdc4b5b85ba723a3f6568b9
+run_name: delightful-ray-24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095457529
+status: 3
+tags: []
+user_id: root

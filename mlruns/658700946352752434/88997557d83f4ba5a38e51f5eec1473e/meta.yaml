@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/88997557d83f4ba5a38e51f5eec1473e/artifacts
+end_time: 1765095402508
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 88997557d83f4ba5a38e51f5eec1473e
+run_name: kindly-skunk-887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095402370
+status: 3
+tags: []
+user_id: root

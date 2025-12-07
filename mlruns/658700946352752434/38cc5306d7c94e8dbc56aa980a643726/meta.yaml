@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/38cc5306d7c94e8dbc56aa980a643726/artifacts
+end_time: 1765095456172
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 38cc5306d7c94e8dbc56aa980a643726
+run_name: able-hare-935
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095456025
+status: 3
+tags: []
+user_id: root

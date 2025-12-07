@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/e70108537924429aabe35fef709b7883/artifacts
+end_time: 1765095396379
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: e70108537924429aabe35fef709b7883
+run_name: enchanting-fowl-697
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095396231
+status: 3
+tags: []
+user_id: root

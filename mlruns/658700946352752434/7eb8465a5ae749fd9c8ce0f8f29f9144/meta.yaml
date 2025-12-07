@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/7eb8465a5ae749fd9c8ce0f8f29f9144/artifacts
+end_time: 1765095383956
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 7eb8465a5ae749fd9c8ce0f8f29f9144
+run_name: funny-ox-858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095383878
+status: 3
+tags: []
+user_id: root

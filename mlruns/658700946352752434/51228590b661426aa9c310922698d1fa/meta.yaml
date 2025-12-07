@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/51228590b661426aa9c310922698d1fa/artifacts
+end_time: 1765095415935
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 51228590b661426aa9c310922698d1fa
+run_name: selective-gull-128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095415793
+status: 3
+tags: []
+user_id: root

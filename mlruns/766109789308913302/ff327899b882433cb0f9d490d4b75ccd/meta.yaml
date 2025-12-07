@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/ff327899b882433cb0f9d490d4b75ccd/artifacts
+end_time: 1765094852375
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: ff327899b882433cb0f9d490d4b75ccd
+run_name: dashing-fox-318
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765094849812
+status: 3
+tags: []
+user_id: root

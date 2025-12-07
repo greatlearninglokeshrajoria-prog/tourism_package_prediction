@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/18cfe5b5e3634eeebe49799d21e98af5/artifacts
+end_time: 1765095459724
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 18cfe5b5e3634eeebe49799d21e98af5
+run_name: grandiose-seal-674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095459572
+status: 3
+tags: []
+user_id: root

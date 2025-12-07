@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/48f8854cf41f4be29ec7339d3a3660fb/artifacts
+end_time: 1765095430534
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 48f8854cf41f4be29ec7339d3a3660fb
+run_name: valuable-rat-438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095430389
+status: 3
+tags: []
+user_id: root

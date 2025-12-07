@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/ca1b6087ef7e4acf823a9a1bc93208f4/artifacts
+end_time: 1765095445832
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: ca1b6087ef7e4acf823a9a1bc93208f4
+run_name: bold-seal-366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095445686
+status: 3
+tags: []
+user_id: root

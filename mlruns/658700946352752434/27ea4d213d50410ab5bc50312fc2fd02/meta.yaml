@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/27ea4d213d50410ab5bc50312fc2fd02/artifacts
+end_time: 1765095468087
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 27ea4d213d50410ab5bc50312fc2fd02
+run_name: whimsical-fly-417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095467998
+status: 3
+tags: []
+user_id: root

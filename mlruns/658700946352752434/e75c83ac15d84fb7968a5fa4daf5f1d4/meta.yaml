@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/e75c83ac15d84fb7968a5fa4daf5f1d4/artifacts
+end_time: 1765095412988
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: e75c83ac15d84fb7968a5fa4daf5f1d4
+run_name: handsome-goose-521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095412905
+status: 3
+tags: []
+user_id: root

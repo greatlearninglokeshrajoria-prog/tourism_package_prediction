@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/77eb9a24b70d4d3aa4416b3eaa930eb7/artifacts
+end_time: 1765095431803
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 77eb9a24b70d4d3aa4416b3eaa930eb7
+run_name: beautiful-toad-579
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095431646
+status: 3
+tags: []
+user_id: root

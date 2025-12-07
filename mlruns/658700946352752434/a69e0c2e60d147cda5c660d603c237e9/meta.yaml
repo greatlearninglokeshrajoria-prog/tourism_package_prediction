@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a69e0c2e60d147cda5c660d603c237e9/artifacts
+end_time: 1765095471713
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a69e0c2e60d147cda5c660d603c237e9
+run_name: magnificent-crow-633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095471621
+status: 3
+tags: []
+user_id: root

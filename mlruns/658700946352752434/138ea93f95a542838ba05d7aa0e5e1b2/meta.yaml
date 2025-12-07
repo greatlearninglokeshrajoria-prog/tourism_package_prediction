@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/138ea93f95a542838ba05d7aa0e5e1b2/artifacts
+end_time: 1765095391840
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 138ea93f95a542838ba05d7aa0e5e1b2
+run_name: sincere-skink-873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095391713
+status: 3
+tags: []
+user_id: root

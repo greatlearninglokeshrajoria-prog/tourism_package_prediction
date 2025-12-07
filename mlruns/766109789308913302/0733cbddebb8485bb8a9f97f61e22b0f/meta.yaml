@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/0733cbddebb8485bb8a9f97f61e22b0f/artifacts
+end_time: 1765095032862
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 0733cbddebb8485bb8a9f97f61e22b0f
+run_name: bemused-mouse-657
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765095030113
+status: 3
+tags: []
+user_id: root
