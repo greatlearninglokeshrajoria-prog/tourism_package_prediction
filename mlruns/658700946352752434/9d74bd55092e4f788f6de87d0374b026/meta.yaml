@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/9d74bd55092e4f788f6de87d0374b026/artifacts
+end_time: 1765093160876
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 9d74bd55092e4f788f6de87d0374b026
+run_name: stately-bass-998
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093160825
+status: 3
+tags: []
+user_id: root

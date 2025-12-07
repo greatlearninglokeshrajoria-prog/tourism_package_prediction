@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/4b3cd3a5366d4f5889528524e9a29475/artifacts
+end_time: 1765093198657
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 4b3cd3a5366d4f5889528524e9a29475
+run_name: skillful-wasp-700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093198563
+status: 3
+tags: []
+user_id: root

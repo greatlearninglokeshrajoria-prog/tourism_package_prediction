@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/842ff94ca23d44d79052d89f46f133d0/artifacts
+end_time: 1765093183330
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 842ff94ca23d44d79052d89f46f133d0
+run_name: masked-rat-122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093183233
+status: 3
+tags: []
+user_id: root

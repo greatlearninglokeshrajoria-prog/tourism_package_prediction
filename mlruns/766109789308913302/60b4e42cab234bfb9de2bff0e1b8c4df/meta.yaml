@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/60b4e42cab234bfb9de2bff0e1b8c4df/artifacts
+end_time: 1765092742273
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 60b4e42cab234bfb9de2bff0e1b8c4df
+run_name: respected-swan-100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092739761
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/fed95b78c66c4ea987747ed7f6a52a7a/artifacts
+end_time: 1765092759644
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: fed95b78c66c4ea987747ed7f6a52a7a
+run_name: trusting-ram-910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092757153
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/be3ea0b465bf4987a5ac31e5c2abf0c1/artifacts
+end_time: 1765093181181
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: be3ea0b465bf4987a5ac31e5c2abf0c1
+run_name: glamorous-stork-919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093181125
+status: 3
+tags: []
+user_id: root

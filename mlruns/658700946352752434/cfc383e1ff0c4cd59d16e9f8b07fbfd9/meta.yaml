@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/cfc383e1ff0c4cd59d16e9f8b07fbfd9/artifacts
+end_time: 1765093219004
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: cfc383e1ff0c4cd59d16e9f8b07fbfd9
+run_name: thoughtful-midge-277
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093218940
+status: 3
+tags: []
+user_id: root

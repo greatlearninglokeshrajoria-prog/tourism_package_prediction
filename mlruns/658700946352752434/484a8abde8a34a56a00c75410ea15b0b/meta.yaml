@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/484a8abde8a34a56a00c75410ea15b0b/artifacts
+end_time: 1765093177542
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 484a8abde8a34a56a00c75410ea15b0b
+run_name: bustling-snake-372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093177488
+status: 3
+tags: []
+user_id: root

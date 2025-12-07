@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/cadbe8eed2884458ad3b61a81cba7f6e/artifacts
+end_time: 1765093197436
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: cadbe8eed2884458ad3b61a81cba7f6e
+run_name: trusting-dog-499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093197336
+status: 3
+tags: []
+user_id: root

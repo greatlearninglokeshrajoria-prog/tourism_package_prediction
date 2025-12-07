@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/facaf0c170534a5591900e3c18e868f6/artifacts
+end_time: 1765092724870
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: facaf0c170534a5591900e3c18e868f6
+run_name: secretive-gnat-276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092722389
+status: 3
+tags: []
+user_id: root

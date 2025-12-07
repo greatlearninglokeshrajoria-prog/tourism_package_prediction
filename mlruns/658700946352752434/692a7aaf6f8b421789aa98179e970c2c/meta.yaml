@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/692a7aaf6f8b421789aa98179e970c2c/artifacts
+end_time: 1765093174016
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 692a7aaf6f8b421789aa98179e970c2c
+run_name: zealous-grub-165
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093173950
+status: 3
+tags: []
+user_id: root

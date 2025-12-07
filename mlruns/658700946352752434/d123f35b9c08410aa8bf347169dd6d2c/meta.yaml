@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/d123f35b9c08410aa8bf347169dd6d2c/artifacts
+end_time: 1765093197306
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: d123f35b9c08410aa8bf347169dd6d2c
+run_name: painted-bat-353
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093197210
+status: 3
+tags: []
+user_id: root

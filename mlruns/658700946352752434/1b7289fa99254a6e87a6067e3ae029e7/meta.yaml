@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/1b7289fa99254a6e87a6067e3ae029e7/artifacts
+end_time: 1765093159219
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 1b7289fa99254a6e87a6067e3ae029e7
+run_name: puzzled-kite-971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093159170
+status: 3
+tags: []
+user_id: root

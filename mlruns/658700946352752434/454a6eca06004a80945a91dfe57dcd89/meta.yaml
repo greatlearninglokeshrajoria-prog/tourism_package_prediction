@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/454a6eca06004a80945a91dfe57dcd89/artifacts
+end_time: 1765093221694
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 454a6eca06004a80945a91dfe57dcd89
+run_name: bustling-snipe-176
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093221633
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/2cbd480514c84d30abbfc2eed9b1acb4/artifacts
+end_time: 1765093188521
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 2cbd480514c84d30abbfc2eed9b1acb4
+run_name: nervous-bear-510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093188425
+status: 3
+tags: []
+user_id: root

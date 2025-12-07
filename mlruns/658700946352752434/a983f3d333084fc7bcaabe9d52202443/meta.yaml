@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a983f3d333084fc7bcaabe9d52202443/artifacts
+end_time: 1765093154204
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a983f3d333084fc7bcaabe9d52202443
+run_name: indecisive-dove-236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093154153
+status: 3
+tags: []
+user_id: root

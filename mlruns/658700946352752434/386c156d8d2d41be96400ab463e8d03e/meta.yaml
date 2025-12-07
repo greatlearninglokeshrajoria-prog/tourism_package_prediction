@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/386c156d8d2d41be96400ab463e8d03e/artifacts
+end_time: 1765093163019
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 386c156d8d2d41be96400ab463e8d03e
+run_name: righteous-koi-830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093162942
+status: 3
+tags: []
+user_id: root

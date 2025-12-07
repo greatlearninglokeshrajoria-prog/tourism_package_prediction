@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/910646d182fd4c83b02588c93bbff649/artifacts
+end_time: 1765093178421
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 910646d182fd4c83b02588c93bbff649
+run_name: dashing-tern-977
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093178367
+status: 3
+tags: []
+user_id: root

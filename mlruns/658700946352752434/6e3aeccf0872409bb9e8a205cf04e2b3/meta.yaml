@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/6e3aeccf0872409bb9e8a205cf04e2b3/artifacts
+end_time: 1765093192612
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 6e3aeccf0872409bb9e8a205cf04e2b3
+run_name: fortunate-midge-641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093192511
+status: 3
+tags: []
+user_id: root

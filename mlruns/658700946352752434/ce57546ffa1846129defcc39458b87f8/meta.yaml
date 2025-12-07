@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/ce57546ffa1846129defcc39458b87f8/artifacts
+end_time: 1765093191977
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: ce57546ffa1846129defcc39458b87f8
+run_name: upset-bass-537
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093191875
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/26fb142f448b4775bc783b80dfd4d20c/artifacts
+end_time: 1765093206279
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 26fb142f448b4775bc783b80dfd4d20c
+run_name: resilient-snipe-689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093206178
+status: 3
+tags: []
+user_id: root

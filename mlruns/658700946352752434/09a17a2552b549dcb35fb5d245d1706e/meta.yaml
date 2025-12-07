@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/09a17a2552b549dcb35fb5d245d1706e/artifacts
+end_time: 1765093181266
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 09a17a2552b549dcb35fb5d245d1706e
+run_name: defiant-robin-310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093181198
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/900020591c5e47149533ab8789c5b6db/artifacts
+end_time: 1765093225219
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 900020591c5e47149533ab8789c5b6db
+run_name: luminous-roo-829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093225158
+status: 3
+tags: []
+user_id: root

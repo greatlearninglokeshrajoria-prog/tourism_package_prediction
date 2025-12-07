@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/802efefb018c475b9d34ac33c551a7b2/artifacts
+end_time: 1765093159419
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 802efefb018c475b9d34ac33c551a7b2
+run_name: capable-donkey-437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093159370
+status: 3
+tags: []
+user_id: root

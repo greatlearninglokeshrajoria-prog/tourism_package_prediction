@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/168dec0a4582404a87399ca4ebd91ccc/artifacts
+end_time: 1765093153851
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 168dec0a4582404a87399ca4ebd91ccc
+run_name: wise-goat-232
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093153802
+status: 3
+tags: []
+user_id: root

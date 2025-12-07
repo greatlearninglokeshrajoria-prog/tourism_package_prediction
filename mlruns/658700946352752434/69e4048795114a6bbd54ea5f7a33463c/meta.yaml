@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/69e4048795114a6bbd54ea5f7a33463c/artifacts
+end_time: 1765093204259
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 69e4048795114a6bbd54ea5f7a33463c
+run_name: able-foal-590
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093204159
+status: 3
+tags: []
+user_id: root

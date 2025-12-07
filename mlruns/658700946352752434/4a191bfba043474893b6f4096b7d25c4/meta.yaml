@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/4a191bfba043474893b6f4096b7d25c4/artifacts
+end_time: 1765093220876
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 4a191bfba043474893b6f4096b7d25c4
+run_name: exultant-vole-388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093220800
+status: 3
+tags: []
+user_id: root

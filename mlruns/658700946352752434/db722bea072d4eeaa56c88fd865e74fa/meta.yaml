@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/db722bea072d4eeaa56c88fd865e74fa/artifacts
+end_time: 1765093158038
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: db722bea072d4eeaa56c88fd865e74fa
+run_name: treasured-panda-291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093157989
+status: 3
+tags: []
+user_id: root

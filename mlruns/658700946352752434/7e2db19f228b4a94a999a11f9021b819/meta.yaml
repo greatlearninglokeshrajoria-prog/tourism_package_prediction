@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/7e2db19f228b4a94a999a11f9021b819/artifacts
+end_time: 1765093212602
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 7e2db19f228b4a94a999a11f9021b819
+run_name: skillful-stag-698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093212505
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/8cde312f5d9149638aa74679078ec844/artifacts
+end_time: 1765093218424
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 8cde312f5d9149638aa74679078ec844
+run_name: charming-hawk-795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093218365
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/bb09a3f7c351457d9d58690ab61885fc/artifacts
+end_time: 1765092735298
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: bb09a3f7c351457d9d58690ab61885fc
+run_name: rumbling-whale-504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092732835
+status: 3
+tags: []
+user_id: root

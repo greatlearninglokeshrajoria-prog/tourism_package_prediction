@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/d08ac11fe066492598ac7fdca360e2de/artifacts
+end_time: 1765093156230
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: d08ac11fe066492598ac7fdca360e2de
+run_name: clumsy-robin-241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093156181
+status: 3
+tags: []
+user_id: root

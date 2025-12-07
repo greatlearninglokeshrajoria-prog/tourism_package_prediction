@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/59d992552d4547dab937891f04579914/artifacts
+end_time: 1765093220139
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 59d992552d4547dab937891f04579914
+run_name: polite-asp-343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093220078
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/993ec2426e3c4d34ba042dd10333a882/artifacts
+end_time: 1765093154739
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 993ec2426e3c4d34ba042dd10333a882
+run_name: resilient-wolf-325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093154688
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/847c6b28942e401aa9d9bea08054b915/artifacts
+end_time: 1765093157362
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 847c6b28942e401aa9d9bea08054b915
+run_name: mercurial-crane-775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093157312
+status: 3
+tags: []
+user_id: root

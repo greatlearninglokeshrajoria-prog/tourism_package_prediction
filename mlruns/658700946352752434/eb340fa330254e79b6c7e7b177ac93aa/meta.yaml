@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/eb340fa330254e79b6c7e7b177ac93aa/artifacts
+end_time: 1765093176454
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: eb340fa330254e79b6c7e7b177ac93aa
+run_name: gentle-deer-989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093176402
+status: 3
+tags: []
+user_id: root

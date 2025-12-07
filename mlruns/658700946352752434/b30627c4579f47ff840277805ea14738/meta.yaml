@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/b30627c4579f47ff840277805ea14738/artifacts
+end_time: 1765093217353
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: b30627c4579f47ff840277805ea14738
+run_name: worried-snipe-729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093217291
+status: 3
+tags: []
+user_id: root

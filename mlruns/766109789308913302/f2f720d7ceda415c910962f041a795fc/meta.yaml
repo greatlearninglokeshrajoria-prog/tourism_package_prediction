@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/f2f720d7ceda415c910962f041a795fc/artifacts
+end_time: 1765092658271
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: f2f720d7ceda415c910962f041a795fc
+run_name: sincere-frog-698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092655794
+status: 3
+tags: []
+user_id: root

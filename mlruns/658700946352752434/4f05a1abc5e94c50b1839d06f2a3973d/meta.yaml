@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/4f05a1abc5e94c50b1839d06f2a3973d/artifacts
+end_time: 1765093198041
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 4f05a1abc5e94c50b1839d06f2a3973d
+run_name: unleashed-rook-461
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093197950
+status: 3
+tags: []
+user_id: root

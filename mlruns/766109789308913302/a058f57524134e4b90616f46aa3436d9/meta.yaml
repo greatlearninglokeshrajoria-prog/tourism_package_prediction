@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/a058f57524134e4b90616f46aa3436d9/artifacts
+end_time: 1765092634009
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: a058f57524134e4b90616f46aa3436d9
+run_name: suave-kit-128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092631527
+status: 3
+tags: []
+user_id: root

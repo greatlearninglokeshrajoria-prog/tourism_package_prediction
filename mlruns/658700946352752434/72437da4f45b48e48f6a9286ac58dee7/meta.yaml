@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/72437da4f45b48e48f6a9286ac58dee7/artifacts
+end_time: 1765093163115
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 72437da4f45b48e48f6a9286ac58dee7
+run_name: wistful-owl-131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093163042
+status: 3
+tags: []
+user_id: root

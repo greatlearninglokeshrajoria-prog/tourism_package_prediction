@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/f47c45f568b34e6e9b2ff7c1140bf76d/artifacts
+end_time: 1765092825829
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: f47c45f568b34e6e9b2ff7c1140bf76d
+run_name: rebellious-trout-674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092823344
+status: 3
+tags: []
+user_id: root

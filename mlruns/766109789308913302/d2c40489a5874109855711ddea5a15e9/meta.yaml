@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/d2c40489a5874109855711ddea5a15e9/artifacts
+end_time: 1765092818810
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: d2c40489a5874109855711ddea5a15e9
+run_name: mercurial-cow-779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092816319
+status: 3
+tags: []
+user_id: root

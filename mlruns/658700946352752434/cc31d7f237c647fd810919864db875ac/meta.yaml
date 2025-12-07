@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/cc31d7f237c647fd810919864db875ac/artifacts
+end_time: 1765093183461
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: cc31d7f237c647fd810919864db875ac
+run_name: secretive-roo-335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093183355
+status: 3
+tags: []
+user_id: root

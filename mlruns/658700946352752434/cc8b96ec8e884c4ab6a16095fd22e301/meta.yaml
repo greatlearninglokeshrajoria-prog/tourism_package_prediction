@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/cc8b96ec8e884c4ab6a16095fd22e301/artifacts
+end_time: 1765093194343
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: cc8b96ec8e884c4ab6a16095fd22e301
+run_name: angry-dog-511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093194248
+status: 3
+tags: []
+user_id: root

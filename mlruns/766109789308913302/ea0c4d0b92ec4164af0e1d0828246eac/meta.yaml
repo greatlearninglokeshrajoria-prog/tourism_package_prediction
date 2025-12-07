@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/ea0c4d0b92ec4164af0e1d0828246eac/artifacts
+end_time: 1765092804879
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: ea0c4d0b92ec4164af0e1d0828246eac
+run_name: receptive-sponge-703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092802400
+status: 3
+tags: []
+user_id: root

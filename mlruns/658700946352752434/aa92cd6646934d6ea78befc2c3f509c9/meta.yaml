@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/aa92cd6646934d6ea78befc2c3f509c9/artifacts
+end_time: 1765093213245
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: aa92cd6646934d6ea78befc2c3f509c9
+run_name: sneaky-moth-920
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093213141
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/50993cfb7f494cffa95058844e4798cb/artifacts
+end_time: 1765093218664
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 50993cfb7f494cffa95058844e4798cb
+run_name: enchanting-yak-116
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093218605
+status: 3
+tags: []
+user_id: root

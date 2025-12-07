@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/088250f7364b47508338b5ef298a684a/artifacts
+end_time: 1765093160464
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 088250f7364b47508338b5ef298a684a
+run_name: grandiose-whale-275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093160410
+status: 3
+tags: []
+user_id: root

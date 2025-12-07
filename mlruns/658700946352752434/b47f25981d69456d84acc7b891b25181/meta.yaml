@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/b47f25981d69456d84acc7b891b25181/artifacts
+end_time: 1765093215738
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: b47f25981d69456d84acc7b891b25181
+run_name: rare-kit-76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093215641
+status: 3
+tags: []
+user_id: root

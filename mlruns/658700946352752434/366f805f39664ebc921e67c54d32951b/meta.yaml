@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/366f805f39664ebc921e67c54d32951b/artifacts
+end_time: 1765093186551
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 366f805f39664ebc921e67c54d32951b
+run_name: resilient-boar-802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093186451
+status: 3
+tags: []
+user_id: root

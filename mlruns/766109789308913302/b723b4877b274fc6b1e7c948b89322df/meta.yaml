@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/b723b4877b274fc6b1e7c948b89322df/artifacts
+end_time: 1765092815327
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: b723b4877b274fc6b1e7c948b89322df
+run_name: magnificent-toad-629
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092812836
+status: 3
+tags: []
+user_id: root

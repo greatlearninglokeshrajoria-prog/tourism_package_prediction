@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/ee6b0babd97b436a9383c20a5896426a/artifacts
+end_time: 1765093182266
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: ee6b0babd97b436a9383c20a5896426a
+run_name: spiffy-gnat-592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093182177
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/f5ff48d778644ec9b23606bb411a8271/artifacts
+end_time: 1765093156494
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: f5ff48d778644ec9b23606bb411a8271
+run_name: luminous-hound-840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093156443
+status: 3
+tags: []
+user_id: root

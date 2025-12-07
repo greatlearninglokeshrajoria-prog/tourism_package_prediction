@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/5697b4485e514947b9a3b4a7a9da5b77/artifacts
+end_time: 1765093167703
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 5697b4485e514947b9a3b4a7a9da5b77
+run_name: enchanting-croc-272
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093167608
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/e567f6db84ea4236b1697008d4a06607/artifacts
+end_time: 1765093176524
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: e567f6db84ea4236b1697008d4a06607
+run_name: marvelous-cub-551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093176471
+status: 3
+tags: []
+user_id: root

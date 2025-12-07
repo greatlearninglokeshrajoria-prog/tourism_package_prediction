@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/c37be417c8e64ba5b11f17ee76985595/artifacts
+end_time: 1765093188891
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: c37be417c8e64ba5b11f17ee76985595
+run_name: dapper-skink-249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093188797
+status: 3
+tags: []
+user_id: root

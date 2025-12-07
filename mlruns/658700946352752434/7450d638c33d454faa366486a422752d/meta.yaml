@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/7450d638c33d454faa366486a422752d/artifacts
+end_time: 1765093207925
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 7450d638c33d454faa366486a422752d
+run_name: merciful-donkey-429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093207830
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/42f7c581497e46328814d1090b4eb242/artifacts
+end_time: 1765093168831
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 42f7c581497e46328814d1090b4eb242
+run_name: spiffy-roo-331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093168744
+status: 3
+tags: []
+user_id: root

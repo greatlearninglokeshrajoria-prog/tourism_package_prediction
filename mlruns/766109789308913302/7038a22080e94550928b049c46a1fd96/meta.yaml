@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/7038a22080e94550928b049c46a1fd96/artifacts
+end_time: 1765092790950
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 7038a22080e94550928b049c46a1fd96
+run_name: thundering-kite-1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092788457
+status: 3
+tags: []
+user_id: root

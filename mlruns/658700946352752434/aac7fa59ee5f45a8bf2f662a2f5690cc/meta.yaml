@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/aac7fa59ee5f45a8bf2f662a2f5690cc/artifacts
+end_time: 1765093175593
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: aac7fa59ee5f45a8bf2f662a2f5690cc
+run_name: enthused-mouse-592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093175541
+status: 3
+tags: []
+user_id: root

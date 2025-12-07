@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/edca38069c18414eb81f39d7083a75a8/artifacts
+end_time: 1765093211823
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: edca38069c18414eb81f39d7083a75a8
+run_name: agreeable-panda-518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093211727
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/ea127a7d75e84b8b952be9c8610dfb1c/artifacts
+end_time: 1765093209230
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: ea127a7d75e84b8b952be9c8610dfb1c
+run_name: industrious-goat-78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093209135
+status: 3
+tags: []
+user_id: root

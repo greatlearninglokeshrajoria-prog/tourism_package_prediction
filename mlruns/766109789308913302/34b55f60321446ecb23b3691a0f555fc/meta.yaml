@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/34b55f60321446ecb23b3691a0f555fc/artifacts
+end_time: 1765092731840
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 34b55f60321446ecb23b3691a0f555fc
+run_name: inquisitive-toad-547
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092729351
+status: 3
+tags: []
+user_id: root

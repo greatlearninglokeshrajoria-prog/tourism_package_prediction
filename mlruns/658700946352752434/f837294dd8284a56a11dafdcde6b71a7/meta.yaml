@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/f837294dd8284a56a11dafdcde6b71a7/artifacts
+end_time: 1765093205030
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: f837294dd8284a56a11dafdcde6b71a7
+run_name: flawless-grub-202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093204929
+status: 3
+tags: []
+user_id: root

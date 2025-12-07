@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a9bf4305be024de9b64b2db4fe3cccac/artifacts
+end_time: 1765093200409
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a9bf4305be024de9b64b2db4fe3cccac
+run_name: nimble-finch-767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093200316
+status: 3
+tags: []
+user_id: root

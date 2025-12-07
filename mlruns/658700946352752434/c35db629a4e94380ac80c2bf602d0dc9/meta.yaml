@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/c35db629a4e94380ac80c2bf602d0dc9/artifacts
+end_time: 1765093173008
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: c35db629a4e94380ac80c2bf602d0dc9
+run_name: shivering-mink-558
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093172954
+status: 3
+tags: []
+user_id: root

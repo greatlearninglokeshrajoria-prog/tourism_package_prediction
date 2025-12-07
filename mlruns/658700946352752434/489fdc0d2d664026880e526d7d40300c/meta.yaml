@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/489fdc0d2d664026880e526d7d40300c/artifacts
+end_time: 1765093195193
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 489fdc0d2d664026880e526d7d40300c
+run_name: auspicious-stork-827
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093195097
+status: 3
+tags: []
+user_id: root

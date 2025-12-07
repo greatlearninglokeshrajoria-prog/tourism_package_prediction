@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/1a3e22b32da7417bb6dbad1609286dd0/artifacts
+end_time: 1765093177611
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 1a3e22b32da7417bb6dbad1609286dd0
+run_name: rogue-wren-373
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093177558
+status: 3
+tags: []
+user_id: root

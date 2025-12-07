@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/81203c8ff84b421bbaa6ac39d64153c0/artifacts
+end_time: 1765093154943
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 81203c8ff84b421bbaa6ac39d64153c0
+run_name: intelligent-wolf-783
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093154892
+status: 3
+tags: []
+user_id: root

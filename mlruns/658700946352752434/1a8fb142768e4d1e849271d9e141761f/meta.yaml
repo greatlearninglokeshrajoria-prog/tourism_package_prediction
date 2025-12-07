@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/1a8fb142768e4d1e849271d9e141761f/artifacts
+end_time: 1765093178274
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 1a8fb142768e4d1e849271d9e141761f
+run_name: enthused-hog-405
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093178214
+status: 3
+tags: []
+user_id: root

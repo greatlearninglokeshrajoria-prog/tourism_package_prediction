@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/cf989fe80e6048ceba1d237ac187fbd6/artifacts
+end_time: 1765093214574
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: cf989fe80e6048ceba1d237ac187fbd6
+run_name: incongruous-calf-423
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093214442
+status: 3
+tags: []
+user_id: root

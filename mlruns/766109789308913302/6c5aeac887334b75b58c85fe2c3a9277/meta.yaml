@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/6c5aeac887334b75b58c85fe2c3a9277/artifacts
+end_time: 1765092801418
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 6c5aeac887334b75b58c85fe2c3a9277
+run_name: dashing-squirrel-328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092798922
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/d2d1d712f2e14c6fae3ffce4da6f1035/artifacts
+end_time: 1765093174234
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: d2d1d712f2e14c6fae3ffce4da6f1035
+run_name: casual-hound-106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093174178
+status: 3
+tags: []
+user_id: root

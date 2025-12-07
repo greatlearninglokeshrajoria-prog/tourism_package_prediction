@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/284331900eee44d69bb5df9d54c6744e/artifacts
+end_time: 1765093176315
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 284331900eee44d69bb5df9d54c6744e
+run_name: abundant-zebra-556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093176260
+status: 3
+tags: []
+user_id: root

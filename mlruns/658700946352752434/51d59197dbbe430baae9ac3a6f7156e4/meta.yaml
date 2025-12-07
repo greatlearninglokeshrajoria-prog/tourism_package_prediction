@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/51d59197dbbe430baae9ac3a6f7156e4/artifacts
+end_time: 1765093175807
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 51d59197dbbe430baae9ac3a6f7156e4
+run_name: learned-robin-293
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093175755
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/e421122236a34089b97c47e09cf8a926/artifacts
+end_time: 1765092637440
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: e421122236a34089b97c47e09cf8a926
+run_name: illustrious-koi-778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092634990
+status: 3
+tags: []
+user_id: root

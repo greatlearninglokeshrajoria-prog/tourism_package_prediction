@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/0523196a6150416d83e4daacf27e6e3f/artifacts
+end_time: 1765093171213
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 0523196a6150416d83e4daacf27e6e3f
+run_name: capricious-robin-661
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093171130
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a0005e54fb4045ba8918210b53061343/artifacts
+end_time: 1765093182500
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a0005e54fb4045ba8918210b53061343
+run_name: popular-wren-61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093182415
+status: 3
+tags: []
+user_id: root

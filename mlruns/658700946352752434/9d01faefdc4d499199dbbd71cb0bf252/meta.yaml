@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/9d01faefdc4d499199dbbd71cb0bf252/artifacts
+end_time: 1765093156030
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 9d01faefdc4d499199dbbd71cb0bf252
+run_name: upset-trout-196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093155967
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/c700100d624c41b2942309a50b8f80b0/artifacts
+end_time: 1765093154672
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: c700100d624c41b2942309a50b8f80b0
+run_name: debonair-wolf-242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093154625
+status: 3
+tags: []
+user_id: root

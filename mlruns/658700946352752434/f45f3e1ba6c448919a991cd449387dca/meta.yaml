@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/f45f3e1ba6c448919a991cd449387dca/artifacts
+end_time: 1765093158994
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: f45f3e1ba6c448919a991cd449387dca
+run_name: melodic-mink-503
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093158945
+status: 3
+tags: []
+user_id: root

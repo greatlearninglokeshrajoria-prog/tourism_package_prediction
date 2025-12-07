@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/45610db0271a4a14b1aed34fb5312bb8/artifacts
+end_time: 1765093195070
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 45610db0271a4a14b1aed34fb5312bb8
+run_name: upset-hog-925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093194977
+status: 3
+tags: []
+user_id: root

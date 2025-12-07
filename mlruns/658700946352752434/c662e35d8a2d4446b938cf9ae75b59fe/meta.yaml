@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/c662e35d8a2d4446b938cf9ae75b59fe/artifacts
+end_time: 1765093181337
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: c662e35d8a2d4446b938cf9ae75b59fe
+run_name: sneaky-snake-844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093181283
+status: 3
+tags: []
+user_id: root

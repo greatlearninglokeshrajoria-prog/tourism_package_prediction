@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/67c9b67a5a19466b8821aeb87844442c/artifacts
+end_time: 1765093176880
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 67c9b67a5a19466b8821aeb87844442c
+run_name: resilient-mouse-443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093176827
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/8ab45542b96f4b588ae9d2daffd30d1b/artifacts
+end_time: 1765093175164
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 8ab45542b96f4b588ae9d2daffd30d1b
+run_name: receptive-yak-686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093175113
+status: 3
+tags: []
+user_id: root

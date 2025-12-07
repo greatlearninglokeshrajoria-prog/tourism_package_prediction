@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/510516deb54445d5b9f597fb6393b86a/artifacts
+end_time: 1765093169733
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 510516deb54445d5b9f597fb6393b86a
+run_name: tasteful-mare-623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093169647
+status: 3
+tags: []
+user_id: root

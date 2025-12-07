@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/b7000032071848c6b82ed8e348f54bd6/artifacts
+end_time: 1765093178494
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: b7000032071848c6b82ed8e348f54bd6
+run_name: amazing-whale-330
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093178437
+status: 3
+tags: []
+user_id: root

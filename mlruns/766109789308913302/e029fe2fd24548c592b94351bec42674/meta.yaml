@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/e029fe2fd24548c592b94351bec42674/artifacts
+end_time: 1765092689483
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: e029fe2fd24548c592b94351bec42674
+run_name: thundering-owl-138
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092687022
+status: 3
+tags: []
+user_id: root

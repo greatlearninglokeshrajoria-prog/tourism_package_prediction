@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/2fd4e6dddbb843499452517160577573/artifacts
+end_time: 1765093176738
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 2fd4e6dddbb843499452517160577573
+run_name: dapper-mare-951
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093176683
+status: 3
+tags: []
+user_id: root

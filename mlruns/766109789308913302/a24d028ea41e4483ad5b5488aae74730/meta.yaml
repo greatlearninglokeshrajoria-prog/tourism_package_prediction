@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/a24d028ea41e4483ad5b5488aae74730/artifacts
+end_time: 1765092627059
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: a24d028ea41e4483ad5b5488aae74730
+run_name: big-vole-572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092624560
+status: 3
+tags: []
+user_id: root

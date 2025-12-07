@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/85e610ff55a045319f9784dc8ec8b130/artifacts
+end_time: 1765092710492
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 85e610ff55a045319f9784dc8ec8b130
+run_name: thundering-midge-979
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092708031
+status: 3
+tags: []
+user_id: root

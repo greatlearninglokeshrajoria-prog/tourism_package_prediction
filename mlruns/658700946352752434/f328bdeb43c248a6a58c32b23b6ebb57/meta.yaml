@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/f328bdeb43c248a6a58c32b23b6ebb57/artifacts
+end_time: 1765093225141
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: f328bdeb43c248a6a58c32b23b6ebb57
+run_name: legendary-mink-296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093225077
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/8a0c0ccac0614be2b1b72d85ab0dbe9a/artifacts
+end_time: 1765093182391
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 8a0c0ccac0614be2b1b72d85ab0dbe9a
+run_name: indecisive-snake-971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093182295
+status: 3
+tags: []
+user_id: root

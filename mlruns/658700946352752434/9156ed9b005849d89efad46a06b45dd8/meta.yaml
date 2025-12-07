@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/9156ed9b005849d89efad46a06b45dd8/artifacts
+end_time: 1765093224144
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 9156ed9b005849d89efad46a06b45dd8
+run_name: placid-finch-699
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093224083
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/b2d17b37beca460496438c5978b76b6e/artifacts
+end_time: 1765093197799
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: b2d17b37beca460496438c5978b76b6e
+run_name: traveling-hawk-383
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093197705
+status: 3
+tags: []
+user_id: root

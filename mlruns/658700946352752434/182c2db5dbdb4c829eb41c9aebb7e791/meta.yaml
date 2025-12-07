@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/182c2db5dbdb4c829eb41c9aebb7e791/artifacts
+end_time: 1765093173146
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 182c2db5dbdb4c829eb41c9aebb7e791
+run_name: thundering-carp-710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093173095
+status: 3
+tags: []
+user_id: root

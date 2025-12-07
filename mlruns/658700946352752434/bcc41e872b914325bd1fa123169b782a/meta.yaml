@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/bcc41e872b914325bd1fa123169b782a/artifacts
+end_time: 1765093221366
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: bcc41e872b914325bd1fa123169b782a
+run_name: rebellious-pug-78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093221307
+status: 3
+tags: []
+user_id: root

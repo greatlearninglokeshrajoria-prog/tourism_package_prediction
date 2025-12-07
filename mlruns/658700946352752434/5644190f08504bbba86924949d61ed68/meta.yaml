@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/5644190f08504bbba86924949d61ed68/artifacts
+end_time: 1765093154809
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 5644190f08504bbba86924949d61ed68
+run_name: merciful-conch-78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093154758
+status: 3
+tags: []
+user_id: root

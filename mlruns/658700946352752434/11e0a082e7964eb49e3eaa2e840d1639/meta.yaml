@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/11e0a082e7964eb49e3eaa2e840d1639/artifacts
+end_time: 1765093185455
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 11e0a082e7964eb49e3eaa2e840d1639
+run_name: learned-rook-484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093185364
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/dc254ff2e8ea45ba8cd75cde14ea2ec4/artifacts
+end_time: 1765093222186
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: dc254ff2e8ea45ba8cd75cde14ea2ec4
+run_name: intrigued-snipe-651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093222126
+status: 3
+tags: []
+user_id: root

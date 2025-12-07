@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/6d56284f31bb4927a7172c22b3860c80/artifacts
+end_time: 1765092763110
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 6d56284f31bb4927a7172c22b3860c80
+run_name: thundering-swan-797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092760641
+status: 3
+tags: []
+user_id: root

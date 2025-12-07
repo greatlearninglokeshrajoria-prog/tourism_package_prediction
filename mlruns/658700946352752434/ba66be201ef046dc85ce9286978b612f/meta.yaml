@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/ba66be201ef046dc85ce9286978b612f/artifacts
+end_time: 1765093170884
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: ba66be201ef046dc85ce9286978b612f
+run_name: orderly-mole-260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093170775
+status: 3
+tags: []
+user_id: root

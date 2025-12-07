@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/176724e18f294e778bef416a2ddb6ab8/artifacts
+end_time: 1765092843200
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 176724e18f294e778bef416a2ddb6ab8
+run_name: ambitious-cub-744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092840696
+status: 3
+tags: []
+user_id: root

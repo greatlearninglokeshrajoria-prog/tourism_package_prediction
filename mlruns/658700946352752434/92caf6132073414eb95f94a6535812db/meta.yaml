@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/92caf6132073414eb95f94a6535812db/artifacts
+end_time: 1765093166568
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 92caf6132073414eb95f94a6535812db
+run_name: unruly-ox-400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093166480
+status: 3
+tags: []
+user_id: root

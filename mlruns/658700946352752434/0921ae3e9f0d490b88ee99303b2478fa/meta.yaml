@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/0921ae3e9f0d490b88ee99303b2478fa/artifacts
+end_time: 1765093212732
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 0921ae3e9f0d490b88ee99303b2478fa
+run_name: fearless-sheep-450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093212630
+status: 3
+tags: []
+user_id: root

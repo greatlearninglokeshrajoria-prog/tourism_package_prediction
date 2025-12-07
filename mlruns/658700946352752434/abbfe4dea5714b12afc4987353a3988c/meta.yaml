@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/abbfe4dea5714b12afc4987353a3988c/artifacts
+end_time: 1765093160259
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: abbfe4dea5714b12afc4987353a3988c
+run_name: entertaining-bat-235
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093160203
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/d4a0d6da0b1e459cb72eca849ddc1458/artifacts
+end_time: 1765092696417
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: d4a0d6da0b1e459cb72eca849ddc1458
+run_name: clean-squirrel-981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092693936
+status: 3
+tags: []
+user_id: root

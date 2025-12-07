@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/6166a52289f648a687dacb8538b4758a/artifacts
+end_time: 1765093156688
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 6166a52289f648a687dacb8538b4758a
+run_name: skittish-bear-788
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093156640
+status: 3
+tags: []
+user_id: root

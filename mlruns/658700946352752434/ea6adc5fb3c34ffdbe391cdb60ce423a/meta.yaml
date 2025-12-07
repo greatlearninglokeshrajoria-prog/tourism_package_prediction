@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/ea6adc5fb3c34ffdbe391cdb60ce423a/artifacts
+end_time: 1765093178783
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: ea6adc5fb3c34ffdbe391cdb60ce423a
+run_name: charming-ram-24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093178729
+status: 3
+tags: []
+user_id: root

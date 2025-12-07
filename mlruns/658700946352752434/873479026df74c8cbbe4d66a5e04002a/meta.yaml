@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/873479026df74c8cbbe4d66a5e04002a/artifacts
+end_time: 1765093156364
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 873479026df74c8cbbe4d66a5e04002a
+run_name: hilarious-quail-308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093156315
+status: 3
+tags: []
+user_id: root

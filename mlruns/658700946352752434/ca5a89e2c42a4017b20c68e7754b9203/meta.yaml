@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/ca5a89e2c42a4017b20c68e7754b9203/artifacts
+end_time: 1765093153589
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: ca5a89e2c42a4017b20c68e7754b9203
+run_name: peaceful-stork-985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093153540
+status: 3
+tags: []
+user_id: root

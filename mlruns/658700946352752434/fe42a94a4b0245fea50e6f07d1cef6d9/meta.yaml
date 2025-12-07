@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/fe42a94a4b0245fea50e6f07d1cef6d9/artifacts
+end_time: 1765093203240
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: fe42a94a4b0245fea50e6f07d1cef6d9
+run_name: enthused-elk-756
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093203141
+status: 3
+tags: []
+user_id: root

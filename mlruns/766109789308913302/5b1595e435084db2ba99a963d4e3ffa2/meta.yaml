@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/5b1595e435084db2ba99a963d4e3ffa2/artifacts
+end_time: 1765092647838
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 5b1595e435084db2ba99a963d4e3ffa2
+run_name: merciful-steed-77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092645384
+status: 3
+tags: []
+user_id: root

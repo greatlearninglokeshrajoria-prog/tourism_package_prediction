@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/b6d68da90c5f48aaa6381e7fc84d5f0f/artifacts
+end_time: 1765093176175
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: b6d68da90c5f48aaa6381e7fc84d5f0f
+run_name: ambitious-skink-882
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093176124
+status: 3
+tags: []
+user_id: root

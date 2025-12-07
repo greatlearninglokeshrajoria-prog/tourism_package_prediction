@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/56c878426f5d439a87fb0cd59edb8be6/artifacts
+end_time: 1765093224310
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 56c878426f5d439a87fb0cd59edb8be6
+run_name: wise-goose-468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093224243
+status: 3
+tags: []
+user_id: root

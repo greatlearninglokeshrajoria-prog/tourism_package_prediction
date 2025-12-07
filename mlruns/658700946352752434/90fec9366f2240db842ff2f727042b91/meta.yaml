@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/90fec9366f2240db842ff2f727042b91/artifacts
+end_time: 1765093177684
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 90fec9366f2240db842ff2f727042b91
+run_name: vaunted-gnat-94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093177630
+status: 3
+tags: []
+user_id: root

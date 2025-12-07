@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/ed2211a7d3f54dfcb44d0e29ae0fa837/artifacts
+end_time: 1765093177255
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: ed2211a7d3f54dfcb44d0e29ae0fa837
+run_name: valuable-boar-838
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093177198
+status: 3
+tags: []
+user_id: root

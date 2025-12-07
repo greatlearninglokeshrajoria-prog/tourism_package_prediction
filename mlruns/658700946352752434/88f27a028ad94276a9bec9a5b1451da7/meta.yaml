@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/88f27a028ad94276a9bec9a5b1451da7/artifacts
+end_time: 1765093223979
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 88f27a028ad94276a9bec9a5b1451da7
+run_name: aged-donkey-83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093223904
+status: 3
+tags: []
+user_id: root

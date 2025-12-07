@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/06187dee3be04fb69a1fcd8825a5d5ea/artifacts
+end_time: 1765093174591
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 06187dee3be04fb69a1fcd8825a5d5ea
+run_name: serious-yak-147
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093174538
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/e53d7e81004b482595117f5b5fb02f0a/artifacts
+end_time: 1765093196318
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: e53d7e81004b482595117f5b5fb02f0a
+run_name: resilient-ant-289
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093196209
+status: 3
+tags: []
+user_id: root

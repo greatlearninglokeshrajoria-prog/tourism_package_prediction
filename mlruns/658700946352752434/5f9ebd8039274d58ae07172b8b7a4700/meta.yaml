@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/5f9ebd8039274d58ae07172b8b7a4700/artifacts
+end_time: 1765093218921
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 5f9ebd8039274d58ae07172b8b7a4700
+run_name: honorable-ram-6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093218857
+status: 3
+tags: []
+user_id: root

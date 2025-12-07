@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/edd302a0e91e43a99271bbb10262a429/artifacts
+end_time: 1765093191466
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: edd302a0e91e43a99271bbb10262a429
+run_name: powerful-bat-732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093191371
+status: 3
+tags: []
+user_id: root

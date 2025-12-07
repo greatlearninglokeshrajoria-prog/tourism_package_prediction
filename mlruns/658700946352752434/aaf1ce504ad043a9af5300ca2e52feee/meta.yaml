@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/aaf1ce504ad043a9af5300ca2e52feee/artifacts
+end_time: 1765093199922
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: aaf1ce504ad043a9af5300ca2e52feee
+run_name: luminous-robin-525
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093199819
+status: 3
+tags: []
+user_id: root

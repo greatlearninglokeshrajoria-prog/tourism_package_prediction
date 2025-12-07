@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/993cb0422b3b43e3b4086e0ebdbd6984/artifacts
+end_time: 1765093158185
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 993cb0422b3b43e3b4086e0ebdbd6984
+run_name: bold-skink-633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093158136
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/51f38baa5a1d42f59326d98bc4727e01/artifacts
+end_time: 1765093219167
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 51f38baa5a1d42f59326d98bc4727e01
+run_name: marvelous-loon-832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093219106
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/ad34346ca3e348afa61527c63b18ec54/artifacts
+end_time: 1765093204002
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: ad34346ca3e348afa61527c63b18ec54
+run_name: unequaled-shark-505
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093203906
+status: 3
+tags: []
+user_id: root

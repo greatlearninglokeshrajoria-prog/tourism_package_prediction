@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/3139452e9ad745a9a42faa1e131cac3d/artifacts
+end_time: 1765093215471
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 3139452e9ad745a9a42faa1e131cac3d
+run_name: redolent-sheep-765
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093215371
+status: 3
+tags: []
+user_id: root

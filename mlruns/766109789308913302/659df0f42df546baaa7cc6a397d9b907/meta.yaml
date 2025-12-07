@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/659df0f42df546baaa7cc6a397d9b907/artifacts
+end_time: 1765092770046
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 659df0f42df546baaa7cc6a397d9b907
+run_name: youthful-slug-170
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092767563
+status: 3
+tags: []
+user_id: root

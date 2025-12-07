@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/057aa50e5e284637abdb9509c48a05a4/artifacts
+end_time: 1765093218838
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 057aa50e5e284637abdb9509c48a05a4
+run_name: merciful-skink-732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093218774
+status: 3
+tags: []
+user_id: root

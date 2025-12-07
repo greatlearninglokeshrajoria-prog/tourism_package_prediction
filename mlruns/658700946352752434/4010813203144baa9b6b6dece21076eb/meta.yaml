@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/4010813203144baa9b6b6dece21076eb/artifacts
+end_time: 1765093208955
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 4010813203144baa9b6b6dece21076eb
+run_name: magnificent-slug-897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093208859
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a9ac1544b13149a8b5e34dbcdd920a7e/artifacts
+end_time: 1765093158927
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a9ac1544b13149a8b5e34dbcdd920a7e
+run_name: sincere-lamb-583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093158878
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/8398687047da4b72b9389f90c3d8c86b/artifacts
+end_time: 1765093160808
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 8398687047da4b72b9389f90c3d8c86b
+run_name: traveling-dove-38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093160756
+status: 3
+tags: []
+user_id: root

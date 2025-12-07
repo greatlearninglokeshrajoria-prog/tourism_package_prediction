@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/80b84d48be414d32bb94de2bce080868/artifacts
+end_time: 1765092623581
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 80b84d48be414d32bb94de2bce080868
+run_name: smiling-flea-60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092621097
+status: 3
+tags: []
+user_id: root

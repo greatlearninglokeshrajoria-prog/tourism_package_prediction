@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/3f113c9f10b04f81b34fd81668ef43bf/artifacts
+end_time: 1765093180731
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 3f113c9f10b04f81b34fd81668ef43bf
+run_name: worried-tern-548
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093180674
+status: 3
+tags: []
+user_id: root

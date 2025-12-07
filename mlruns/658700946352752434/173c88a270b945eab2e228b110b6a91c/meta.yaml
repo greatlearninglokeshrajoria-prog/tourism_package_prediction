@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/173c88a270b945eab2e228b110b6a91c/artifacts
+end_time: 1765093177897
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 173c88a270b945eab2e228b110b6a91c
+run_name: upset-sow-569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093177844
+status: 3
+tags: []
+user_id: root

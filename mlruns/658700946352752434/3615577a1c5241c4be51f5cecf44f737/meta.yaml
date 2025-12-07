@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/3615577a1c5241c4be51f5cecf44f737/artifacts
+end_time: 1765093159561
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 3615577a1c5241c4be51f5cecf44f737
+run_name: thundering-stoat-587
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093159502
+status: 3
+tags: []
+user_id: root

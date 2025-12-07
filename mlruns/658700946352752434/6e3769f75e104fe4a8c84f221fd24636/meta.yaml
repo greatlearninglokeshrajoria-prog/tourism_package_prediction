@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/6e3769f75e104fe4a8c84f221fd24636/artifacts
+end_time: 1765093175097
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 6e3769f75e104fe4a8c84f221fd24636
+run_name: worried-croc-290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093175045
+status: 3
+tags: []
+user_id: root

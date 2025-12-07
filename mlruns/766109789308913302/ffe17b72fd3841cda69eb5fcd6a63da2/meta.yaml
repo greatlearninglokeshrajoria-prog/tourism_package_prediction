@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/ffe17b72fd3841cda69eb5fcd6a63da2/artifacts
+end_time: 1765092787467
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: ffe17b72fd3841cda69eb5fcd6a63da2
+run_name: capricious-finch-332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092784976
+status: 3
+tags: []
+user_id: root

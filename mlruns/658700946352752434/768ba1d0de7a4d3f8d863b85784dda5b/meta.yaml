@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/768ba1d0de7a4d3f8d863b85784dda5b/artifacts
+end_time: 1765093157769
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 768ba1d0de7a4d3f8d863b85784dda5b
+run_name: dashing-rook-769
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093157710
+status: 3
+tags: []
+user_id: root

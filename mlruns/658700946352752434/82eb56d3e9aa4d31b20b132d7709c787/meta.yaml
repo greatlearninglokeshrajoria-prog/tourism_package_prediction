@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/82eb56d3e9aa4d31b20b132d7709c787/artifacts
+end_time: 1765093153719
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 82eb56d3e9aa4d31b20b132d7709c787
+run_name: masked-bass-715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093153669
+status: 3
+tags: []
+user_id: root

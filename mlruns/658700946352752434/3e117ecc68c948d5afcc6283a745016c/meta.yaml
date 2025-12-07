@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/3e117ecc68c948d5afcc6283a745016c/artifacts
+end_time: 1765093219244
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 3e117ecc68c948d5afcc6283a745016c
+run_name: learned-midge-488
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093219184
+status: 3
+tags: []
+user_id: root

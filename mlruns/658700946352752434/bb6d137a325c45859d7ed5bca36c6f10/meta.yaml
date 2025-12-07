@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/bb6d137a325c45859d7ed5bca36c6f10/artifacts
+end_time: 1765093200938
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: bb6d137a325c45859d7ed5bca36c6f10
+run_name: ambitious-tern-297
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093200841
+status: 3
+tags: []
+user_id: root

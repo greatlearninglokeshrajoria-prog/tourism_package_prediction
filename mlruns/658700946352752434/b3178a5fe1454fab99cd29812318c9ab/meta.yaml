@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/b3178a5fe1454fab99cd29812318c9ab/artifacts
+end_time: 1765093193843
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: b3178a5fe1454fab99cd29812318c9ab
+run_name: bemused-skunk-119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093193749
+status: 3
+tags: []
+user_id: root

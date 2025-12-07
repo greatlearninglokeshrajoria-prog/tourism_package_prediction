@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/2f76f3e5f8504ac8aaa76fc9d8fd8f10/artifacts
+end_time: 1765093177326
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 2f76f3e5f8504ac8aaa76fc9d8fd8f10
+run_name: skittish-conch-60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093177272
+status: 3
+tags: []
+user_id: root

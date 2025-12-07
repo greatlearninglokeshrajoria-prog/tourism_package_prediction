@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/08eff99e2c504cb2ba6419ced27c5af1/artifacts
+end_time: 1765093221444
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 08eff99e2c504cb2ba6419ced27c5af1
+run_name: receptive-snipe-938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093221384
+status: 3
+tags: []
+user_id: root

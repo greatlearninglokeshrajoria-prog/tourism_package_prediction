@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/75542bb6c9804b90b6f3d8813b52366b/artifacts
+end_time: 1765093204900
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 75542bb6c9804b90b6f3d8813b52366b
+run_name: rare-midge-24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093204792
+status: 3
+tags: []
+user_id: root

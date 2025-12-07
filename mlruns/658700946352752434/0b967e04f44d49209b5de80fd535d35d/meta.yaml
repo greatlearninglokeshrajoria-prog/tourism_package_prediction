@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/0b967e04f44d49209b5de80fd535d35d/artifacts
+end_time: 1765093199023
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 0b967e04f44d49209b5de80fd535d35d
+run_name: resilient-fowl-827
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093198929
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/e40c47799e964be7989d6ea344720c20/artifacts
+end_time: 1765093202745
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: e40c47799e964be7989d6ea344720c20
+run_name: nimble-foal-606
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093202641
+status: 3
+tags: []
+user_id: root

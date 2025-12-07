@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/6ae1f863ac944646ba360118acb30240/artifacts
+end_time: 1765093183095
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 6ae1f863ac944646ba360118acb30240
+run_name: worried-grouse-556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093183001
+status: 3
+tags: []
+user_id: root

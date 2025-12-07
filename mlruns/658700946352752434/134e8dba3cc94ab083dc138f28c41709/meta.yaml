@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/134e8dba3cc94ab083dc138f28c41709/artifacts
+end_time: 1765093194462
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 134e8dba3cc94ab083dc138f28c41709
+run_name: adaptable-swan-971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093194369
+status: 3
+tags: []
+user_id: root

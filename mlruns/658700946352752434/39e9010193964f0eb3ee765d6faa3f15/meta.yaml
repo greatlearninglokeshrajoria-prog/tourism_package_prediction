@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/39e9010193964f0eb3ee765d6faa3f15/artifacts
+end_time: 1765093183208
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 39e9010193964f0eb3ee765d6faa3f15
+run_name: blushing-shad-344
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093183121
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/981eb95952834479af3827d1a7916238/artifacts
+end_time: 1765093207422
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 981eb95952834479af3827d1a7916238
+run_name: righteous-duck-928
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093207326
+status: 3
+tags: []
+user_id: root

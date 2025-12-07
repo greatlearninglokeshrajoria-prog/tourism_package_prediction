@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/86b57fb361d14519a6d63bbd2d9f3ee3/artifacts
+end_time: 1765093216245
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 86b57fb361d14519a6d63bbd2d9f3ee3
+run_name: defiant-carp-354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093216148
+status: 3
+tags: []
+user_id: root

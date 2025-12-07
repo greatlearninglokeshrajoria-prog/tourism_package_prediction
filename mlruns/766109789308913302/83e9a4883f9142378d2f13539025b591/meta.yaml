@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/83e9a4883f9142378d2f13539025b591/artifacts
+end_time: 1765092752654
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 83e9a4883f9142378d2f13539025b591
+run_name: charming-gnat-966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092750202
+status: 3
+tags: []
+user_id: root

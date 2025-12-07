@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/1e6d68ff38c34ca2a69b8951ff3f7766/artifacts
+end_time: 1765093164443
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 1e6d68ff38c34ca2a69b8951ff3f7766
+run_name: shivering-foal-67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093164357
+status: 3
+tags: []
+user_id: root

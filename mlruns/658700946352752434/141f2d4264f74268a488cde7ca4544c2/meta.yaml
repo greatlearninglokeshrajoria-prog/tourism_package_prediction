@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/141f2d4264f74268a488cde7ca4544c2/artifacts
+end_time: 1765093176107
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 141f2d4264f74268a488cde7ca4544c2
+run_name: able-duck-161
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093176044
+status: 3
+tags: []
+user_id: root

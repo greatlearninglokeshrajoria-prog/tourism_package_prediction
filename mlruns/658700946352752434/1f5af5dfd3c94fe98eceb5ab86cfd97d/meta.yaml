@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/1f5af5dfd3c94fe98eceb5ab86cfd97d/artifacts
+end_time: 1765093153387
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 1f5af5dfd3c94fe98eceb5ab86cfd97d
+run_name: valuable-mole-355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093153337
+status: 3
+tags: []
+user_id: root

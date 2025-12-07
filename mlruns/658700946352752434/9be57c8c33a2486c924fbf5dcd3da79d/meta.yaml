@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/9be57c8c33a2486c924fbf5dcd3da79d/artifacts
+end_time: 1765093218587
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 9be57c8c33a2486c924fbf5dcd3da79d
+run_name: handsome-bug-780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093218520
+status: 3
+tags: []
+user_id: root

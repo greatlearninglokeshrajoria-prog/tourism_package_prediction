@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/aa7a8f0f2c2e4241aebcac5e7c04f328/artifacts
+end_time: 1765093155689
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: aa7a8f0f2c2e4241aebcac5e7c04f328
+run_name: handsome-robin-334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093155640
+status: 3
+tags: []
+user_id: root

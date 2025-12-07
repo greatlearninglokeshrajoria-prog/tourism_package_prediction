@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/f2c7ed1fc9ec424d81bc9bef8ff1916c/artifacts
+end_time: 1765093184508
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: f2c7ed1fc9ec424d81bc9bef8ff1916c
+run_name: sincere-koi-191
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093184416
+status: 3
+tags: []
+user_id: root

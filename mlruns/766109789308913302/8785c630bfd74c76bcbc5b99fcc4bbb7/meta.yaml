@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/8785c630bfd74c76bcbc5b99fcc4bbb7/artifacts
+end_time: 1765092675569
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 8785c630bfd74c76bcbc5b99fcc4bbb7
+run_name: nebulous-squirrel-17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092673097
+status: 3
+tags: []
+user_id: root

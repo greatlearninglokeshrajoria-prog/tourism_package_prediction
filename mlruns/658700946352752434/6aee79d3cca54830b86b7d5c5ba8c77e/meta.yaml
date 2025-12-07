@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/6aee79d3cca54830b86b7d5c5ba8c77e/artifacts
+end_time: 1765093206910
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 6aee79d3cca54830b86b7d5c5ba8c77e
+run_name: fortunate-koi-557
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093206813
+status: 3
+tags: []
+user_id: root

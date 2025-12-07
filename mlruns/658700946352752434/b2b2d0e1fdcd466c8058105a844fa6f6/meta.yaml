@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/b2b2d0e1fdcd466c8058105a844fa6f6/artifacts
+end_time: 1765093180442
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: b2b2d0e1fdcd466c8058105a844fa6f6
+run_name: skillful-koi-211
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093180388
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/5887cd23eb184115adb1bec8b7e1856a/artifacts
+end_time: 1765093154272
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 5887cd23eb184115adb1bec8b7e1856a
+run_name: smiling-sow-746
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093154220
+status: 3
+tags: []
+user_id: root

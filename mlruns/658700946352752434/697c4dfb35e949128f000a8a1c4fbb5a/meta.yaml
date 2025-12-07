@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/697c4dfb35e949128f000a8a1c4fbb5a/artifacts
+end_time: 1765093208829
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 697c4dfb35e949128f000a8a1c4fbb5a
+run_name: funny-kite-582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093208726
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/1a7623a4f91644c3845d47ee00ead3f7/artifacts
+end_time: 1765093222616
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 1a7623a4f91644c3845d47ee00ead3f7
+run_name: polite-mink-796
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093222555
+status: 3
+tags: []
+user_id: root

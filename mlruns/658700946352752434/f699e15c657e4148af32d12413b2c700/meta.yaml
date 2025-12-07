@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/f699e15c657e4148af32d12413b2c700/artifacts
+end_time: 1765093216460
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: f699e15c657e4148af32d12413b2c700
+run_name: abrasive-grouse-967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093216398
+status: 3
+tags: []
+user_id: root

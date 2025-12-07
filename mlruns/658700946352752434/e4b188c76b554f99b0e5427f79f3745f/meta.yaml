@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/e4b188c76b554f99b0e5427f79f3745f/artifacts
+end_time: 1765093209484
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: e4b188c76b554f99b0e5427f79f3745f
+run_name: loud-lamb-140
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093209388
+status: 3
+tags: []
+user_id: root

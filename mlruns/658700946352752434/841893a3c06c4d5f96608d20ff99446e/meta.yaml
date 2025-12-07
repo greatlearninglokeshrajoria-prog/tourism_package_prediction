@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/841893a3c06c4d5f96608d20ff99446e/artifacts
+end_time: 1765093171863
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 841893a3c06c4d5f96608d20ff99446e
+run_name: masked-roo-349
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093171811
+status: 3
+tags: []
+user_id: root

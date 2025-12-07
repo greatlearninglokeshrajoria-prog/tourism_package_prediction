@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/b741500b481e4759a8efb8647b820d85/artifacts
+end_time: 1765093189380
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: b741500b481e4759a8efb8647b820d85
+run_name: upbeat-sheep-926
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093189291
+status: 3
+tags: []
+user_id: root

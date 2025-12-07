@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/cd99ce5289234476b616e0c696ba1bd1/artifacts
+end_time: 1765092808375
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: cd99ce5289234476b616e0c696ba1bd1
+run_name: abrasive-shad-658
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092805873
+status: 3
+tags: []
+user_id: root

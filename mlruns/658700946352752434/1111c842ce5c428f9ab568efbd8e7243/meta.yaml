@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/1111c842ce5c428f9ab568efbd8e7243/artifacts
+end_time: 1765093180372
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 1111c842ce5c428f9ab568efbd8e7243
+run_name: mysterious-snail-273
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093180319
+status: 3
+tags: []
+user_id: root

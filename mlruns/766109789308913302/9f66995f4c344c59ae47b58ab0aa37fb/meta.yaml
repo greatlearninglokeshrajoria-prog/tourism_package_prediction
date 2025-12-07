@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/9f66995f4c344c59ae47b58ab0aa37fb/artifacts
+end_time: 1765092836231
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 9f66995f4c344c59ae47b58ab0aa37fb
+run_name: skillful-tern-404
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092833758
+status: 3
+tags: []
+user_id: root

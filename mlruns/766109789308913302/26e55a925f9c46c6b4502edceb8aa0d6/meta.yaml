@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/26e55a925f9c46c6b4502edceb8aa0d6/artifacts
+end_time: 1765092703512
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 26e55a925f9c46c6b4502edceb8aa0d6
+run_name: legendary-fowl-999
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092701012
+status: 3
+tags: []
+user_id: root

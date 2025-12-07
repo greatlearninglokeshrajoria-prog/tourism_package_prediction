@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/7fd6afe67b324ca4a3c295ab5c9571d4/artifacts
+end_time: 1765093194825
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 7fd6afe67b324ca4a3c295ab5c9571d4
+run_name: luminous-dog-16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093194729
+status: 3
+tags: []
+user_id: root

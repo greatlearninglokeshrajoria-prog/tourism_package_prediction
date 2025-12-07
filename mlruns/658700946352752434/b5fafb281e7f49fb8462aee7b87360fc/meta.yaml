@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/b5fafb281e7f49fb8462aee7b87360fc/artifacts
+end_time: 1765093196182
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: b5fafb281e7f49fb8462aee7b87360fc
+run_name: wise-penguin-635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093196082
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/5f35007046654ddda4897bf3717d5bbf/artifacts
+end_time: 1765093182028
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 5f35007046654ddda4897bf3717d5bbf
+run_name: dashing-lynx-13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093181942
+status: 3
+tags: []
+user_id: root

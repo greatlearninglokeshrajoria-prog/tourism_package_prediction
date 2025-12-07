@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/60f3e5e3ca064f95b0ccaede7c3dc5c2/artifacts
+end_time: 1765093155951
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 60f3e5e3ca064f95b0ccaede7c3dc5c2
+run_name: unequaled-quail-2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093155902
+status: 3
+tags: []
+user_id: root

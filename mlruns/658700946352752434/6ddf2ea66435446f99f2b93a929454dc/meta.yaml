@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/6ddf2ea66435446f99f2b93a929454dc/artifacts
+end_time: 1765093176667
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 6ddf2ea66435446f99f2b93a929454dc
+run_name: luminous-gull-344
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093176613
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/cacd5aa0855843c6bfb89e90004ba105/artifacts
+end_time: 1765093202491
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: cacd5aa0855843c6bfb89e90004ba105
+run_name: serious-snipe-123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093202393
+status: 3
+tags: []
+user_id: root

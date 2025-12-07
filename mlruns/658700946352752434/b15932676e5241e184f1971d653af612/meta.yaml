@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/b15932676e5241e184f1971d653af612/artifacts
+end_time: 1765093153784
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: b15932676e5241e184f1971d653af612
+run_name: kindly-lynx-410
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093153735
+status: 3
+tags: []
+user_id: root

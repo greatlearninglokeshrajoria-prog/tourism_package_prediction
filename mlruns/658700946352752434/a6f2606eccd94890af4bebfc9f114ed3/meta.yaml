@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a6f2606eccd94890af4bebfc9f114ed3/artifacts
+end_time: 1765093166015
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a6f2606eccd94890af4bebfc9f114ed3
+run_name: defiant-slug-990
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093165930
+status: 3
+tags: []
+user_id: root

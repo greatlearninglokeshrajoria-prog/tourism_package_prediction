@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/e41ec950563c410eb4af5b6b6df4cb39/artifacts
+end_time: 1765093221040
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: e41ec950563c410eb4af5b6b6df4cb39
+run_name: melodic-deer-660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093220970
+status: 3
+tags: []
+user_id: root

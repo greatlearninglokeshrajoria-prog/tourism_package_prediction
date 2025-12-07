@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/bacc01033a5e479b9cadc3f8134f1fd0/artifacts
+end_time: 1765093182738
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: bacc01033a5e479b9cadc3f8134f1fd0
+run_name: rumbling-shark-290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093182646
+status: 3
+tags: []
+user_id: root

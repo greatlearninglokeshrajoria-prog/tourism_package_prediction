@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/85f7af6d2c2243a898c84717f43d6669/artifacts
+end_time: 1765093223218
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 85f7af6d2c2243a898c84717f43d6669
+run_name: indecisive-ray-315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093223158
+status: 3
+tags: []
+user_id: root

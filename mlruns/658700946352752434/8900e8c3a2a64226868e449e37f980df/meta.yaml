@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/8900e8c3a2a64226868e449e37f980df/artifacts
+end_time: 1765093164664
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 8900e8c3a2a64226868e449e37f980df
+run_name: gifted-kit-271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093164580
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/128b9b9545d84dabb43eb977463bf80a/artifacts
+end_time: 1765093219978
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 128b9b9545d84dabb43eb977463bf80a
+run_name: bald-hog-362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093219917
+status: 3
+tags: []
+user_id: root

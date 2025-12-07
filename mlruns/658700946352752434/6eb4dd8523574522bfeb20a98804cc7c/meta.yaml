@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/6eb4dd8523574522bfeb20a98804cc7c/artifacts
+end_time: 1765093159903
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 6eb4dd8523574522bfeb20a98804cc7c
+run_name: adventurous-stag-553
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093159853
+status: 3
+tags: []
+user_id: root

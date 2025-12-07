@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/bb46f2b5f0604e6d8a1d297920408578/artifacts
+end_time: 1765093222780
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: bb46f2b5f0604e6d8a1d297920408578
+run_name: auspicious-conch-366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093222711
+status: 3
+tags: []
+user_id: root

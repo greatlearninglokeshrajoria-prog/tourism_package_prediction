@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/22ea59943bc8446d86878d7fee701a1c/artifacts
+end_time: 1765093159287
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 22ea59943bc8446d86878d7fee701a1c
+run_name: mysterious-fly-136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093159235
+status: 3
+tags: []
+user_id: root

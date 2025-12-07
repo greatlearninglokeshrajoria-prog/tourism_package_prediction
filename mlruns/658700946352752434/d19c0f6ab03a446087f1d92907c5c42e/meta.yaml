@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/d19c0f6ab03a446087f1d92907c5c42e/artifacts
+end_time: 1765093154068
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: d19c0f6ab03a446087f1d92907c5c42e
+run_name: rumbling-cod-726
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093154015
+status: 3
+tags: []
+user_id: root

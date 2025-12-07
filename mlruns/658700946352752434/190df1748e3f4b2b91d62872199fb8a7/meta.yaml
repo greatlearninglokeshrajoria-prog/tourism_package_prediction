@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/190df1748e3f4b2b91d62872199fb8a7/artifacts
+end_time: 1765093154876
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 190df1748e3f4b2b91d62872199fb8a7
+run_name: suave-steed-875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093154826
+status: 3
+tags: []
+user_id: root

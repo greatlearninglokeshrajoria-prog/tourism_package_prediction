@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a9f62f31d2f2427a88766b6d614fc92b/artifacts
+end_time: 1765093166904
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a9f62f31d2f2427a88766b6d614fc92b
+run_name: industrious-doe-326
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093166821
+status: 3
+tags: []
+user_id: root

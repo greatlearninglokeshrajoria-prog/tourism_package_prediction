@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/f567daebc3fb4f7083f8818865a1e256/artifacts
+end_time: 1765093211158
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: f567daebc3fb4f7083f8818865a1e256
+run_name: calm-pig-598
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093211056
+status: 3
+tags: []
+user_id: root

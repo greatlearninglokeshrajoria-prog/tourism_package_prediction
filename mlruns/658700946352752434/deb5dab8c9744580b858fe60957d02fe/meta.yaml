@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/deb5dab8c9744580b858fe60957d02fe/artifacts
+end_time: 1765093215344
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: deb5dab8c9744580b858fe60957d02fe
+run_name: melodic-horse-121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093215249
+status: 3
+tags: []
+user_id: root

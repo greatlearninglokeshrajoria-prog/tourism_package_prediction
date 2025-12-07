@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/ab6b174ac99641d78e3ed1db7597b2a3/artifacts
+end_time: 1765093167356
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: ab6b174ac99641d78e3ed1db7597b2a3
+run_name: sassy-trout-897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093167272
+status: 3
+tags: []
+user_id: root

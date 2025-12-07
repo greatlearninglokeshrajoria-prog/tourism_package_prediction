@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/4f69e048495d431c8bd0610323e32af1/artifacts
+end_time: 1765093153521
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 4f69e048495d431c8bd0610323e32af1
+run_name: learned-moth-464
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093153469
+status: 3
+tags: []
+user_id: root

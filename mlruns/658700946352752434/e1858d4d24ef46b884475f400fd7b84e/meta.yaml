@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/e1858d4d24ef46b884475f400fd7b84e/artifacts
+end_time: 1765093160534
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: e1858d4d24ef46b884475f400fd7b84e
+run_name: righteous-fawn-149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093160482
+status: 3
+tags: []
+user_id: root

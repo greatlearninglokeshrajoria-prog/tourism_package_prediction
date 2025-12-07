@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/fbbf07ab3a434cfc9cc0c99f762d25c8/artifacts
+end_time: 1765092661733
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: fbbf07ab3a434cfc9cc0c99f762d25c8
+run_name: masked-boar-885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092659251
+status: 3
+tags: []
+user_id: root

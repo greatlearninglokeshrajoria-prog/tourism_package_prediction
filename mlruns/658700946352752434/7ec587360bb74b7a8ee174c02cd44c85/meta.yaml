@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/7ec587360bb74b7a8ee174c02cd44c85/artifacts
+end_time: 1765093219567
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 7ec587360bb74b7a8ee174c02cd44c85
+run_name: unleashed-hound-289
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093219502
+status: 3
+tags: []
+user_id: root

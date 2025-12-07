@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/603037960fd54710b9fb1f89e1c02261/artifacts
+end_time: 1765093183805
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 603037960fd54710b9fb1f89e1c02261
+run_name: invincible-gnat-347
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093183705
+status: 3
+tags: []
+user_id: root

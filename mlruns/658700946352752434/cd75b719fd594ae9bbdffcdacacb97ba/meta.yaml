@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/cd75b719fd594ae9bbdffcdacacb97ba/artifacts
+end_time: 1765093171795
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: cd75b719fd594ae9bbdffcdacacb97ba
+run_name: nosy-bass-311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093171728
+status: 3
+tags: []
+user_id: root

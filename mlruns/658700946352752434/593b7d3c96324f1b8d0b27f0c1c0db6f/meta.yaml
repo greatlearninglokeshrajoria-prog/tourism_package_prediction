@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/593b7d3c96324f1b8d0b27f0c1c0db6f/artifacts
+end_time: 1765093214028
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 593b7d3c96324f1b8d0b27f0c1c0db6f
+run_name: persistent-hawk-982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093213921
+status: 3
+tags: []
+user_id: root

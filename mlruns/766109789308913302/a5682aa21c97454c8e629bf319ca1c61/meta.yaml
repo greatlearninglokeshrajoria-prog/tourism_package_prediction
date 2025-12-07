@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/a5682aa21c97454c8e629bf319ca1c61/artifacts
+end_time: 1765092679096
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: a5682aa21c97454c8e629bf319ca1c61
+run_name: efficient-bear-543
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092676573
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a92e850403b745db9fc55b785be13d82/artifacts
+end_time: 1765093198414
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a92e850403b745db9fc55b785be13d82
+run_name: merciful-moth-665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093198313
+status: 3
+tags: []
+user_id: root

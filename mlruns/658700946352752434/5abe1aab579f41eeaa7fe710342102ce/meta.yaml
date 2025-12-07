@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/5abe1aab579f41eeaa7fe710342102ce/artifacts
+end_time: 1765093201302
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 5abe1aab579f41eeaa7fe710342102ce
+run_name: amusing-sloth-409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093201205
+status: 3
+tags: []
+user_id: root

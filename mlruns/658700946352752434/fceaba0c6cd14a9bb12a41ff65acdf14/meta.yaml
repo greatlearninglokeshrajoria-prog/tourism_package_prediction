@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/fceaba0c6cd14a9bb12a41ff65acdf14/artifacts
+end_time: 1765093162286
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: fceaba0c6cd14a9bb12a41ff65acdf14
+run_name: loud-cow-705
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093162200
+status: 3
+tags: []
+user_id: root

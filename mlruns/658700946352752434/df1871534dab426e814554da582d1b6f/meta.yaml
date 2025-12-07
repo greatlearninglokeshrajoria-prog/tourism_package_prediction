@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/df1871534dab426e814554da582d1b6f/artifacts
+end_time: 1765093168146
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: df1871534dab426e814554da582d1b6f
+run_name: youthful-shoat-196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093168065
+status: 3
+tags: []
+user_id: root

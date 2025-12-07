@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/624b5e1d49674d7d9d85704dcc7a9a29/artifacts
+end_time: 1765093212073
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 624b5e1d49674d7d9d85704dcc7a9a29
+run_name: carefree-calf-444
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093211975
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/860157d1b54d492da7f69a57bbc01e90/artifacts
+end_time: 1765093161861
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 860157d1b54d492da7f69a57bbc01e90
+run_name: stylish-elk-545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093161783
+status: 3
+tags: []
+user_id: root

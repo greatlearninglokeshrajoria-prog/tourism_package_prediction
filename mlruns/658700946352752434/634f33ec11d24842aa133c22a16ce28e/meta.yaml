@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/634f33ec11d24842aa133c22a16ce28e/artifacts
+end_time: 1765093181485
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 634f33ec11d24842aa133c22a16ce28e
+run_name: peaceful-snake-849
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093181430
+status: 3
+tags: []
+user_id: root

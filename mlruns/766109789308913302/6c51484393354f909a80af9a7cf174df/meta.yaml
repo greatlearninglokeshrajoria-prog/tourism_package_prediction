@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/6c51484393354f909a80af9a7cf174df/artifacts
+end_time: 1765092654805
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 6c51484393354f909a80af9a7cf174df
+run_name: abundant-cow-304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092652292
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/872f4896dd984057a3bf19b863b64c21/artifacts
+end_time: 1765093173214
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 872f4896dd984057a3bf19b863b64c21
+run_name: bedecked-koi-435
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093173162
+status: 3
+tags: []
+user_id: root

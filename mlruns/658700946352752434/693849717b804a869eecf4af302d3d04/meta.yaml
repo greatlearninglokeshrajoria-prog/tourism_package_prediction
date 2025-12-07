@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/693849717b804a869eecf4af302d3d04/artifacts
+end_time: 1765093221950
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 693849717b804a869eecf4af302d3d04
+run_name: wise-jay-840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093221889
+status: 3
+tags: []
+user_id: root

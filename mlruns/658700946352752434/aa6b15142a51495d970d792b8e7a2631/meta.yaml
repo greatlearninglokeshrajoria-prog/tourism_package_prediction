@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/aa6b15142a51495d970d792b8e7a2631/artifacts
+end_time: 1765093174088
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: aa6b15142a51495d970d792b8e7a2631
+run_name: colorful-pug-124
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093174033
+status: 3
+tags: []
+user_id: root

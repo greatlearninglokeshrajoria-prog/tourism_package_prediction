@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/b6310adff22c4c849cea418321ff0951/artifacts
+end_time: 1765092668679
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: b6310adff22c4c849cea418321ff0951
+run_name: righteous-moose-76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092666197
+status: 3
+tags: []
+user_id: root

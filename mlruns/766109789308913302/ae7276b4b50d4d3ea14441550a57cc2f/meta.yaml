@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/ae7276b4b50d4d3ea14441550a57cc2f/artifacts
+end_time: 1765092766570
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: ae7276b4b50d4d3ea14441550a57cc2f
+run_name: beautiful-donkey-340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092764093
+status: 3
+tags: []
+user_id: root

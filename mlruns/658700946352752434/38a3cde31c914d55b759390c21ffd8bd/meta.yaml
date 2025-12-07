@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/38a3cde31c914d55b759390c21ffd8bd/artifacts
+end_time: 1765093173365
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 38a3cde31c914d55b759390c21ffd8bd
+run_name: trusting-hen-343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093173309
+status: 3
+tags: []
+user_id: root

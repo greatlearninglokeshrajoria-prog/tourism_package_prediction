@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/35ddff0cb5e045c0a8486eb8fe2f4392/artifacts
+end_time: 1765093179686
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 35ddff0cb5e045c0a8486eb8fe2f4392
+run_name: clumsy-hen-962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093179630
+status: 3
+tags: []
+user_id: root

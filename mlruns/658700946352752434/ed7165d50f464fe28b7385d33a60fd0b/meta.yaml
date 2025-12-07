@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/ed7165d50f464fe28b7385d33a60fd0b/artifacts
+end_time: 1765093164772
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: ed7165d50f464fe28b7385d33a60fd0b
+run_name: skittish-shrimp-931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093164688
+status: 3
+tags: []
+user_id: root

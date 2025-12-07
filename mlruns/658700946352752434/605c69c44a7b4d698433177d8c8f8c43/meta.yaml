@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/605c69c44a7b4d698433177d8c8f8c43/artifacts
+end_time: 1765093224465
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 605c69c44a7b4d698433177d8c8f8c43
+run_name: inquisitive-calf-914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093224406
+status: 3
+tags: []
+user_id: root

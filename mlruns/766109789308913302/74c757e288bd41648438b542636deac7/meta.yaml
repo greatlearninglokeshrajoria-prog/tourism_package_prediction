@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/74c757e288bd41648438b542636deac7/artifacts
+end_time: 1765092692951
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: 74c757e288bd41648438b542636deac7
+run_name: marvelous-turtle-175
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092690478
+status: 3
+tags: []
+user_id: root

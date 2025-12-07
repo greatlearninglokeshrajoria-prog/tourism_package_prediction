@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/749ac146f1284cbb874d117051ccd8f4/artifacts
+end_time: 1765093202367
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 749ac146f1284cbb874d117051ccd8f4
+run_name: dashing-shrike-110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093202273
+status: 3
+tags: []
+user_id: root

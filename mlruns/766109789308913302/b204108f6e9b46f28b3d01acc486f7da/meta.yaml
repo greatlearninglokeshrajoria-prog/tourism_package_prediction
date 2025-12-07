@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/b204108f6e9b46f28b3d01acc486f7da/artifacts
+end_time: 1765092846165
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: b204108f6e9b46f28b3d01acc486f7da
+run_name: calm-duck-431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092586126
+status: 3
+tags: []
+user_id: root

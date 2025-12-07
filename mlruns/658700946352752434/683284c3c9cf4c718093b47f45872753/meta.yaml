@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/683284c3c9cf4c718093b47f45872753/artifacts
+end_time: 1765093209865
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 683284c3c9cf4c718093b47f45872753
+run_name: thundering-shoat-489
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093209765
+status: 3
+tags: []
+user_id: root

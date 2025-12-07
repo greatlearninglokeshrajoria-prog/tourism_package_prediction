@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/93e939f0d4b54ff8ae36460441ebad8e/artifacts
+end_time: 1765093200289
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 93e939f0d4b54ff8ae36460441ebad8e
+run_name: peaceful-goat-719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093200194
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/29bc38c66e8549a7afd0c4c3b75adc95/artifacts
+end_time: 1765093178350
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 29bc38c66e8549a7afd0c4c3b75adc95
+run_name: adaptable-wolf-588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093178296
+status: 3
+tags: []
+user_id: root

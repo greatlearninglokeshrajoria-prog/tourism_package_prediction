@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/00663e090ccb4975ab5d7a81a6ad513c/artifacts
+end_time: 1765093169848
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 00663e090ccb4975ab5d7a81a6ad513c
+run_name: big-bear-711
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093169764
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/766109789308913302/bb5d3edb3a24468583561bff76c24b47/artifacts
+end_time: 1765092776998
+entry_point_name: ''
+experiment_id: '766109789308913302'
+lifecycle_stage: active
+run_id: bb5d3edb3a24468583561bff76c24b47
+run_name: sassy-skink-896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765092774509
+status: 3
+tags: []
+user_id: root
