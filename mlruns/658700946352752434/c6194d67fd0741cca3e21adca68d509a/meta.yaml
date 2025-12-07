@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/c6194d67fd0741cca3e21adca68d509a/artifacts
+end_time: 1765093918321
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: c6194d67fd0741cca3e21adca68d509a
+run_name: shivering-crow-866
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093918249
+status: 3
+tags: []
+user_id: root

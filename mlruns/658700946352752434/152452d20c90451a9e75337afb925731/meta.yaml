@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/152452d20c90451a9e75337afb925731/artifacts
+end_time: 1765093894499
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 152452d20c90451a9e75337afb925731
+run_name: selective-colt-885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093894388
+status: 3
+tags: []
+user_id: root

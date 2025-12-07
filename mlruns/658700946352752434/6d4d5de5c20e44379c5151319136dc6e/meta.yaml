@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/6d4d5de5c20e44379c5151319136dc6e/artifacts
+end_time: 1765093871907
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 6d4d5de5c20e44379c5151319136dc6e
+run_name: likeable-elk-56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093871793
+status: 3
+tags: []
+user_id: root

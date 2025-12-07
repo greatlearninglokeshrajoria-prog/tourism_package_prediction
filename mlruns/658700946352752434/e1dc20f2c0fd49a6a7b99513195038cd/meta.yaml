@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/e1dc20f2c0fd49a6a7b99513195038cd/artifacts
+end_time: 1765093920607
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: e1dc20f2c0fd49a6a7b99513195038cd
+run_name: enthused-ox-366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093920537
+status: 3
+tags: []
+user_id: root

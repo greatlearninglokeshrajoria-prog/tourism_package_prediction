@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a6cfa6dabcad4adcadb8fdc6912387c5/artifacts
+end_time: 1765093918031
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a6cfa6dabcad4adcadb8fdc6912387c5
+run_name: judicious-elk-629
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093917960
+status: 3
+tags: []
+user_id: root

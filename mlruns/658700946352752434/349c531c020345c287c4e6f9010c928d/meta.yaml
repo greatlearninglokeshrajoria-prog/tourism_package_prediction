@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/349c531c020345c287c4e6f9010c928d/artifacts
+end_time: 1765093899969
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 349c531c020345c287c4e6f9010c928d
+run_name: unequaled-wasp-827
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093899830
+status: 3
+tags: []
+user_id: root

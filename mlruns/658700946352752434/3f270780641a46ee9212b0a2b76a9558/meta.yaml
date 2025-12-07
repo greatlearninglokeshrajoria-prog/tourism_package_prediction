@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/3f270780641a46ee9212b0a2b76a9558/artifacts
+end_time: 1765093862339
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 3f270780641a46ee9212b0a2b76a9558
+run_name: wise-newt-682
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093862274
+status: 3
+tags: []
+user_id: root

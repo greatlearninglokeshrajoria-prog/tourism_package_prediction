@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/69091e1fd64d47cb8b02176d52e5a42b/artifacts
+end_time: 1765093877670
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 69091e1fd64d47cb8b02176d52e5a42b
+run_name: capable-cub-70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093877560
+status: 3
+tags: []
+user_id: root

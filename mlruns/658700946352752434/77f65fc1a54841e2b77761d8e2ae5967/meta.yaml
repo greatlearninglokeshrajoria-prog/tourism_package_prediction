@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/77f65fc1a54841e2b77761d8e2ae5967/artifacts
+end_time: 1765093874085
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 77f65fc1a54841e2b77761d8e2ae5967
+run_name: incongruous-pug-684
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093873966
+status: 3
+tags: []
+user_id: root

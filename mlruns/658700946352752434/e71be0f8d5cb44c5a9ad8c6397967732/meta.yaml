@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/e71be0f8d5cb44c5a9ad8c6397967732/artifacts
+end_time: 1765093866182
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: e71be0f8d5cb44c5a9ad8c6397967732
+run_name: illustrious-seal-648
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093866078
+status: 3
+tags: []
+user_id: root

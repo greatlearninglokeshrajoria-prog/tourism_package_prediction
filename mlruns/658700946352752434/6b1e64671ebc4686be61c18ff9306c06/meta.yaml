@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/6b1e64671ebc4686be61c18ff9306c06/artifacts
+end_time: 1765093924607
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 6b1e64671ebc4686be61c18ff9306c06
+run_name: secretive-donkey-564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093924531
+status: 3
+tags: []
+user_id: root

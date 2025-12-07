@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/248382c761ab4967af56d6e04d137d67/artifacts
+end_time: 1765093934877
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 248382c761ab4967af56d6e04d137d67
+run_name: powerful-deer-262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093934745
+status: 3
+tags: []
+user_id: root

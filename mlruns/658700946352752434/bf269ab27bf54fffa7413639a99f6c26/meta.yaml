@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/bf269ab27bf54fffa7413639a99f6c26/artifacts
+end_time: 1765093871179
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: bf269ab27bf54fffa7413639a99f6c26
+run_name: industrious-fowl-574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093871060
+status: 3
+tags: []
+user_id: root

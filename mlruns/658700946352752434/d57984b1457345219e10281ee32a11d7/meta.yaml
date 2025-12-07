@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/d57984b1457345219e10281ee32a11d7/artifacts
+end_time: 1765093854884
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: d57984b1457345219e10281ee32a11d7
+run_name: luxuriant-ram-285
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093854823
+status: 3
+tags: []
+user_id: root

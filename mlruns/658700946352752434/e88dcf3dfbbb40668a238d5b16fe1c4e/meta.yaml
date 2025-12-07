@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/e88dcf3dfbbb40668a238d5b16fe1c4e/artifacts
+end_time: 1765093922377
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: e88dcf3dfbbb40668a238d5b16fe1c4e
+run_name: mercurial-squid-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093922289
+status: 3
+tags: []
+user_id: root

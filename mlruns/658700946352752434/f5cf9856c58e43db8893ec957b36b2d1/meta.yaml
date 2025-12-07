@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/f5cf9856c58e43db8893ec957b36b2d1/artifacts
+end_time: 1765093918229
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: f5cf9856c58e43db8893ec957b36b2d1
+run_name: capricious-loon-776
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093918139
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/f2e5f9ef43e3482f9fcf65d097b7a410/artifacts
+end_time: 1765093853571
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: f2e5f9ef43e3482f9fcf65d097b7a410
+run_name: colorful-stag-547
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093853469
+status: 3
+tags: []
+user_id: root

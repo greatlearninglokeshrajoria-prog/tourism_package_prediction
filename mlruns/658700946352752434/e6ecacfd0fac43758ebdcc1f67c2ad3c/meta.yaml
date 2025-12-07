@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/e6ecacfd0fac43758ebdcc1f67c2ad3c/artifacts
+end_time: 1765093880126
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: e6ecacfd0fac43758ebdcc1f67c2ad3c
+run_name: likeable-chimp-5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093880059
+status: 3
+tags: []
+user_id: root

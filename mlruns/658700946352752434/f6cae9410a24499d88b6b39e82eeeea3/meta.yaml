@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/f6cae9410a24499d88b6b39e82eeeea3/artifacts
+end_time: 1765093855445
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: f6cae9410a24499d88b6b39e82eeeea3
+run_name: righteous-robin-103
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093855384
+status: 3
+tags: []
+user_id: root

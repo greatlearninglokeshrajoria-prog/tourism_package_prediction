@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/9ff6201131224ad784846d7ae0600bef/artifacts
+end_time: 1765093905753
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 9ff6201131224ad784846d7ae0600bef
+run_name: receptive-panda-227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093905637
+status: 3
+tags: []
+user_id: root

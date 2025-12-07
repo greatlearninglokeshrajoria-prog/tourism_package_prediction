@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a1ffb62df93e4fa3848668b7d237883d/artifacts
+end_time: 1765093895864
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a1ffb62df93e4fa3848668b7d237883d
+run_name: flawless-owl-842
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093895747
+status: 3
+tags: []
+user_id: root

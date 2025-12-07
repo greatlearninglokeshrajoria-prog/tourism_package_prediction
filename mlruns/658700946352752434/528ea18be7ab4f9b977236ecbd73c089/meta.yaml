@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/528ea18be7ab4f9b977236ecbd73c089/artifacts
+end_time: 1765093924016
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 528ea18be7ab4f9b977236ecbd73c089
+run_name: agreeable-kit-812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093923939
+status: 3
+tags: []
+user_id: root

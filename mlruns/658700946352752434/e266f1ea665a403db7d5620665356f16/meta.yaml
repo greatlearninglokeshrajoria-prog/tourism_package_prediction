@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/e266f1ea665a403db7d5620665356f16/artifacts
+end_time: 1765093928625
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: e266f1ea665a403db7d5620665356f16
+run_name: gregarious-gnat-104
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093928504
+status: 3
+tags: []
+user_id: root

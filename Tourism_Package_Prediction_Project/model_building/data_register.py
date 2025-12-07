@@ -6,7 +6,7 @@ import os
 repo_id = "greatlearninglokeshrajoria/tourism-package-prediction"
 repo_type = "dataset"
 
-os.environ["HF_TOKEN"] = "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"
+os.environ["HF_TOKEN"] = "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"
 
 # Initialize API client - relies on HF_TOKEN being set as an environment variable
 api = HfApi(token=os.getenv("HF_TOKEN"))

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a2e2ec795ba0468c9cc59979ef7903ce/artifacts
+end_time: 1765093897063
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a2e2ec795ba0468c9cc59979ef7903ce
+run_name: able-gnu-268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093896940
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/97a9a49369594221adcc9f81b48c082c/artifacts
+end_time: 1765093877387
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 97a9a49369594221adcc9f81b48c082c
+run_name: indecisive-moose-524
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093877277
+status: 3
+tags: []
+user_id: root

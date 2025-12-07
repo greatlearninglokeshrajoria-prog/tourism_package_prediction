@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/e854da16acee443b904b4a7673e6d0e5/artifacts
+end_time: 1765093931887
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: e854da16acee443b904b4a7673e6d0e5
+run_name: illustrious-fowl-30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093931766
+status: 3
+tags: []
+user_id: root

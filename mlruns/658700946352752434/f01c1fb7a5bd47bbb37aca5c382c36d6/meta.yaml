@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/f01c1fb7a5bd47bbb37aca5c382c36d6/artifacts
+end_time: 1765093864222
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: f01c1fb7a5bd47bbb37aca5c382c36d6
+run_name: zealous-elk-997
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093864157
+status: 3
+tags: []
+user_id: root

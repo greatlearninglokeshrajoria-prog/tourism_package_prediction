@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/d575082f4b034dfb80ea656f4739431e/artifacts
+end_time: 1765093887680
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: d575082f4b034dfb80ea656f4739431e
+run_name: upbeat-shark-821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093887611
+status: 3
+tags: []
+user_id: root

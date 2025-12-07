@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/6e15159b56c64499aeca5cd0297d8302/artifacts
+end_time: 1765093920324
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 6e15159b56c64499aeca5cd0297d8302
+run_name: nebulous-skink-101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093920236
+status: 3
+tags: []
+user_id: root

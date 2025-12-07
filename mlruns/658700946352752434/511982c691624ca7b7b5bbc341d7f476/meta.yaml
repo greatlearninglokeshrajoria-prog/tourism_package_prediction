@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/511982c691624ca7b7b5bbc341d7f476/artifacts
+end_time: 1765093878111
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 511982c691624ca7b7b5bbc341d7f476
+run_name: unleashed-ape-662
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093877994
+status: 3
+tags: []
+user_id: root

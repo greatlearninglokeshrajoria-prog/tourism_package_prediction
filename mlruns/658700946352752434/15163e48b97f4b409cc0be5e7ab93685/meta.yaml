@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/15163e48b97f4b409cc0be5e7ab93685/artifacts
+end_time: 1765093868106
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 15163e48b97f4b409cc0be5e7ab93685
+run_name: beautiful-colt-138
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093867999
+status: 3
+tags: []
+user_id: root

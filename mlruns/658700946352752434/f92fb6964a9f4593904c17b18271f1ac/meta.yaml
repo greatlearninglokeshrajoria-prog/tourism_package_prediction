@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/f92fb6964a9f4593904c17b18271f1ac/artifacts
+end_time: 1765093916916
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: f92fb6964a9f4593904c17b18271f1ac
+run_name: merciful-hen-352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093916794
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a704771e5d4c4e8b81be137ed5db2ca1/artifacts
+end_time: 1765093922479
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a704771e5d4c4e8b81be137ed5db2ca1
+run_name: bright-snipe-83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093922398
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/c97d4f9fc3cd4b29a8865ac11ad3f754/artifacts
+end_time: 1765093889836
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: c97d4f9fc3cd4b29a8865ac11ad3f754
+run_name: melodic-dove-394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093889722
+status: 3
+tags: []
+user_id: root

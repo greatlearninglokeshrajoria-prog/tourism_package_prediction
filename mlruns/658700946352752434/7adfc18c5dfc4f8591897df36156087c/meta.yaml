@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/7adfc18c5dfc4f8591897df36156087c/artifacts
+end_time: 1765093855955
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 7adfc18c5dfc4f8591897df36156087c
+run_name: gifted-moth-409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093855894
+status: 3
+tags: []
+user_id: root

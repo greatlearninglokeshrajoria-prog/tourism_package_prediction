@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/02b5aa03a9c94e4b88def4b58130b5f3/artifacts
+end_time: 1765093867970
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 02b5aa03a9c94e4b88def4b58130b5f3
+run_name: sophisticated-ape-43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093867854
+status: 3
+tags: []
+user_id: root

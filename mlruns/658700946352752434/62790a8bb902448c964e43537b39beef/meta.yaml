@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/62790a8bb902448c964e43537b39beef/artifacts
+end_time: 1765093938644
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 62790a8bb902448c964e43537b39beef
+run_name: wistful-fly-174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093938510
+status: 3
+tags: []
+user_id: root

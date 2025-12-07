@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/06b1583660fe46678f3339f1a6108bea/artifacts
+end_time: 1765093912841
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 06b1583660fe46678f3339f1a6108bea
+run_name: likeable-turtle-284
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093912709
+status: 3
+tags: []
+user_id: root

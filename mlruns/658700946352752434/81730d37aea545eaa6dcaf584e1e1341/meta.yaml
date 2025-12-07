@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/81730d37aea545eaa6dcaf584e1e1341/artifacts
+end_time: 1765093918695
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 81730d37aea545eaa6dcaf584e1e1341
+run_name: popular-worm-784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093918621
+status: 3
+tags: []
+user_id: root

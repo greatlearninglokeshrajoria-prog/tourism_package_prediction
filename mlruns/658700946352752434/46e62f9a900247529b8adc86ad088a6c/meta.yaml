@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/46e62f9a900247529b8adc86ad088a6c/artifacts
+end_time: 1765093936015
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 46e62f9a900247529b8adc86ad088a6c
+run_name: amazing-perch-357
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093935886
+status: 3
+tags: []
+user_id: root

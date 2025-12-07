@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/72654a438cdc44c6ab5c799b05efbe64/artifacts
+end_time: 1765093902564
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 72654a438cdc44c6ab5c799b05efbe64
+run_name: gentle-skink-956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093902447
+status: 3
+tags: []
+user_id: root

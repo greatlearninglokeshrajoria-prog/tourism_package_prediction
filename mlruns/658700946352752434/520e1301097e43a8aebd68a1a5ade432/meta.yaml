@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/520e1301097e43a8aebd68a1a5ade432/artifacts
+end_time: 1765093887416
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 520e1301097e43a8aebd68a1a5ade432
+run_name: bustling-roo-591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093887349
+status: 3
+tags: []
+user_id: root

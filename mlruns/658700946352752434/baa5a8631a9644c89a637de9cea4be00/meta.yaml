@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/baa5a8631a9644c89a637de9cea4be00/artifacts
+end_time: 1765093852383
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: baa5a8631a9644c89a637de9cea4be00
+run_name: omniscient-bat-882
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093852261
+status: 3
+tags: []
+user_id: root

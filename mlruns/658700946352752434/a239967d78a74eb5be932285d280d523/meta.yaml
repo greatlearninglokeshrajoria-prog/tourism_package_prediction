@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a239967d78a74eb5be932285d280d523/artifacts
+end_time: 1765093890688
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a239967d78a74eb5be932285d280d523
+run_name: intelligent-wren-498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093890576
+status: 3
+tags: []
+user_id: root

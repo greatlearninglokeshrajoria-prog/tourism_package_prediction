@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/85d7034933bb4b68ba74ff8df7525a17/artifacts
+end_time: 1765093902713
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 85d7034933bb4b68ba74ff8df7525a17
+run_name: fortunate-vole-308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093902596
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/08681b8a30c549dd8eb321a43ea47778/artifacts
+end_time: 1765093915058
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 08681b8a30c549dd8eb321a43ea47778
+run_name: gregarious-steed-926
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093914915
+status: 3
+tags: []
+user_id: root

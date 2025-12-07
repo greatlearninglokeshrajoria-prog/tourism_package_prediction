@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/2f48f366290a45e2a995b7df5d542a30/artifacts
+end_time: 1765093864812
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 2f48f366290a45e2a995b7df5d542a30
+run_name: ambitious-wasp-560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093864748
+status: 3
+tags: []
+user_id: root

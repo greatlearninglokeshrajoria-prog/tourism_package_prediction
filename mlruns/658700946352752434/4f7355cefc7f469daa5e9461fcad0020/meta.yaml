@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/4f7355cefc7f469daa5e9461fcad0020/artifacts
+end_time: 1765093922760
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 4f7355cefc7f469daa5e9461fcad0020
+run_name: receptive-toad-233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093922687
+status: 3
+tags: []
+user_id: root

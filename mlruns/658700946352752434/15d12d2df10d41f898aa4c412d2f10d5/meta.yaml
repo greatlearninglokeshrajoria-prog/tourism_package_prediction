@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/15d12d2df10d41f898aa4c412d2f10d5/artifacts
+end_time: 1765093878880
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 15d12d2df10d41f898aa4c412d2f10d5
+run_name: handsome-auk-751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093878799
+status: 3
+tags: []
+user_id: root

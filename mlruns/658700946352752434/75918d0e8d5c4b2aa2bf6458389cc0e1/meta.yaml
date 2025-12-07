@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/75918d0e8d5c4b2aa2bf6458389cc0e1/artifacts
+end_time: 1765093894357
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 75918d0e8d5c4b2aa2bf6458389cc0e1
+run_name: spiffy-loon-64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093894230
+status: 3
+tags: []
+user_id: root

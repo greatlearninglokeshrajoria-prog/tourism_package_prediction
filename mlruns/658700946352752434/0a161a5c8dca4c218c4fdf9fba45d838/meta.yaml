@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/0a161a5c8dca4c218c4fdf9fba45d838/artifacts
+end_time: 1765093867262
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 0a161a5c8dca4c218c4fdf9fba45d838
+run_name: likeable-shark-446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093867154
+status: 3
+tags: []
+user_id: root

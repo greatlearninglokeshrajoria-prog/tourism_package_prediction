@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a83d27b87c0f4ce99932b4d9434a0d98/artifacts
+end_time: 1765093874663
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a83d27b87c0f4ce99932b4d9434a0d98
+run_name: debonair-wasp-835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093874545
+status: 3
+tags: []
+user_id: root

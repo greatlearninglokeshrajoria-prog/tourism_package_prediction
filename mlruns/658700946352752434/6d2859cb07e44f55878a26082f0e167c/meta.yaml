@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/6d2859cb07e44f55878a26082f0e167c/artifacts
+end_time: 1765093851471
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 6d2859cb07e44f55878a26082f0e167c
+run_name: zealous-mule-130
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093851373
+status: 3
+tags: []
+user_id: root

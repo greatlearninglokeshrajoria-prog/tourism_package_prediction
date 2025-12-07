@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/7014c9681b5c4867abeed62572ac0744/artifacts
+end_time: 1765093869449
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 7014c9681b5c4867abeed62572ac0744
+run_name: luminous-zebra-383
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093869325
+status: 3
+tags: []
+user_id: root

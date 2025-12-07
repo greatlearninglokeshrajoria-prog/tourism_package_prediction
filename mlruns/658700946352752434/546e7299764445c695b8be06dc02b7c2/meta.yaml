@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/546e7299764445c695b8be06dc02b7c2/artifacts
+end_time: 1765093855283
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 546e7299764445c695b8be06dc02b7c2
+run_name: invincible-cub-769
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093855219
+status: 3
+tags: []
+user_id: root

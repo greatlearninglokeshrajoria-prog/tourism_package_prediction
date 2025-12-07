@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/ea32b625a9b5444f95b43521c278625e/artifacts
+end_time: 1765093930445
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: ea32b625a9b5444f95b43521c278625e
+run_name: rare-flea-417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093930299
+status: 3
+tags: []
+user_id: root

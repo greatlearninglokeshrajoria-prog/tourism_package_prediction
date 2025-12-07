@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/49048f7951ea42c0884c29e43e2e329c/artifacts
+end_time: 1765093920026
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 49048f7951ea42c0884c29e43e2e329c
+run_name: adventurous-hawk-567
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093919955
+status: 3
+tags: []
+user_id: root

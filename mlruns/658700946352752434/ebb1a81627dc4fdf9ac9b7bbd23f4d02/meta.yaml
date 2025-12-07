@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/ebb1a81627dc4fdf9ac9b7bbd23f4d02/artifacts
+end_time: 1765093897656
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: ebb1a81627dc4fdf9ac9b7bbd23f4d02
+run_name: burly-crow-505
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093897539
+status: 3
+tags: []
+user_id: root

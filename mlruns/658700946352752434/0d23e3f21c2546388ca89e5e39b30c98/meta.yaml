@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/0d23e3f21c2546388ca89e5e39b30c98/artifacts
+end_time: 1765093894200
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 0d23e3f21c2546388ca89e5e39b30c98
+run_name: debonair-quail-287
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093894086
+status: 3
+tags: []
+user_id: root

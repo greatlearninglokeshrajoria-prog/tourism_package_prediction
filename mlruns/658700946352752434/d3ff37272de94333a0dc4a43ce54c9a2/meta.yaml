@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/d3ff37272de94333a0dc4a43ce54c9a2/artifacts
+end_time: 1765093909874
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: d3ff37272de94333a0dc4a43ce54c9a2
+run_name: legendary-ram-199
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093909746
+status: 3
+tags: []
+user_id: root

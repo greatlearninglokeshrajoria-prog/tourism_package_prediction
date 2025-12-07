@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/2c93cc072a954c8880c27d20838b55ff/artifacts
+end_time: 1765093860311
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 2c93cc072a954c8880c27d20838b55ff
+run_name: gentle-roo-87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093860245
+status: 3
+tags: []
+user_id: root

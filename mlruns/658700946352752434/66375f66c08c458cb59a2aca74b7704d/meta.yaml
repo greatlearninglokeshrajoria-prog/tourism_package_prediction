@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/66375f66c08c458cb59a2aca74b7704d/artifacts
+end_time: 1765093860563
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 66375f66c08c458cb59a2aca74b7704d
+run_name: receptive-ox-441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093860499
+status: 3
+tags: []
+user_id: root

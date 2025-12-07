@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/59d6f1bf62b449eabc83250129d11a3c/artifacts
+end_time: 1765093886449
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 59d6f1bf62b449eabc83250129d11a3c
+run_name: painted-dove-483
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093886381
+status: 3
+tags: []
+user_id: root

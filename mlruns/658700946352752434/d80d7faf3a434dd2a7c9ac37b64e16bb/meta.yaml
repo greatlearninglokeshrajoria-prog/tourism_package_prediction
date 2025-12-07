@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/d80d7faf3a434dd2a7c9ac37b64e16bb/artifacts
+end_time: 1765093853288
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: d80d7faf3a434dd2a7c9ac37b64e16bb
+run_name: powerful-calf-938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093853186
+status: 3
+tags: []
+user_id: root

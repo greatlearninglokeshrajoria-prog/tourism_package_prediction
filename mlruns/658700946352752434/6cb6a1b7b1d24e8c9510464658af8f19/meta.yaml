@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/6cb6a1b7b1d24e8c9510464658af8f19/artifacts
+end_time: 1765093920898
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 6cb6a1b7b1d24e8c9510464658af8f19
+run_name: melodic-whale-290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093920816
+status: 3
+tags: []
+user_id: root

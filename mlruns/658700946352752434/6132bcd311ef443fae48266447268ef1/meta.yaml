@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/6132bcd311ef443fae48266447268ef1/artifacts
+end_time: 1765093860399
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 6132bcd311ef443fae48266447268ef1
+run_name: sincere-wasp-693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093860329
+status: 3
+tags: []
+user_id: root

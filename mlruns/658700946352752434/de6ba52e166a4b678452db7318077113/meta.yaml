@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/de6ba52e166a4b678452db7318077113/artifacts
+end_time: 1765093916454
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: de6ba52e166a4b678452db7318077113
+run_name: fun-colt-387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093916334
+status: 3
+tags: []
+user_id: root

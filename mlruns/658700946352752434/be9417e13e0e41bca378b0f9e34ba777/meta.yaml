@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/be9417e13e0e41bca378b0f9e34ba777/artifacts
+end_time: 1765093929114
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: be9417e13e0e41bca378b0f9e34ba777
+run_name: illustrious-wasp-725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093928977
+status: 3
+tags: []
+user_id: root

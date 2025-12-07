@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/f64779e569064b5a8b4b3b61ef1c65ba/artifacts
+end_time: 1765093919269
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: f64779e569064b5a8b4b3b61ef1c65ba
+run_name: fearless-panda-836
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093919184
+status: 3
+tags: []
+user_id: root

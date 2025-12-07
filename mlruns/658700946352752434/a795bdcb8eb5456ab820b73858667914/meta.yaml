@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a795bdcb8eb5456ab820b73858667914/artifacts
+end_time: 1765093925330
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a795bdcb8eb5456ab820b73858667914
+run_name: bedecked-lynx-695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093925208
+status: 3
+tags: []
+user_id: root

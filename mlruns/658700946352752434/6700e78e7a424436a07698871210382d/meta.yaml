@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/6700e78e7a424436a07698871210382d/artifacts
+end_time: 1765093911123
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 6700e78e7a424436a07698871210382d
+run_name: chill-cat-60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093910997
+status: 3
+tags: []
+user_id: root

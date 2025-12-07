@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/de51fa18af8945f6865d9a60b2056e3b/artifacts
+end_time: 1765093876105
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: de51fa18af8945f6865d9a60b2056e3b
+run_name: skillful-croc-528
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093875988
+status: 3
+tags: []
+user_id: root

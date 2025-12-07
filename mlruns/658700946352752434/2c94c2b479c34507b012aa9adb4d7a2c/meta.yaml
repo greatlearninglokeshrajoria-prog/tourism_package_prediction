@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/2c94c2b479c34507b012aa9adb4d7a2c/artifacts
+end_time: 1765093863365
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 2c94c2b479c34507b012aa9adb4d7a2c
+run_name: skillful-shoat-146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093863299
+status: 3
+tags: []
+user_id: root

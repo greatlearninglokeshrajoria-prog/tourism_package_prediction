@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/1923501ab7a9473daf75e30f2c1005f3/artifacts
+end_time: 1765093904550
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 1923501ab7a9473daf75e30f2c1005f3
+run_name: languid-ant-4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093904433
+status: 3
+tags: []
+user_id: root

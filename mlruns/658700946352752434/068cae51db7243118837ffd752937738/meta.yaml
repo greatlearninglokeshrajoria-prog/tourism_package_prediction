@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/068cae51db7243118837ffd752937738/artifacts
+end_time: 1765093919071
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 068cae51db7243118837ffd752937738
+run_name: orderly-hen-476
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093918993
+status: 3
+tags: []
+user_id: root

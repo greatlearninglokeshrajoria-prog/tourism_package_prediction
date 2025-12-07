@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/3cd27591828f440dbe70827adfd04c0b/artifacts
+end_time: 1765093882797
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 3cd27591828f440dbe70827adfd04c0b
+run_name: sedate-elk-676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093882729
+status: 3
+tags: []
+user_id: root

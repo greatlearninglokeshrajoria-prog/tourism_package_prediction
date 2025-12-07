@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/d69f621684dd4c158df41333eb2fad47/artifacts
+end_time: 1765093871612
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: d69f621684dd4c158df41333eb2fad47
+run_name: exultant-snipe-849
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093871503
+status: 3
+tags: []
+user_id: root

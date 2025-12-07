@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/8e92bae81bda49a0bebde84083366477/artifacts
+end_time: 1765093875380
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 8e92bae81bda49a0bebde84083366477
+run_name: blushing-foal-731
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093875270
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/1756738e758d4b82b6b30101dabdfc51/artifacts
+end_time: 1765093880403
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 1756738e758d4b82b6b30101dabdfc51
+run_name: rogue-horse-797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093880335
+status: 3
+tags: []
+user_id: root

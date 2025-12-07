@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/9388d3741bc64bd6a46dd11510825f7e/artifacts
+end_time: 1765093850088
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 9388d3741bc64bd6a46dd11510825f7e
+run_name: monumental-moose-305
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093850026
+status: 3
+tags: []
+user_id: root

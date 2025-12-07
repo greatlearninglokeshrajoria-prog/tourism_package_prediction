@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/d32d844590b04831a489f39b3c1de06e/artifacts
+end_time: 1765093857649
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: d32d844590b04831a489f39b3c1de06e
+run_name: rogue-turtle-281
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093857570
+status: 3
+tags: []
+user_id: root

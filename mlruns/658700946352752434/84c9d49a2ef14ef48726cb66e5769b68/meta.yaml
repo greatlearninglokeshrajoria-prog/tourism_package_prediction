@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/84c9d49a2ef14ef48726cb66e5769b68/artifacts
+end_time: 1765093928000
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 84c9d49a2ef14ef48726cb66e5769b68
+run_name: respected-foal-261
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093927882
+status: 3
+tags: []
+user_id: root

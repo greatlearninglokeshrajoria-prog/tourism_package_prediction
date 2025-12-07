@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/349c5715e78743fda772f1686a4310d5/artifacts
+end_time: 1765093911747
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 349c5715e78743fda772f1686a4310d5
+run_name: efficient-ant-927
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093911607
+status: 3
+tags: []
+user_id: root

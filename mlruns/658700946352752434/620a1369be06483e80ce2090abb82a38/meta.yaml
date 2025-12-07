@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/620a1369be06483e80ce2090abb82a38/artifacts
+end_time: 1765093906809
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 620a1369be06483e80ce2090abb82a38
+run_name: casual-goat-51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093906686
+status: 3
+tags: []
+user_id: root

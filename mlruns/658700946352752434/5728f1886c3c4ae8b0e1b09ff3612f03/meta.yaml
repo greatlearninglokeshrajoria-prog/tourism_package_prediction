@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/5728f1886c3c4ae8b0e1b09ff3612f03/artifacts
+end_time: 1765093931733
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 5728f1886c3c4ae8b0e1b09ff3612f03
+run_name: shivering-ape-43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093931601
+status: 3
+tags: []
+user_id: root

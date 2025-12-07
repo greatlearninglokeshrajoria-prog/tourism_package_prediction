@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/f2eb3f923f5947908ca7f9c6b96ce1b4/artifacts
+end_time: 1765093907408
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: f2eb3f923f5947908ca7f9c6b96ce1b4
+run_name: exultant-turtle-938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093907292
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/53f26840505246518d59e45e9245e2c5/artifacts
+end_time: 1765093855876
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 53f26840505246518d59e45e9245e2c5
+run_name: amusing-jay-19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093855814
+status: 3
+tags: []
+user_id: root

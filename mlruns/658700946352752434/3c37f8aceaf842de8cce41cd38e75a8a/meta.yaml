@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/3c37f8aceaf842de8cce41cd38e75a8a/artifacts
+end_time: 1765093908018
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 3c37f8aceaf842de8cce41cd38e75a8a
+run_name: bustling-owl-273
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093907893
+status: 3
+tags: []
+user_id: root

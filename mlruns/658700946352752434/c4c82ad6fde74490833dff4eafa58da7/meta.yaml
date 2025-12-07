@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/c4c82ad6fde74490833dff4eafa58da7/artifacts
+end_time: 1765093863023
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: c4c82ad6fde74490833dff4eafa58da7
+run_name: rogue-snipe-879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093862957
+status: 3
+tags: []
+user_id: root

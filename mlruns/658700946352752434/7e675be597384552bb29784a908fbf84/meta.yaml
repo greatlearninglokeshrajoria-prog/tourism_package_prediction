@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/7e675be597384552bb29784a908fbf84/artifacts
+end_time: 1765093926505
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 7e675be597384552bb29784a908fbf84
+run_name: serious-boar-224
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093926429
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/861fd975efc84946829e9fcb71cc3186/artifacts
+end_time: 1765093883683
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 861fd975efc84946829e9fcb71cc3186
+run_name: selective-squid-270
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093883616
+status: 3
+tags: []
+user_id: root

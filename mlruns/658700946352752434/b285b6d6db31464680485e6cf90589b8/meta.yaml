@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/b285b6d6db31464680485e6cf90589b8/artifacts
+end_time: 1765093887505
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: b285b6d6db31464680485e6cf90589b8
+run_name: efficient-panda-351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093887435
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/e6c2a8f2482d4049a7f49fca88dabf62/artifacts
+end_time: 1765093870601
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: e6c2a8f2482d4049a7f49fca88dabf62
+run_name: hilarious-fly-109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093870487
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/2439afc2cbb04fdcaf65f01641fe4081/artifacts
+end_time: 1765093885819
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 2439afc2cbb04fdcaf65f01641fe4081
+run_name: wise-crane-443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093885751
+status: 3
+tags: []
+user_id: root

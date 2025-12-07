@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/d840c177a4754c6ca3152a149203b85c/artifacts
+end_time: 1765093884310
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: d840c177a4754c6ca3152a149203b85c
+run_name: luminous-dove-366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093884238
+status: 3
+tags: []
+user_id: root

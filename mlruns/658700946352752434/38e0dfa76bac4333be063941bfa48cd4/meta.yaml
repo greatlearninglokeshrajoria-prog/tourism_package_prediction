@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/38e0dfa76bac4333be063941bfa48cd4/artifacts
+end_time: 1765093872788
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 38e0dfa76bac4333be063941bfa48cd4
+run_name: overjoyed-fox-480
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093872677
+status: 3
+tags: []
+user_id: root

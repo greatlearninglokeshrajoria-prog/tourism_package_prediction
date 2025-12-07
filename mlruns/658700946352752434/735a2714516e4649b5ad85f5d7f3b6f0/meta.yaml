@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/735a2714516e4649b5ad85f5d7f3b6f0/artifacts
+end_time: 1765093921779
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 735a2714516e4649b5ad85f5d7f3b6f0
+run_name: funny-bird-424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093921702
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/69da4740d063427586cc59952b1d5cfe/artifacts
+end_time: 1765093850008
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 69da4740d063427586cc59952b1d5cfe
+run_name: dazzling-bear-210
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093849942
+status: 3
+tags: []
+user_id: root

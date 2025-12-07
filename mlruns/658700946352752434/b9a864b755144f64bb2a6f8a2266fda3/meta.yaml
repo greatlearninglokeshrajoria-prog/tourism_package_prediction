@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/b9a864b755144f64bb2a6f8a2266fda3/artifacts
+end_time: 1765093911273
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: b9a864b755144f64bb2a6f8a2266fda3
+run_name: masked-moose-13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093911155
+status: 3
+tags: []
+user_id: root

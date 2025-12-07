@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/c0d875d2197b4b13afdb5d2c2f73f7c1/artifacts
+end_time: 1765093919934
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: c0d875d2197b4b13afdb5d2c2f73f7c1
+run_name: rogue-kit-202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093919858
+status: 3
+tags: []
+user_id: root

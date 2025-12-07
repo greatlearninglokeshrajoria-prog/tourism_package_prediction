@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/f6f51ecfbb4c4b5cb0adb0db302d55e7/artifacts
+end_time: 1765093864056
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: f6f51ecfbb4c4b5cb0adb0db302d55e7
+run_name: kindly-rat-136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093863990
+status: 3
+tags: []
+user_id: root

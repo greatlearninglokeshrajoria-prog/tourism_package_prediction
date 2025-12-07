@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a7607d2a79e2432a8c46c615eb9b2c02/artifacts
+end_time: 1765093935693
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a7607d2a79e2432a8c46c615eb9b2c02
+run_name: awesome-bird-398
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093935564
+status: 3
+tags: []
+user_id: root

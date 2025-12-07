@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/dede2c1e7a614b7cad1c6f91cb81778d/artifacts
+end_time: 1765093889389
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: dede2c1e7a614b7cad1c6f91cb81778d
+run_name: resilient-panda-669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093889277
+status: 3
+tags: []
+user_id: root

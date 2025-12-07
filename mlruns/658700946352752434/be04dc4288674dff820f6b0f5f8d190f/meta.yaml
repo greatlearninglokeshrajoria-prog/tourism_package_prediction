@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/be04dc4288674dff820f6b0f5f8d190f/artifacts
+end_time: 1765093899798
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: be04dc4288674dff820f6b0f5f8d190f
+run_name: thoughtful-fox-486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093899674
+status: 3
+tags: []
+user_id: root

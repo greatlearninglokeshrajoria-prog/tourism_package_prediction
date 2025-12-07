@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/8006ade36a9e4a19a634c5f1a024af5a/artifacts
+end_time: 1765093852639
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 8006ade36a9e4a19a634c5f1a024af5a
+run_name: loud-ray-923
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093852534
+status: 3
+tags: []
+user_id: root

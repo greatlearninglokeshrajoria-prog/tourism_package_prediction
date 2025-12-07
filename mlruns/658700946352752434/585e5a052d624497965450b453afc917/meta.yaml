@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/585e5a052d624497965450b453afc917/artifacts
+end_time: 1765093930241
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 585e5a052d624497965450b453afc917
+run_name: skillful-donkey-512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093930106
+status: 3
+tags: []
+user_id: root

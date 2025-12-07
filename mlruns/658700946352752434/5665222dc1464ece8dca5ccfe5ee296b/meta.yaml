@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/5665222dc1464ece8dca5ccfe5ee296b/artifacts
+end_time: 1765093890262
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 5665222dc1464ece8dca5ccfe5ee296b
+run_name: caring-flea-328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093890147
+status: 3
+tags: []
+user_id: root

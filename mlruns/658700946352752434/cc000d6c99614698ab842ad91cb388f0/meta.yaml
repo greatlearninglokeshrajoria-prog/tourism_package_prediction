@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/cc000d6c99614698ab842ad91cb388f0/artifacts
+end_time: 1765093909104
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: cc000d6c99614698ab842ad91cb388f0
+run_name: unique-hound-947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093908981
+status: 3
+tags: []
+user_id: root

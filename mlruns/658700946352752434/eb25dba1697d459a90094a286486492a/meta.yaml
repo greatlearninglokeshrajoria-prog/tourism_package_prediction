@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/eb25dba1697d459a90094a286486492a/artifacts
+end_time: 1765093863454
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: eb25dba1697d459a90094a286486492a
+run_name: handsome-snake-738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093863383
+status: 3
+tags: []
+user_id: root

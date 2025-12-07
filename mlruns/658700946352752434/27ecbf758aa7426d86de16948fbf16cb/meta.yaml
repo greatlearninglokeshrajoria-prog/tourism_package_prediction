@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/27ecbf758aa7426d86de16948fbf16cb/artifacts
+end_time: 1765093852896
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 27ecbf758aa7426d86de16948fbf16cb
+run_name: gaudy-hog-412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093852795
+status: 3
+tags: []
+user_id: root

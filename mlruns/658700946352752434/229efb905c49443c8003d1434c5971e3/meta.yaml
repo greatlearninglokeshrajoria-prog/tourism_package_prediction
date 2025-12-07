@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/229efb905c49443c8003d1434c5971e3/artifacts
+end_time: 1765093920996
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 229efb905c49443c8003d1434c5971e3
+run_name: tasteful-swan-64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093920922
+status: 3
+tags: []
+user_id: root

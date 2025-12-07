@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/199675413fd74240ac4d9a8ea6c6890f/artifacts
+end_time: 1765093927289
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 199675413fd74240ac4d9a8ea6c6890f
+run_name: indecisive-pig-487
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093927215
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/76edff26e3c142749ca091923e1fbf37/artifacts
+end_time: 1765093861921
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 76edff26e3c142749ca091923e1fbf37
+run_name: bemused-goat-919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093861855
+status: 3
+tags: []
+user_id: root

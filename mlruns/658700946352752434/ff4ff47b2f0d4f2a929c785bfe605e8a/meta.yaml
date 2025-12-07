@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/ff4ff47b2f0d4f2a929c785bfe605e8a/artifacts
+end_time: 1765093882268
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: ff4ff47b2f0d4f2a929c785bfe605e8a
+run_name: trusting-dolphin-578
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093882202
+status: 3
+tags: []
+user_id: root

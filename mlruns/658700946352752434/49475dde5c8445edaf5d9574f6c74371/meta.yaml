@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/49475dde5c8445edaf5d9574f6c74371/artifacts
+end_time: 1765093891394
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 49475dde5c8445edaf5d9574f6c74371
+run_name: abrasive-skink-824
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093891274
+status: 3
+tags: []
+user_id: root

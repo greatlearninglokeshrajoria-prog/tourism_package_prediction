@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/dea0c5e9380f46049d31cdb0e510263c/artifacts
+end_time: 1765093864138
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: dea0c5e9380f46049d31cdb0e510263c
+run_name: dapper-fish-841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093864074
+status: 3
+tags: []
+user_id: root

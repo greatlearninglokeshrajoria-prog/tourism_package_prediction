@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/f3aecf73b2764b61b6dda1d54b44afcc/artifacts
+end_time: 1765093932873
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: f3aecf73b2764b61b6dda1d54b44afcc
+run_name: abrasive-mule-599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093932752
+status: 3
+tags: []
+user_id: root

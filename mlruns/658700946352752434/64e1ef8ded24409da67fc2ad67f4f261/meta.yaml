@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/64e1ef8ded24409da67fc2ad67f4f261/artifacts
+end_time: 1765093891243
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 64e1ef8ded24409da67fc2ad67f4f261
+run_name: invincible-wolf-659
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093891130
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/44a1391221e24a6f9d5613f858387c77/artifacts
+end_time: 1765093913155
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 44a1391221e24a6f9d5613f858387c77
+run_name: amazing-kite-673
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093913036
+status: 3
+tags: []
+user_id: root

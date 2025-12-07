@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/9f41e59828404498a7ef0b6e384d7f12/artifacts
+end_time: 1765093898120
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 9f41e59828404498a7ef0b6e384d7f12
+run_name: enchanting-lamb-542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093898004
+status: 3
+tags: []
+user_id: root

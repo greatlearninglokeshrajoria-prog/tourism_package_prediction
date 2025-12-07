@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/63fec91c01c24d51b9001f907bd52c25/artifacts
+end_time: 1765093882007
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 63fec91c01c24d51b9001f907bd52c25
+run_name: smiling-snail-164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093881928
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/faf07b19d8144dbf8203f6f24fb16112/artifacts
+end_time: 1765093885466
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: faf07b19d8144dbf8203f6f24fb16112
+run_name: persistent-fish-411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093885398
+status: 3
+tags: []
+user_id: root

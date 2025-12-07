@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/6c1f2e5afc9042c3b6687608a2126b02/artifacts
+end_time: 1765093862507
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 6c1f2e5afc9042c3b6687608a2126b02
+run_name: big-gnu-32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093862444
+status: 3
+tags: []
+user_id: root

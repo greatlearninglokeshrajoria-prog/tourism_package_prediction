@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/c3224036087f46f884fcb1cefb5a7140/artifacts
+end_time: 1765093855711
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: c3224036087f46f884fcb1cefb5a7140
+run_name: colorful-fawn-517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093855648
+status: 3
+tags: []
+user_id: root

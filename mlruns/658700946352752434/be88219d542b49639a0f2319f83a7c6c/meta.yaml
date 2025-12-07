@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/be88219d542b49639a0f2319f83a7c6c/artifacts
+end_time: 1765093926316
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: be88219d542b49639a0f2319f83a7c6c
+run_name: righteous-bee-46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093926235
+status: 3
+tags: []
+user_id: root

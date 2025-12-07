@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/aad29e64de574b2e864d3801d8d51174/artifacts
+end_time: 1765093865089
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: aad29e64de574b2e864d3801d8d51174
+run_name: luxuriant-moose-22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093864986
+status: 3
+tags: []
+user_id: root

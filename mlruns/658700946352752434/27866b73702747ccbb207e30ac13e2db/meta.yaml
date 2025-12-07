@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/27866b73702747ccbb207e30ac13e2db/artifacts
+end_time: 1765093897359
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 27866b73702747ccbb207e30ac13e2db
+run_name: calm-mole-887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093897242
+status: 3
+tags: []
+user_id: root

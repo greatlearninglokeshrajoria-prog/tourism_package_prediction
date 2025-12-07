@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/675adaa8461e4ca5927c342f036b17d8/artifacts
+end_time: 1765093925188
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 675adaa8461e4ca5927c342f036b17d8
+run_name: bald-asp-970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093925113
+status: 3
+tags: []
+user_id: root

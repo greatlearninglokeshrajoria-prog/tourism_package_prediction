@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/badc6389c1f44b568336483d8b1117ae/artifacts
+end_time: 1765093857292
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: badc6389c1f44b568336483d8b1117ae
+run_name: upbeat-snail-572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093857222
+status: 3
+tags: []
+user_id: root

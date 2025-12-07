@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/28b900b3f0cc4ca98acd9e46bbe0ae1c/artifacts
+end_time: 1765093858067
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 28b900b3f0cc4ca98acd9e46bbe0ae1c
+run_name: intelligent-hog-121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093857999
+status: 3
+tags: []
+user_id: root

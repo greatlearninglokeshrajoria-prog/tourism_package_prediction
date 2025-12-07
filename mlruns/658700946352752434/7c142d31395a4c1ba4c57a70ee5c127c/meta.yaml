@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/7c142d31395a4c1ba4c57a70ee5c127c/artifacts
+end_time: 1765093937328
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 7c142d31395a4c1ba4c57a70ee5c127c
+run_name: omniscient-pig-756
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093937187
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/80fb35848d6d4a3f90fc4990482924cc/artifacts
+end_time: 1765093873799
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 80fb35848d6d4a3f90fc4990482924cc
+run_name: nimble-ray-421
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093873686
+status: 3
+tags: []
+user_id: root

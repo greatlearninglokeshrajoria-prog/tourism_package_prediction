@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/72af84825dce4d21a34603646998de6d/artifacts
+end_time: 1765093881645
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 72af84825dce4d21a34603646998de6d
+run_name: amusing-hen-661
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093881574
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/e183c5598b9c443db9b211e43f5d43d7/artifacts
+end_time: 1765093858478
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: e183c5598b9c443db9b211e43f5d43d7
+run_name: righteous-pug-841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093858411
+status: 3
+tags: []
+user_id: root

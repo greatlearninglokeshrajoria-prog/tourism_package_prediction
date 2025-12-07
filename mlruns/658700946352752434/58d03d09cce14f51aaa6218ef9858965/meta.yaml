@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/58d03d09cce14f51aaa6218ef9858965/artifacts
+end_time: 1765093920423
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 58d03d09cce14f51aaa6218ef9858965
+run_name: marvelous-robin-308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093920344
+status: 3
+tags: []
+user_id: root

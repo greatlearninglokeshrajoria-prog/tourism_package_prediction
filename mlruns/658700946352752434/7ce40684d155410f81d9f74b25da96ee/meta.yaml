@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/7ce40684d155410f81d9f74b25da96ee/artifacts
+end_time: 1765093861836
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 7ce40684d155410f81d9f74b25da96ee
+run_name: polite-koi-380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093861769
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/3fa735f0c1864010ae624478d735c50d/artifacts
+end_time: 1765093936509
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 3fa735f0c1864010ae624478d735c50d
+run_name: luxuriant-grub-80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093936382
+status: 3
+tags: []
+user_id: root

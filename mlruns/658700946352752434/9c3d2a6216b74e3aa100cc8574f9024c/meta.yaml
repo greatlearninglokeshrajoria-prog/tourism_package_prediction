@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/9c3d2a6216b74e3aa100cc8574f9024c/artifacts
+end_time: 1765093920797
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 9c3d2a6216b74e3aa100cc8574f9024c
+run_name: magnificent-hawk-136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093920723
+status: 3
+tags: []
+user_id: root

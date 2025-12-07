@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/7991cbc58ea64e0294aa7564dd075390/artifacts
+end_time: 1765093875958
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 7991cbc58ea64e0294aa7564dd075390
+run_name: thoughtful-fowl-742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093875849
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a698c3b4c4bd419bb00e78134d172f9c/artifacts
+end_time: 1765093864956
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a698c3b4c4bd419bb00e78134d172f9c
+run_name: resilient-goat-203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093864841
+status: 3
+tags: []
+user_id: root

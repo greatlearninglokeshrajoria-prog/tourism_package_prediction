@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/ca29482d50534c42aa0f615ff0d239db/artifacts
+end_time: 1765093851864
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: ca29482d50534c42aa0f615ff0d239db
+run_name: trusting-mole-576
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093851764
+status: 3
+tags: []
+user_id: root

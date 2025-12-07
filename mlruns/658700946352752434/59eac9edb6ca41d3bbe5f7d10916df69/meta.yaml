@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/59eac9edb6ca41d3bbe5f7d10916df69/artifacts
+end_time: 1765093928942
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 59eac9edb6ca41d3bbe5f7d10916df69
+run_name: nosy-quail-812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093928820
+status: 3
+tags: []
+user_id: root

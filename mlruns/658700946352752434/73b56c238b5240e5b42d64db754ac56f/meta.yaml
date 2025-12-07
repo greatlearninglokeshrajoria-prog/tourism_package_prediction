@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/73b56c238b5240e5b42d64db754ac56f/artifacts
+end_time: 1765093926810
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 73b56c238b5240e5b42d64db754ac56f
+run_name: awesome-squid-74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093926735
+status: 3
+tags: []
+user_id: root

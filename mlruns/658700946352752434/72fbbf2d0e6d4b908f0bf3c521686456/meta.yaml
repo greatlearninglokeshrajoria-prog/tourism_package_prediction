@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/72fbbf2d0e6d4b908f0bf3c521686456/artifacts
+end_time: 1765093859359
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 72fbbf2d0e6d4b908f0bf3c521686456
+run_name: handsome-pig-757
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093859291
+status: 3
+tags: []
+user_id: root

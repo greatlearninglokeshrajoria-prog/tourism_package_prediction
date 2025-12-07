@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/7d7b4cef71614b8798fc3a7bcca75735/artifacts
+end_time: 1765093850436
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 7d7b4cef71614b8798fc3a7bcca75735
+run_name: illustrious-bird-827
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093850332
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/39da9838c8d54af6a34abdb0a63b24cd/artifacts
+end_time: 1765093918121
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 39da9838c8d54af6a34abdb0a63b24cd
+run_name: bouncy-grouse-112
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093918050
+status: 3
+tags: []
+user_id: root

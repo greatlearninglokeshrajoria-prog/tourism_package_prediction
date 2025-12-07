@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/90b88100f48e44638add2111cc248a33/artifacts
+end_time: 1765093857552
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 90b88100f48e44638add2111cc248a33
+run_name: placid-frog-297
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093857486
+status: 3
+tags: []
+user_id: root

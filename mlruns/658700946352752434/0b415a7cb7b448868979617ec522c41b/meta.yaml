@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/0b415a7cb7b448868979617ec522c41b/artifacts
+end_time: 1765093937489
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 0b415a7cb7b448868979617ec522c41b
+run_name: bittersweet-loon-365
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093937361
+status: 3
+tags: []
+user_id: root

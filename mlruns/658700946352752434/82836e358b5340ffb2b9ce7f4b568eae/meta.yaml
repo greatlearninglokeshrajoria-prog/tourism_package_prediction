@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/82836e358b5340ffb2b9ce7f4b568eae/artifacts
+end_time: 1765093876246
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 82836e358b5340ffb2b9ce7f4b568eae
+run_name: unequaled-shoat-957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093876135
+status: 3
+tags: []
+user_id: root

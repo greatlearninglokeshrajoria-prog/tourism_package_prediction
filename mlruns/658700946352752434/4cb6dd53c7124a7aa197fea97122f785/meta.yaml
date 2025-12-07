@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/4cb6dd53c7124a7aa197fea97122f785/artifacts
+end_time: 1765093904856
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 4cb6dd53c7124a7aa197fea97122f785
+run_name: colorful-roo-970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093904734
+status: 3
+tags: []
+user_id: root

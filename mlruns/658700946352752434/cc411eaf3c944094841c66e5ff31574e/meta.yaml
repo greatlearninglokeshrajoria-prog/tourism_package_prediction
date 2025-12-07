@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/cc411eaf3c944094841c66e5ff31574e/artifacts
+end_time: 1765093900285
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: cc411eaf3c944094841c66e5ff31574e
+run_name: bedecked-moose-875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093900165
+status: 3
+tags: []
+user_id: root

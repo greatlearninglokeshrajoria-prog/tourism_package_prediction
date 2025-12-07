@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/82809f84655b41dd9dd6f3d71b24efdb/artifacts
+end_time: 1765093855547
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 82809f84655b41dd9dd6f3d71b24efdb
+run_name: trusting-ray-482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093855463
+status: 3
+tags: []
+user_id: root

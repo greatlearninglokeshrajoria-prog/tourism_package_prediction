@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/6db249e2e1dc47d5b43fe05f572e3c4e/artifacts
+end_time: 1765093898427
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 6db249e2e1dc47d5b43fe05f572e3c4e
+run_name: capable-eel-215
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093898311
+status: 3
+tags: []
+user_id: root

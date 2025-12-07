@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/75756aca2df54fbeafc7243210c5e0df/artifacts
+end_time: 1765093885378
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 75756aca2df54fbeafc7243210c5e0df
+run_name: legendary-crow-16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093885306
+status: 3
+tags: []
+user_id: root

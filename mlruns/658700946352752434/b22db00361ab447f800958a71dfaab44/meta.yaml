@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/b22db00361ab447f800958a71dfaab44/artifacts
+end_time: 1765093865502
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: b22db00361ab447f800958a71dfaab44
+run_name: youthful-hog-847
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093865385
+status: 3
+tags: []
+user_id: root

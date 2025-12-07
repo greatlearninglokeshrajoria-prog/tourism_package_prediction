@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/7c6898dffaf8408d977e9d92e6b8a8e5/artifacts
+end_time: 1765093880223
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 7c6898dffaf8408d977e9d92e6b8a8e5
+run_name: adventurous-crab-37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093880146
+status: 3
+tags: []
+user_id: root

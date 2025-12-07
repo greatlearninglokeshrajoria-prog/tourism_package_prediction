@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/02ca24005f944b04958198685c3fe5bf/artifacts
+end_time: 1765093873222
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 02ca24005f944b04958198685c3fe5bf
+run_name: delicate-conch-468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093873104
+status: 3
+tags: []
+user_id: root

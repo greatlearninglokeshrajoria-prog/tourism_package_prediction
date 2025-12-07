@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/786a2f5a06e84a41af751d8a7601c7a5/artifacts
+end_time: 1765093857468
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 786a2f5a06e84a41af751d8a7601c7a5
+run_name: unleashed-eel-406
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093857404
+status: 3
+tags: []
+user_id: root

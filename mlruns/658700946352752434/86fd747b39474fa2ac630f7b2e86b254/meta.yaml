@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/86fd747b39474fa2ac630f7b2e86b254/artifacts
+end_time: 1765093904100
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 86fd747b39474fa2ac630f7b2e86b254
+run_name: clumsy-sheep-516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093903975
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/385103e45b8a45319a9d2981f24b79d3/artifacts
+end_time: 1765093878253
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 385103e45b8a45319a9d2981f24b79d3
+run_name: flawless-horse-540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093878140
+status: 3
+tags: []
+user_id: root

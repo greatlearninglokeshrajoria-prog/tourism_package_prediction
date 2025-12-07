@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/8626e064053d4ce2b024cb05dd7331c7/artifacts
+end_time: 1765093892866
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 8626e064053d4ce2b024cb05dd7331c7
+run_name: likeable-gull-119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093892748
+status: 3
+tags: []
+user_id: root

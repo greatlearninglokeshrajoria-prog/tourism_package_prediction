@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/2a97695f0a634baaaa487c37d85341f7/artifacts
+end_time: 1765093934214
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 2a97695f0a634baaaa487c37d85341f7
+run_name: calm-penguin-903
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093934065
+status: 3
+tags: []
+user_id: root

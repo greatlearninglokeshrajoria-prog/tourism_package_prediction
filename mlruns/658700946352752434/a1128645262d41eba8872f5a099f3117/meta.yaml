@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/a1128645262d41eba8872f5a099f3117/artifacts
+end_time: 1765093934711
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: a1128645262d41eba8872f5a099f3117
+run_name: carefree-croc-601
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093934583
+status: 3
+tags: []
+user_id: root

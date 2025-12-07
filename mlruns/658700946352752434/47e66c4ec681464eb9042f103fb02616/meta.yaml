@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/47e66c4ec681464eb9042f103fb02616/artifacts
+end_time: 1765093902870
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 47e66c4ec681464eb9042f103fb02616
+run_name: wise-cod-983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093902745
+status: 3
+tags: []
+user_id: root

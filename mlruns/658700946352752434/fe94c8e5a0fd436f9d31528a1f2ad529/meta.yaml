@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/fe94c8e5a0fd436f9d31528a1f2ad529/artifacts
+end_time: 1765093914106
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: fe94c8e5a0fd436f9d31528a1f2ad529
+run_name: wise-trout-785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093913981
+status: 3
+tags: []
+user_id: root

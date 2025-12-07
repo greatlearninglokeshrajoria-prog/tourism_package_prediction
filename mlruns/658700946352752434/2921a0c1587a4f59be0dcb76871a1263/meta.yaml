@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/2921a0c1587a4f59be0dcb76871a1263/artifacts
+end_time: 1765093938137
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 2921a0c1587a4f59be0dcb76871a1263
+run_name: amusing-carp-311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093938004
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/05e0753c17af4166986f916b95248d0d/artifacts
+end_time: 1765093880498
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 05e0753c17af4166986f916b95248d0d
+run_name: melodic-mare-433
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093880430
+status: 3
+tags: []
+user_id: root

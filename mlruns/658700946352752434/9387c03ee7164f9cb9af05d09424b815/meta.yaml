@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/9387c03ee7164f9cb9af05d09424b815/artifacts
+end_time: 1765093870321
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 9387c03ee7164f9cb9af05d09424b815
+run_name: ambitious-pug-531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093870204
+status: 3
+tags: []
+user_id: root

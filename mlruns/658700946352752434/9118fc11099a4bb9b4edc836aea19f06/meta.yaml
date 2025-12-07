@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/9118fc11099a4bb9b4edc836aea19f06/artifacts
+end_time: 1765093923633
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 9118fc11099a4bb9b4edc836aea19f06
+run_name: abundant-deer-862
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093923562
+status: 3
+tags: []
+user_id: root

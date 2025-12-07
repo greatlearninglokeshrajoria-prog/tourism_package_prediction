@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/23058258cd1a49d98915d5c00d51323c/artifacts
+end_time: 1765093888312
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 23058258cd1a49d98915d5c00d51323c
+run_name: learned-pug-960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093888235
+status: 3
+tags: []
+user_id: root

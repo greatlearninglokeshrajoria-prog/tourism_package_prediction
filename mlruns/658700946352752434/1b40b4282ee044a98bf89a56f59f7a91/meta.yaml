@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/1b40b4282ee044a98bf89a56f59f7a91/artifacts
+end_time: 1765093879590
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 1b40b4282ee044a98bf89a56f59f7a91
+run_name: brawny-goose-820
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093879520
+status: 3
+tags: []
+user_id: root

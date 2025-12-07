@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/8215b0c6015c4b9298ced7c0a25b0482/artifacts
+end_time: 1765093902417
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 8215b0c6015c4b9298ced7c0a25b0482
+run_name: skillful-shrew-875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093902303
+status: 3
+tags: []
+user_id: root

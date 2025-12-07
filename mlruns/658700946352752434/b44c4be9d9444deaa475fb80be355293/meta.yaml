@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/b44c4be9d9444deaa475fb80be355293/artifacts
+end_time: 1765093933380
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: b44c4be9d9444deaa475fb80be355293
+run_name: debonair-rat-595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093933248
+status: 3
+tags: []
+user_id: root

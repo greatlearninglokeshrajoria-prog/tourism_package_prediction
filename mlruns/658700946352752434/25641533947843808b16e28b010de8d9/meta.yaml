@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/25641533947843808b16e28b010de8d9/artifacts
+end_time: 1765093924507
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 25641533947843808b16e28b010de8d9
+run_name: popular-hen-478
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093924419
+status: 3
+tags: []
+user_id: root

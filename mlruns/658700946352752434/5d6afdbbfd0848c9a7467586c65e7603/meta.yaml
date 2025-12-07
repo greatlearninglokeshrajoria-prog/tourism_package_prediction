@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/5d6afdbbfd0848c9a7467586c65e7603/artifacts
+end_time: 1765093884570
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 5d6afdbbfd0848c9a7467586c65e7603
+run_name: upbeat-asp-132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093884500
+status: 3
+tags: []
+user_id: root

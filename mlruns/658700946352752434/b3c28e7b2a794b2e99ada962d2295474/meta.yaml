@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/b3c28e7b2a794b2e99ada962d2295474/artifacts
+end_time: 1765093896159
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: b3c28e7b2a794b2e99ada962d2295474
+run_name: thoughtful-gnu-833
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093896041
+status: 3
+tags: []
+user_id: root

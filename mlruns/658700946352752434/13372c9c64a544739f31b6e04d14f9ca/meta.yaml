@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/13372c9c64a544739f31b6e04d14f9ca/artifacts
+end_time: 1765093893448
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 13372c9c64a544739f31b6e04d14f9ca
+run_name: amazing-lark-440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093893331
+status: 3
+tags: []
+user_id: root

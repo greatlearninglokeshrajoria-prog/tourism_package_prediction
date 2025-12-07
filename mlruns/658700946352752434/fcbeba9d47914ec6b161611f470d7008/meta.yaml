@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/fcbeba9d47914ec6b161611f470d7008/artifacts
+end_time: 1765093938478
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: fcbeba9d47914ec6b161611f470d7008
+run_name: burly-cod-840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093938349
+status: 3
+tags: []
+user_id: root

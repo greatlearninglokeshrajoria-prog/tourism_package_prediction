@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/029961549b4140c1b134f9ace7c4da4e/artifacts
+end_time: 1765093931570
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: 029961549b4140c1b134f9ace7c4da4e
+run_name: nosy-foal-666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093931445
+status: 3
+tags: []
+user_id: root

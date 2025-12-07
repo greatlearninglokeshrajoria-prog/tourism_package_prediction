@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/658700946352752434/d751cf5fcd304bd28ed8562036730cef/artifacts
+end_time: 1765093903181
+entry_point_name: ''
+experiment_id: '658700946352752434'
+lifecycle_stage: active
+run_id: d751cf5fcd304bd28ed8562036730cef
+run_name: industrious-calf-181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765093903050
+status: 3
+tags: []
+user_id: root
