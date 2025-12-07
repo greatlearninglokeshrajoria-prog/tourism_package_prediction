@@ -16,15 +16,16 @@ def load_model():
      return joblib.load(model_local)
 
 
-  hf_repo = os.getenv('HF_MODEL_REPO')
-  if hf_repo:
-     filename = os.getenv('HF_MODEL_FILENAME', 'tourism_pkg_predition_model_v1.joblib')
-     model_file = hf_hub_download(repo_id=hf_repo, filename=filename, repo_type='model')
-     return joblib.load(model_file)
-
-
-  st.error('Model not found. Set LOCAL_MODEL_PATH or HF_MODEL_REPO environment variable.') 
-  return None
+  # Try HuggingFace repo
+  try:
+      model_file = hf_hub_download(
+          repo_id="greatlearninglokeshrajoria/tourism-package-prediction",
+          filename="tourism_model_xgb_v1.joblib",
+          repo_type="model"
+      )
+      return joblib.load(model_file)
+  except:
+      return None
 
 
 model = load_model()
