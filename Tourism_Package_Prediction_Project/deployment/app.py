@@ -11,14 +11,14 @@ st.set_page_config(page_title='Tourism Package Prediction', layout='wide')
 @st.cache_resource
 def load_model():
   # Either load from local file or HF model repo
-  model_local = os.getenv('LOCAL_MODEL_PATH', 'Tourism_Package_Prediction_Project/model_building/tourism_model_xgb_v1.joblib')
+  model_local = os.getenv('LOCAL_MODEL_PATH', 'Tourism_Package_Prediction_Project/model_building/tourism_pkg_predition_model_v1.joblib')
   if os.path.exists(model_local):
      return joblib.load(model_local)
 
 
   hf_repo = os.getenv('HF_MODEL_REPO')
   if hf_repo:
-     filename = os.getenv('HF_MODEL_FILENAME', 'tourism_model_xgb_v1.joblib')
+     filename = os.getenv('HF_MODEL_FILENAME', 'tourism_pkg_predition_model_v1.joblib')
      model_file = hf_hub_download(repo_id=hf_repo, filename=filename, repo_type='model')
      return joblib.load(model_file)
 
@@ -68,10 +68,10 @@ if submitted:
        }])
 
 
-       try:
+      try:
           proba = model.predict_proba(df)[0, 1]
           pred = model.predict(df)[0]
           st.metric('Purchase probability', f'{proba*100:.2f}%')
           st.success('Will buy package' if pred == 1 else 'Will NOT buy package')
-       except Exception as e:
+      except Exception as e:
           st.error(f'Prediction error: {e}')

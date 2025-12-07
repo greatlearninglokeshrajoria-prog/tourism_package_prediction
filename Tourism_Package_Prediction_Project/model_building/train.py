@@ -1,129 +1,97 @@
-# for data manipulation
 import pandas as pd
-from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.compose import make_column_transformer
+from sklearn.preprocessing import OneHotEncoder
 from sklearn.pipeline import make_pipeline
-# for model training, tuning, and evaluation
+from sklearn.model_selection import GridSearchCV, train_test_split
+from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, roc_auc_score
 import xgboost as xgb
-from sklearn.model_selection import GridSearchCV
-from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
-# for model serialization
 import joblib
-# for creating a folder
-import os
-# for hugging face space authentication to upload files
-from huggingface_hub import login, HfApi, create_repo
-from huggingface_hub.utils import RepositoryNotFoundError, HfHubHTTPError
 import mlflow
+from huggingface_hub import HfApi
 
 mlflow.set_tracking_uri("http://localhost:5000")
 mlflow.set_experiment("mlops-training-experiment")
 
-api = HfApi()
+api = HfApi() # Instantiate HfApi
 
-Xtrain_path = "hf://datasets/greatlearninglokeshrajoria/tourism-package-prediction/Xtrain.csv"
-Xtest_path = "hf://datasets/greatlearninglokeshrajoria/tourism-package-prediction/Xtest.csv"
-ytrain_path = "hf://datasets/greatlearninglokeshrajoria/tourism-package-prediction/ytrain.csv"
-ytest_path = "hf://datasets/greatlearninglokeshrajoria/tourism-package-prediction/ytest.csv"
-
-Xtrain = pd.read_csv(Xtrain_path)
-Xtest = pd.read_csv(Xtest_path)
-ytrain = pd.read_csv(ytrain_path)
-ytest = pd.read_csv(ytest_path)
+# Load HF-processed splits
+Xtrain = pd.read_csv("hf://datasets/greatlearninglokeshrajoria/tourism-package-prediction/Xtrain.csv")
+Xtest = pd.read_csv("hf://datasets/greatlearninglokeshrajoria/tourism-package-prediction/Xtest.csv")
+ytrain = pd.read_csv("hf://datasets/greatlearninglokeshrajoria/tourism-package-prediction/ytrain.csv").squeeze()
+ytest = pd.read_csv("hf://datasets/greatlearninglokeshrajoria/tourism-package-prediction/ytest.csv").squeeze()
 
 cat_cols = ['TypeofContact', 'Occupation', 'ProductPitched',
             'MaritalStatus', 'Designation', 'Gender']
 
-# Preprocessor
+# Preprocessing
 preprocessor = make_column_transformer(
     (OneHotEncoder(handle_unknown='ignore', sparse_output=False), cat_cols),
     remainder='passthrough'
 )
 
-# Define base XGBoost Regressor
-xgb_model = xgb.XGBRegressor(random_state=42, n_jobs=-1)
-
-# Hyperparameter grid
-param_grid = {
-    'xgbregressor__n_estimators': [50, 100, 150],
-    'xgbregressor__max_depth': [3, 5, 7],
-    'xgbregressor__learning_rate': [0.01, 0.05, 0.1],
-    'xgbregressor__subsample': [0.7, 0.8, 1.0],
-    'xgbregressor__colsample_bytree': [0.7, 0.8, 1.0],
-    'xgbregressor__reg_lambda': [0.1, 1, 10]
-}
+# ⭐ FIX 1: Use CLASSIFIER instead of REGRESSOR
+clf = xgb.XGBClassifier(
+    objective="binary:logistic",
+    eval_metric="logloss",
+    random_state=42,
+    n_jobs=-1,
+)
 
 # Pipeline
-model_pipeline = make_pipeline(preprocessor, xgb_model)
+pipeline = make_pipeline(preprocessor, clf)
+
+# Hyperparameters (classifier version)
+param_grid = {
+    'xgbclassifier__n_estimators': [50, 100, 150],
+    'xgbclassifier__max_depth': [3, 5, 7],
+    'xgbclassifier__learning_rate': [0.01, 0.05, 0.1],
+    'xgbclassifier__subsample': [0.7, 0.8, 1.0],
+    'xgbclassifier__colsample_bytree': [0.7, 0.8, 1.0],
+    'xgbclassifier__reg_lambda': [0.1, 1, 10],
+}
 
 with mlflow.start_run():
-    # Grid Search
-    grid_search = GridSearchCV(model_pipeline, param_grid, cv=3, n_jobs=-1, scoring='neg_mean_squared_error')
-    grid_search.fit(Xtrain, ytrain)
 
-    # Log parameter sets
-    results = grid_search.cv_results_
-    for i in range(len(results['params'])):
-        param_set = results['params'][i]
-        mean_score = results['mean_test_score'][i]
+    grid = GridSearchCV(
+        pipeline,
+        param_grid,
+        cv=3,
+        scoring="accuracy",
+        n_jobs=-1
+    )
 
-        with mlflow.start_run(nested=True):
-            mlflow.log_params(param_set)
-            mlflow.log_metric("mean_neg_mse", mean_score)
+    grid.fit(Xtrain, ytrain)
 
-    # Best model
-    mlflow.log_params(grid_search.best_params_)
-    best_model = grid_search.best_estimator_
+    best_model = grid.best_estimator_
 
     # Predictions
-    y_pred_train = best_model.predict(Xtrain)
-    y_pred_test = best_model.predict(Xtest)
+    ypred = best_model.predict(Xtest)
+    yprob = best_model.predict_proba(Xtest)[:, 1]
 
     # Metrics
-    train_rmse = mean_squared_error(ytrain, y_pred_train)
-    test_rmse = mean_squared_error(ytest, y_pred_test)
+    metrics = {
+        "accuracy": accuracy_score(ytest, ypred),
+        "precision": precision_score(ytest, ypred),
+        "recall": recall_score(ytest, ypred),
+        "f1": f1_score(ytest, ypred),
+        "auc": roc_auc_score(ytest, yprob)
+    }
 
-    train_mae = mean_absolute_error(ytrain, y_pred_train)
-    test_mae = mean_absolute_error(ytest, y_pred_test)
+    mlflow.log_metrics(metrics)
+    mlflow.log_params(grid.best_params_)
 
-    train_r2 = r2_score(ytrain, y_pred_train)
-    test_r2 = r2_score(ytest, y_pred_test)
-
-    # Log metrics
-    mlflow.log_metrics({
-        "train_RMSE": train_rmse,
-        "test_RMSE": test_rmse,
-        "train_MAE": train_mae,
-        "test_MAE": test_mae,
-        "train_R2": train_r2,
-        "test_R2": test_r2
-    })
-
-    # Save the model locally
+    # Save model
     model_path = "tourism_pkg_predition_model_v1.joblib"
     joblib.dump(best_model, model_path)
+    mlflow.log_artifact(model_path)
 
-    # Log the model artifact
-    mlflow.log_artifact(model_path, artifact_path="model")
-    print(f"Model saved as artifact at: {model_path}")
-
-    # Upload to Hugging Face
+    # Upload to HF
     repo_id = "greatlearninglokeshrajoria/tourism-package-prediction"
-    repo_type = "model"
-
-    # Step 1: Check if the space exists
-    try:
-        api.repo_info(repo_id=repo_id, repo_type=repo_type)
-        print(f"Space '{repo_id}' already exists. Using it.")
-    except RepositoryNotFoundError:
-        print(f"Space '{repo_id}' not found. Creating new space...")
-        create_repo(repo_id=repo_id, repo_type=repo_type, private=False)
-        print(f"Space '{repo_id}' created.")
-
-    # create_repo("churn-model", repo_type="model", private=False)
     api.upload_file(
-        path_or_fileobj="tourism_pkg_predition_model_v1.joblib",
-        path_in_repo="tourism_pkg_predition_model_v1.joblib",
+        path_or_fileobj=model_path,
+        path_in_repo=model_path,
         repo_id=repo_id,
-        repo_type=repo_type,
+        repo_type="model"
     )
+
+    print("Model uploaded successfully to HuggingFace.")
