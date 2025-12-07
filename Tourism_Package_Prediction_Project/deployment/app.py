@@ -61,19 +61,7 @@ with st.form('input_form'):
       CityTier = st.selectbox('CityTier', [1, 2, 3])
       PreferredPropertyStar = st.selectbox('PreferredPropertyStar', [1, 2, 3, 4, 5])
       Passport = st.selectbox('Passport', [0, 1])
-      OwnCar = st.selectbox('OwnCar', [0, 1])('input_form'):
-      col1, col2 = st.columns(2)
-   with col1:
-      Age = st.number_input('Age', min_value=18, max_value=100, value=33)
-      TypeofContact = st.selectbox('TypeofContact', ['Self', 'Company'])
-      Occupation = st.selectbox('Occupation', ['Salaried', 'Business', 'Retired', 'Student'])
-      ProductPitched = st.selectbox('ProductPitched', ['Basic', 'Standard', 'Deluxe', 'King', 'Premium'])
-      MaritalStatus = st.selectbox('MaritalStatus', ['Single', 'Married', 'Divorced', 'Widowed'])
-   with col2:
-      Designation = st.selectbox('Designation', ['Executive', 'Manager', 'Senior Manager', 'Director', 'Others'])
-      Gender = st.selectbox('Gender', ['Male', 'Female'])
-      MonthlyIncome = st.number_input('MonthlyIncome', min_value=0, value=25000)
-      PitchSatisfactionScore = st.slider('PitchSatisfactionScore', 0, 10, 7)
+      OwnCar = st.selectbox('OwnCar', [0, 1])
 
 
    submitted = st.form_submit_button('Predict')
